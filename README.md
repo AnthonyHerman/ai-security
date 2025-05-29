@@ -21,7 +21,7 @@ https://huggingface.co/datasets/yanismiraoui/prompt_injections \
 https://huggingface.co/datasets/jayavibhav/prompt-injection-safety \
 https://huggingface.co/datasets/jayavibhav/prompt-injection \
 https://huggingface.co/datasets/deepset/prompt-injections \
-https://huggingface.co/datasets/hackaprompt/hackaprompt-dataset \
+https://huggingface.co/datasets/hackaprompt/hackaprompt-dataset 
 
 # Prompt Injection WAFs
 Llama Guard: https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/ \

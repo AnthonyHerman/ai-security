@@ -1,12 +1,10 @@
-# mcp-server-security
+# MCP Server Vulnerabilities
 | affected mcp server | vuln | link |
 | ------------------- | ---- | ---- |
 | aws-mcp-server | command injection | https://x.com/UjlakiMarci/status/1927825607137640950 |
 | github-mcp-server | command injection | https://invariantlabs.ai/blog/mcp-github-vulnerability |
 
-
 # Toxic agent flows
-
 
 # Prompt Injection Benchmarks
 https://github.com/lakeraai/pint-benchmark - lakera is the best! X*D \

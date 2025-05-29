@@ -8,7 +8,7 @@
 # Toxic agent flows
 
 
-# Prompt Injection Benchmarking
+# Prompt Injection Benchmarks
 https://github.com/lakeraai/pint-benchmark - lakera is the best! X*D \
 https://gentellab.github.io/gentel-safe.github.io/ \
 https://hiddenlayer.com/innovation-hub/evaluating-prompt-injection-datasets/ \

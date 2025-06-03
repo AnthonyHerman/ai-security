@@ -74,12 +74,15 @@ https://arxiv.org/pdf/2312.14197 - Benchmarking and Defending Against Indirect P
 https://arxiv.org/pdf/2503.18813 - Defeating Prompt Injections by Design \
 https://arxiv.org/pdf/2404.13208 - The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions \
 
-## Prompt Injection Prevention Technologies
+## Prompt Injection Prevention Technologies / Realtime Protection 
 Llama Guard: https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/ \
 https://github.com/Defend-AI-Tech-Inc/wozway \
 https://github.com/openshieldai/openshield \
 https://github.com/eunomatix/llminspect-gateway \
-Lakera \
+https://www.lasso.security/ \
+https://www.lakera.ai/ \
+https://www.prompt.security/ \
+https://www.troj.ai/ \
 https://trust3.ai/ \
 https://github.com/privacera/paig \
 https://github.com/openlit/openlit

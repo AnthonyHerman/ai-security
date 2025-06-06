@@ -10,6 +10,11 @@ https://www.nccgroup.com/us/research-blog/5-mcp-security-tips/
 
 ## Toxic agent flows
 
+# Secure GenAI (Vibe)Coding
+## Rules Files / System Prompts / Custom Instructions
+https://github.com/untamed-theory/vibesec \
+https://github.com/wiz-sec-public/secure-rules-files
+
 # General
 ## Frameworks
 https://atlas.mitre.org/matrices/ATLAS \

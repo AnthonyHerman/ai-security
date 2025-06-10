@@ -11,6 +11,7 @@ https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-out
 https://github.com/stacklok/toolhive \
 https://github.com/microsandbox/microsandbox \
 https://github.com/tuananh/hyper-mcp \
+https://hack.mcpwned.com/dashboard/scanner
 
 ## Reading
 https://www.nccgroup.com/us/research-blog/5-mcp-security-tips/

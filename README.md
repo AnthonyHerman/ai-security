@@ -5,6 +5,13 @@
 | aws-mcp-server | command injection | https://x.com/UjlakiMarci/status/1927825607137640950 |
 | github-mcp-server | command injection | https://invariantlabs.ai/blog/mcp-github-vulnerability |
 
+https://embracethered.com/blog/posts/2025/model-context-protocol-security-risks-and-exploits/ \
+https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe \
+
+https://github.com/stacklok/toolhive \
+https://github.com/microsandbox/microsandbox \
+https://github.com/tuananh/hyper-mcp \
+
 ## Reading
 https://www.nccgroup.com/us/research-blog/5-mcp-security-tips/
 

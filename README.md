@@ -112,5 +112,5 @@ https://www.dryrun.security/ \
 ## Secrets
 https://ampcode.com/news/secret-redaction
 
-# LLM Scope Violation
+# LLM Scope Violation / Confused Agent/Deputy
 https://www.aim.security/lp/aim-labs-echoleak-blogpost

@@ -13,6 +13,9 @@ https://github.com/microsandbox/microsandbox \
 https://github.com/tuananh/hyper-mcp \
 https://hack.mcpwned.com/dashboard/scanner
 
+### MCP PAM
+https://www.querypie.com/ 
+
 ## Reading
 https://www.nccgroup.com/us/research-blog/5-mcp-security-tips/
 
@@ -108,3 +111,6 @@ https://www.dryrun.security/ \
 # Developer Stuff
 ## Secrets
 https://ampcode.com/news/secret-redaction
+
+# LLM Scope Violation
+https://www.aim.security/lp/aim-labs-echoleak-blogpost

@@ -54,8 +54,9 @@ https://github.com/asgeirtj/system_prompts_leaks
 
 
 ## Attacks / Countermeasures / Research
-https://arxiv.org/html/2505.08807v1 - Security of Internet of Agents: Attacks and Countermeasures
-https://arxiv.org/html/2505.00047v1 - Base Models Beat Aligned Models at Randomness and Creativity
+https://arxiv.org/html/2505.08807v1 - Security of Internet of Agents: Attacks and Countermeasures \
+https://arxiv.org/html/2505.00047v1 - Base Models Beat Aligned Models at Randomness and Creativity \
+https://arxiv.org/pdf/2412.06090 - Trust No AI: Prompt Injection Along The CIA Security Triad
 
 # Prompt Injection
 ## General

@@ -13,7 +13,8 @@ https://github.com/microsandbox/microsandbox \
 https://github.com/tuananh/hyper-mcp \
 https://hack.mcpwned.com/dashboard/scanner \
 https://modelcontextprotocol-security.io \
-https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center
+https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center \
+https://blog.cloudflare.com/zero-trust-mcp-server-portals/
 
 ### MCP PAM
 https://www.querypie.com/ 

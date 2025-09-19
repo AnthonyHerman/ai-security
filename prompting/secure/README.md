@@ -1,0 +1,8 @@
+- https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot
+- https://docs.github.com/en/enterprise-cloud@latest/copilot/customizing-copilot/adding-organization-custom-instructions-for-github-copilot (only enterprise cloud)
+- https://code.visualstudio.com/docs/copilot/copilot-customization#_prompt-files-experimental
+- https://docs.dryrun.security/generic-starter-pack-nlcps
+- https://github.com/wiz-sec-public/secure-rules-files
+- https://github.com/untamed-theory/vibesec
+- https://github.com/Robotti-io/copilot-security-instructions
+- https://github.com/github/awesome-copilot

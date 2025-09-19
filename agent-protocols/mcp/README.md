@@ -1,1 +1,56 @@
+TODO: Org
 
+# Gateways / Proxies
+- https://github.com/metatool-ai/metamcp
+- https://github.com/docker/mcp-gateway
+- https://github.com/AmoyLab/Unla
+- https://github.com/supercorp-ai/supergateway
+- https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/model-context-protocol
+- https://aws.amazon.com/blogs/machine-learning/introducing-amazon-bedrock-agentcore-gateway-transforming-enterprise-ai-agent-tool-development/
+- https://github.com/lasso-security/mcp-gateway
+- https://github.com/mcpjungle/MCPJungle
+- https://github.com/hyprmcp/mcp-gateway
+- https://github.com/IBM/mcp-context-forge
+- https://github.com/agentic-community/mcp-gateway-registry
+- https://mcpmanager.ai/
+- https://stormmcp.ai/home
+- https://mcp-boss.com/
+- https://www.mintmcp.com/
+- https://hyprmcp.com/
+- https://github.com/microsoft/mcp-gateway (https://microsoft.github.io/mcp-gateway/)
+
+# Plugins
+https://audit.agentity.com/ mcp use audit VSCode plugin
+
+# Research
+
+# Building
+- https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/
+- https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol
+- https://www.okta.com/newsroom/press-releases/okta-introduces-cross-app-access-to-help-secure-ai-agents-in-the/
+- https://www.okta.com/newsroom/articles/understanding-the-ai-agent-identity-challenge
+- https://developer.okta.com/blog/2025/06/23/enterprise-ai
+- https://github.com/oktadev/okta-cross-app-access-mcp - cross app access MCP example
+- https://hi120ki.github.io/blog/posts/20250728/
+- https://github.com/modelcontextprotocol/modelcontextprotocol/pull/646
+- https://github.com/NineSunsInc/mighty-security
+- https://github.com/MCP-Manager/MCP-Checklists
+- https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server
+- https://github.com/orgs/modelcontextprotocol/discussions/159
+- https://hub.docker.com/u/mcp
+- https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/
+- https://invariantlabs.ai/blog/toxic-flow-analysis
+- https://simonwillison.net/2025/Aug/9/bay-area-ai/
+- https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b
+- https://www.cerbos.dev/blog/mcp-authorization
+- https://github.com/jaw9c/awesome-remote-mcp-servers
+- https://modelcontextprotocol-security.io/ ***
+- https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center
+- https://modelcontextprotocol.io/clients
+- https://github.com/trailofbits/mcp-context-protector
+- https://github.com/General-Analysis/mcp-guard
+- https://invariantlabs.ai/blog/toxic-flow-analysis
+- https://github.com/invariantlabs-ai/mcp-scan
+
+
+# Risks

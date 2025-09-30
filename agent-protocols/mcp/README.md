@@ -1,6 +1,4 @@
-TODO: Org
-
-# Gateways / Proxies
+## Gateways / Proxies
 - https://github.com/metatool-ai/metamcp
 - https://github.com/docker/mcp-gateway
 - https://github.com/AmoyLab/Unla
@@ -18,13 +16,14 @@ TODO: Org
 - https://www.mintmcp.com/
 - https://hyprmcp.com/
 - https://github.com/microsoft/mcp-gateway (https://microsoft.github.io/mcp-gateway/)
+- https://github.com/obot-platform/obot (https://obot.ai/obot-ai-secures-35m-seed-to-build-enterprise-mcp-gateway/)
 
-# Plugins
+## Plugins
 https://audit.agentity.com/ mcp use audit VSCode plugin
 
-# Research
+## Research
 
-# Building
+## Building / Development
 - https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/
 - https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol
 - https://www.okta.com/newsroom/press-releases/okta-introduces-cross-app-access-to-help-secure-ai-agents-in-the/
@@ -51,6 +50,9 @@ https://audit.agentity.com/ mcp use audit VSCode plugin
 - https://github.com/General-Analysis/mcp-guard
 - https://invariantlabs.ai/blog/toxic-flow-analysis
 - https://github.com/invariantlabs-ai/mcp-scan
+
+## Ownage
+- https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
 
 
 # Risks

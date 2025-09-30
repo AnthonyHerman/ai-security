@@ -20,7 +20,7 @@
 - https://github.com/agentgateway/agentgateway
 
 ## Plugins
-https://audit.agentity.com/ mcp use audit VSCode plugin
+- https://audit.agentity.com/ mcp use audit VSCode plugin
 
 ## Research
 - https://arxiv.org/abs/2508.12538 Systematic Analysis of MCP Security

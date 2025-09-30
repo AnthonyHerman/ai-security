@@ -58,6 +58,10 @@ https://audit.agentity.com/ mcp use audit VSCode plugin
 - https://github.com/General-Analysis/mcp-guard
 - https://invariantlabs.ai/blog/toxic-flow-analysis
 - https://github.com/invariantlabs-ai/mcp-scan
+- https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/
+
+## Scanners
+- https://github.com/fr0gger/proximity
 
 ## Ownage
 - https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft

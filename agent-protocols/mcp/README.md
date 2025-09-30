@@ -22,6 +22,13 @@
 https://audit.agentity.com/ mcp use audit VSCode plugin
 
 ## Research
+- https://arxiv.org/abs/2508.12538 Systematic Analysis of MCP Security
+- https://arxiv.org/abs/2508.03095 A Survey of AI Agent Registry Solutions
+- https://arxiv.org/abs/2509.24272 When MCP Servers Attack: Taxonomy, Feasibility, and Mitigation
+- https://arxiv.org/abs/2508.13220 MCPSecBench: A Systematic Security Benchmark and Playground for Testing Model Context Protocols
+- https://arxiv.org/abs/2509.06572 Mind Your Server: A Systematic Study of Parasitic Toolchain Attacks on the MCP Ecosystem
+- https://arxiv.org/abs/2505.23634 MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment
+- https://arxiv.org/abs/2506.02040 Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem
 
 ## Building / Development
 - https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/

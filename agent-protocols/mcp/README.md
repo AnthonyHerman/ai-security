@@ -34,7 +34,6 @@
 - https://arxiv.org/abs/2503.23278 Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
 - https://arxiv.org/abs/2506.23474v1 A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis
 - https://arxiv.org/abs/2504.08623 Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies
-- https://arxiv.org/abs/2506.02040 Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem
 
 ## Building / Development
 - https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/

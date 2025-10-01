@@ -18,6 +18,7 @@
 - https://github.com/microsoft/mcp-gateway (https://microsoft.github.io/mcp-gateway/)
 - https://github.com/obot-platform/obot (https://obot.ai/obot-ai-secures-35m-seed-to-build-enterprise-mcp-gateway/)
 - https://github.com/agentgateway/agentgateway
+- https://github.com/pangeacyber/pangea-mcp-proxy
 
 ## Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin

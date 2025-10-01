@@ -30,6 +30,9 @@
 - https://arxiv.org/abs/2509.06572 Mind Your Server: A Systematic Study of Parasitic Toolchain Attacks on the MCP Ecosystem
 - https://arxiv.org/abs/2505.23634 MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment
 - https://arxiv.org/abs/2506.02040 Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem
+- https://arxiv.org/abs/2506.13666 We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems
+- https://arxiv.org/abs/2503.23278 Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
+- https://arxiv.org/abs/2506.23474v1 A Large-Scale Evolvable Dataset for Model Context Protocol Ecosystem and Security Analysis
 
 ## Building / Development
 - https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/
@@ -60,6 +63,7 @@
 - https://github.com/invariantlabs-ai/mcp-scan
 - https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/
 - https://hyprmcp.com/blog/mcp-server-prompt-analytics/
+- https://github.com/evalstate/fast-agent
 
 ## Scanners
 - https://github.com/fr0gger/proximity

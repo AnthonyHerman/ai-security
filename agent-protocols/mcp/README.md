@@ -66,6 +66,7 @@
 
 ## Ownage
 - https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
+- https://www.koi.security/blog/mcp-malware-wave-continues-a-remote-shell-in-backdoor
 
 
 # Risks

@@ -88,3 +88,4 @@
 # Risks
 - https://www.wiz.io/blog/mcp-security-research-briefing
 - https://github.com/SAFE-MCP/safe-mcp
+- https://vulnerablemcp.info/

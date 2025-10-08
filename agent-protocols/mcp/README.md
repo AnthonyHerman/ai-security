@@ -1,4 +1,4 @@
-## Gateways / Proxies
+## Gateways
 - https://github.com/metatool-ai/metamcp
 - https://github.com/docker/mcp-gateway
 - https://github.com/AmoyLab/Unla
@@ -18,8 +18,11 @@
 - https://github.com/microsoft/mcp-gateway (https://microsoft.github.io/mcp-gateway/)
 - https://github.com/obot-platform/obot (https://obot.ai/obot-ai-secures-35m-seed-to-build-enterprise-mcp-gateway/)
 - https://github.com/agentgateway/agentgateway
-- https://github.com/pangeacyber/pangea-mcp-proxy
 - https://github.com/TheLunarCompany/lunar/tree/main/mcpx
+
+## Client Side Proxies
+- https://github.com/trailofbits/mcp-context-protector
+- https://github.com/pangeacyber/pangea-mcp-proxy
 
 ## Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin
@@ -83,3 +86,4 @@
 
 
 # Risks
+https://www.wiz.io/blog/mcp-security-research-briefing

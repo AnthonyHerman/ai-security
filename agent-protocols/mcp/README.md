@@ -24,7 +24,7 @@
 - https://github.com/trailofbits/mcp-context-protector
 - https://github.com/pangeacyber/pangea-mcp-proxy
 
-## Plugins
+## IDE Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin
 
 ## Research

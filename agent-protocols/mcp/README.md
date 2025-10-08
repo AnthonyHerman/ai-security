@@ -89,3 +89,4 @@
 - https://www.wiz.io/blog/mcp-security-research-briefing
 - https://github.com/SAFE-MCP/safe-mcp
 - https://vulnerablemcp.info/
+- https://docs.google.com/document/d/1QEmodtLLMyE9xg77aTi_QJn5ulV53mez6eOw_pqGiwA/edit

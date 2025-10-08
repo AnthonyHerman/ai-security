@@ -86,4 +86,4 @@
 
 
 # Risks
-https://www.wiz.io/blog/mcp-security-research-briefing
+- https://www.wiz.io/blog/mcp-security-research-briefing

@@ -1,59 +1,35 @@
-# MCP
-## MCP Server Vulnerabilities
-| affected mcp server | vuln | link |
-| ------------------- | ---- | ---- |
-| aws-mcp-server | command injection | https://x.com/UjlakiMarci/status/1927825607137640950 |
-| github-mcp-server | command injection | https://invariantlabs.ai/blog/mcp-github-vulnerability |
-
-https://embracethered.com/blog/posts/2025/model-context-protocol-security-risks-and-exploits/ \
-https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe \
-
-https://github.com/stacklok/toolhive \
-https://github.com/microsandbox/microsandbox \
-https://github.com/tuananh/hyper-mcp \
-https://hack.mcpwned.com/dashboard/scanner \
-https://modelcontextprotocol-security.io \
-https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center \
-https://blog.cloudflare.com/zero-trust-mcp-server-portals/
-
-### MCP PAM
-https://www.querypie.com/ 
-
 ## System Prompts
-https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+- https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
 
 ## Prompt Design
-https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design \
-https://learnprompting.org/docs/introduction \
-https://promptz2h.com/
-
-## Reading
-https://www.nccgroup.com/us/research-blog/5-mcp-security-tips/
-
-## Toxic agent flows
+- https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design
+- https://learnprompting.org/docs/introduction
+- https://promptz2h.com/
 
 # Secure GenAI (Vibe)Coding
 ## Rules Files / System Prompts / Custom Instructions
-https://github.com/untamed-theory/vibesec \
-https://github.com/wiz-sec-public/secure-rules-files
+- https://github.com/untamed-theory/vibesec
+- https://github.com/wiz-sec-public/secure-rules-files
 
 # General
 ## Frameworks
-https://atlas.mitre.org/matrices/ATLAS \
-https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf 
+- https://atlas.mitre.org/matrices/ATLAS
+- https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf 
+- https://saif.google/secure-ai-framework/saif-map
+- https://www.pillar.security/ai-risks/inadequate-ai-policy 
 
 ## General Security / Risk Benchmarks
-https://phare.giskard.ai/ \
-https://realharm.giskard.ai/
+- https://phare.giskard.ai/
+- https://realharm.giskard.ai/
 
 # Architecture
-https://www.nccgroup.com/us/research-blog/analyzing-secure-ai-architectures/ \
-https://techcommunity.microsoft.com/blog/microsoft-security-blog/best-practices-to-architect-secure-generative-ai-applications/4116661 \
-https://www.nccgroup.com/us/research-blog/analyzing-secure-ai-design-principles/ \
-https://www.nccgroup.com/us/research-blog/where-you-inject-matters-the-role-specific-impact-of-prompt-injection-attacks-on-openai-models/ \
-https://www.nccgroup.com/us/research-blog/analyzing-ai-application-threat-models/ \
-https://simonwillison.net/2023/Apr/25/dual-llm-pattern/ \
-https://simonwillison.net/2025/Apr/11/camel/
+- https://www.nccgroup.com/us/research-blog/analyzing-secure-ai-architectures/
+- https://techcommunity.microsoft.com/blog/microsoft-security-blog/best-practices-to-architect-secure-generative-ai-applications/4116661
+- https://www.nccgroup.com/us/research-blog/analyzing-secure-ai-design-principles/
+- https://www.nccgroup.com/us/research-blog/where-you-inject-matters-the-role-specific-impact-of-prompt-injection-attacks-on-openai-models/
+- https://www.nccgroup.com/us/research-blog/analyzing-ai-application-threat-models/
+- https://simonwillison.net/2023/Apr/25/dual-llm-pattern/
+- https://simonwillison.net/2025/Apr/11/camel/
 
 ## Lists
 - https://github.com/corca-ai/awesome-llm-security
@@ -64,7 +40,6 @@ https://simonwillison.net/2025/Apr/11/camel/
 - https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security
 - https://github.com/ThuCCSLab/Awesome-LM-SSP
 - https://github.com/asgeirtj/system_prompts_leaks
-
 
 ## Attacks / Countermeasures / Research
 - https://arxiv.org/html/2505.08807v1 - Security of Internet of Agents: Attacks and Countermeasures
@@ -106,22 +81,22 @@ https://arxiv.org/pdf/2503.18813 - Defeating Prompt Injections by Design \
 https://arxiv.org/pdf/2404.13208 - The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions \
 
 ## Prompt Injection Prevention Technologies / Realtime Protection 
-Llama Guard: https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/ \
-https://github.com/Defend-AI-Tech-Inc/wozway \
-https://github.com/openshieldai/openshield \
-https://github.com/eunomatix/llminspect-gateway \
-https://www.lasso.security/ \
-https://www.lakera.ai/ \
-https://www.prompt.security/ \
-https://www.troj.ai/ \
-https://trust3.ai/ \
-https://github.com/privacera/paig \
-https://github.com/openlit/openlit
+- Llama Guard: https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/
+- https://github.com/Defend-AI-Tech-Inc/wozway
+- https://github.com/openshieldai/openshield
+- https://github.com/eunomatix/llminspect-gateway
+- https://www.lasso.security/
+- https://www.lakera.ai/
+- https://www.prompt.security/
+- https://www.troj.ai/
+- https://trust3.ai/
+- https://github.com/privacera/paig
+- https://github.com/openlit/openlit
 
-# SAST
-https://reports.ghostsecurity.com/cast.pdf \
-https://ghostsecurity.com/ \
-https://www.dryrun.security/ \
+## SAST
+- https://reports.ghostsecurity.com/cast.pdf
+- https://ghostsecurity.com/
+- https://www.dryrun.security/
 
 ## IDE - Secrets
 - https://ampcode.com/news/secret-redaction
@@ -142,6 +117,7 @@ https://www.dryrun.security/ \
 - https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/
 - https://www.lasso.security/blog/identitymesh-exploiting-agentic-ai
 - https://learn.convo-lang.ai/
+- https://www.nccgroup.com/us/research-blog/5-mcp-security-tips/
 - https://zed.dev/blog/why-llms-cant-build-software
 - https://nousresearch.com/measuring-thinking-efficiency-in-reasoning-models-the-missing-benchmark/
 - https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/ai-s-security-crisis-why-your-assistant-might-betray-you/
@@ -201,12 +177,3 @@ https://www.dryrun.security/ \
 - https://www.seangoedecke.com/good-system-design/
 - https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and
 - https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/
-
-
-## Frameworks
-https://atlas.mitre.org/matrices/ATLAS \
-https://saif.google/secure-ai-framework/saif-map \
-https://www.pillar.security/ai-risks/inadequate-ai-policy 
-
-
-

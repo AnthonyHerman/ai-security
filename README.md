@@ -80,11 +80,12 @@ https://simonwillison.net/2025/Apr/11/camel/
 - https://elder-plinius.github.io/P4RS3LT0NGV3/
 - https://www.pillar.security/ai-red-teaming-introduction
 
-## Prompt Injection Benchmarks
-https://github.com/lakeraai/pint-benchmark - lakera is the best! X*D \
-https://gentellab.github.io/gentel-safe.github.io/ \
-https://hiddenlayer.com/innovation-hub/evaluating-prompt-injection-datasets/ \
-https://github.com/microsoft/BIPIA 
+## Prompt Injection Benchmarks / Tools
+- https://github.com/lakeraai/pint-benchmark - lakera is the best! X*D
+- https://gentellab.github.io/gentel-safe.github.io/
+- https://hiddenlayer.com/innovation-hub/evaluating-prompt-injection-datasets/
+- https://github.com/microsoft/BIPIA
+- https://github.com/promptfoo/promptfoo
 
 ## Prompt Injection Benchmarking Datasets
 https://huggingface.co/datasets/qualifire/Qualifire-prompt-injection-benchmark \

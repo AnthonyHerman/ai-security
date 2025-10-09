@@ -88,18 +88,18 @@ https://simonwillison.net/2025/Apr/11/camel/
 - https://github.com/promptfoo/promptfoo
 
 ## Prompt Injection Benchmarking Datasets
-https://huggingface.co/datasets/qualifire/Qualifire-prompt-injection-benchmark \
-https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset \
-https://huggingface.co/datasets/yanismiraoui/prompt_injections \
-https://huggingface.co/datasets/jayavibhav/prompt-injection-safety \
-https://huggingface.co/datasets/jayavibhav/prompt-injection \
-https://huggingface.co/datasets/deepset/prompt-injections \
-https://huggingface.co/datasets/hackaprompt/hackaprompt-dataset 
+- https://huggingface.co/datasets/qualifire/Qualifire-prompt-injection-benchmark
+- https://huggingface.co/datasets/xxz224/prompt-injection-attack-dataset
+- https://huggingface.co/datasets/yanismiraoui/prompt_injections
+- https://huggingface.co/datasets/jayavibhav/prompt-injection-safety
+- https://huggingface.co/datasets/jayavibhav/prompt-injection
+- https://huggingface.co/datasets/deepset/prompt-injections
+- https://huggingface.co/datasets/hackaprompt/hackaprompt-dataset 
 
 ## Prompt Injection Benchmarking Research
-https://arxiv.org/pdf/2403.02691 - INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents \
-https://arxiv.org/html/2505.00843 - OET: Optimization-based prompt injection Evaluation Toolkit \
-https://arxiv.org/pdf/2312.14197 - Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models
+- https://arxiv.org/pdf/2403.02691 - INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
+- https://arxiv.org/html/2505.00843 - OET: Optimization-based prompt injection Evaluation Toolkit
+- https://arxiv.org/pdf/2312.14197 - Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models
 
 ## Prompt Injection Architecture Considerations
 https://arxiv.org/pdf/2503.18813 - Defeating Prompt Injections by Design \

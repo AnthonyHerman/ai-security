@@ -82,15 +82,28 @@
 - https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/
 - https://hyprmcp.com/blog/mcp-server-prompt-analytics/
 - https://github.com/evalstate/fast-agent
+- https://embracethered.com/blog/posts/2025/model-context-protocol-security-risks-and-exploits/
+- https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
+- https://github.com/stacklok/toolhive
+- https://github.com/microsandbox/microsandbox
+- https://github.com/tuananh/hyper-mcp
+- https://hack.mcpwned.com/dashboard/scanner
+- https://modelcontextprotocol-security.io
+- https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center
+- https://blog.cloudflare.com/zero-trust-mcp-server-portals/
 
 ## Scanners
 - https://github.com/fr0gger/proximity
 - https://github.com/riseandignite/mcp-shield
 
+## MCP PAM
+- https://www.querypie.com/ 
+
 ## Ownage
 - https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft
 - https://www.koi.security/blog/mcp-malware-wave-continues-a-remote-shell-in-backdoor
-
+- https://invariantlabs.ai/blog/mcp-github-vulnerability
+- https://x.com/UjlakiMarci/status/1927825607137640950
 
 ## Risks
 - https://www.wiz.io/blog/mcp-security-research-briefing

@@ -20,6 +20,7 @@
 - https://github.com/agentgateway/agentgateway
 - https://github.com/TheLunarCompany/lunar/tree/main/mcpx
 - https://github.com/hyprmcp/jetski
+- https://selfhostedmcp.com/
 
 ## Client Side Proxies
 - https://github.com/trailofbits/mcp-context-protector

@@ -43,6 +43,7 @@
 - https://arxiv.org/abs/2505.11154 MPMA: Preference Manipulation Attack Against Model Context Protocol
 - https://arxiv.org/abs/2509.21011 Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools
 - https://arxiv.org/abs/2504.19956 Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents
+- https://arxiv.org/abs/2503.23278 Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
 
 ## Checklists
 - https://github.com/slowmist/MCP-Security-Checklist

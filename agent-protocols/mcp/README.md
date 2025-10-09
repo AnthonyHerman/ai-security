@@ -21,6 +21,8 @@
 - https://github.com/TheLunarCompany/lunar/tree/main/mcpx
 - https://github.com/hyprmcp/jetski
 - https://selfhostedmcp.com/
+- https://github.com/INQUIRELAB/mcp-bridge-api
+- https://www.harmonic.security/harmonic-sneak-peek
 
 ## Client Side Proxies
 - https://github.com/trailofbits/mcp-context-protector
@@ -28,6 +30,7 @@
 
 ## IDE Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin
+- https://github.com/Agentity-com/mcp-audit-extension
 
 ## Research
 - https://arxiv.org/abs/2508.12538 Systematic Analysis of MCP Security
@@ -82,6 +85,7 @@
 
 ## Scanners
 - https://github.com/fr0gger/proximity
+- https://github.com/riseandignite/mcp-shield
 
 ## Ownage
 - https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft

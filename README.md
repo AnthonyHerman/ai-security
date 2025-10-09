@@ -55,30 +55,30 @@ https://www.nccgroup.com/us/research-blog/analyzing-ai-application-threat-models
 https://simonwillison.net/2023/Apr/25/dual-llm-pattern/ \
 https://simonwillison.net/2025/Apr/11/camel/
 
-# Lists
-https://github.com/corca-ai/awesome-llm-security \
-https://github.com/ydyjya/Awesome-LLM-Safety \
-https://github.com/christiancscott/awesome-LLM-security \
-https://github.com/ShenaoW/awesome-llm-supply-chain-security \
-https://github.com/wearetyomsmnv/Awesome-LLMSecOps \
-https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security \
-https://github.com/ThuCCSLab/Awesome-LM-SSP \
-https://github.com/asgeirtj/system_prompts_leaks
+## Lists
+- https://github.com/corca-ai/awesome-llm-security
+- https://github.com/ydyjya/Awesome-LLM-Safety
+- https://github.com/christiancscott/awesome-LLM-security
+- https://github.com/ShenaoW/awesome-llm-supply-chain-security
+- https://github.com/wearetyomsmnv/Awesome-LLMSecOps
+- https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security
+- https://github.com/ThuCCSLab/Awesome-LM-SSP
+- https://github.com/asgeirtj/system_prompts_leaks
 
 
 ## Attacks / Countermeasures / Research
-https://arxiv.org/html/2505.08807v1 - Security of Internet of Agents: Attacks and Countermeasures \
-https://arxiv.org/html/2505.00047v1 - Base Models Beat Aligned Models at Randomness and Creativity \
-https://arxiv.org/pdf/2412.06090 - Trust No AI: Prompt Injection Along The CIA Security Triad
+- https://arxiv.org/html/2505.08807v1 - Security of Internet of Agents: Attacks and Countermeasures
+- https://arxiv.org/html/2505.00047v1 - Base Models Beat Aligned Models at Randomness and Creativity
+- https://arxiv.org/pdf/2412.06090 - Trust No AI: Prompt Injection Along The CIA Security Triad
 
-# Prompt Injection
-## General
-https://github.com/Arcanum-Sec/arc_pi_taxonomy \
-https://github.com/elder-plinius/L1B3RT4S \
+## Prompt Injection General
+- https://github.com/Arcanum-Sec/arc_pi_taxonomy
+- https://github.com/elder-plinius/L1B3RT4S
 
-# RT Guides / Tools
-https://genai.owasp.org/resource/genai-red-teaming-guide/ \
-https://elder-plinius.github.io/P4RS3LT0NGV3/
+## RT Guides / Tools
+- https://genai.owasp.org/resource/genai-red-teaming-guide/
+- https://elder-plinius.github.io/P4RS3LT0NGV3/
+- https://www.pillar.security/ai-red-teaming-introduction
 
 ## Prompt Injection Benchmarks
 https://github.com/lakeraai/pint-benchmark - lakera is the best! X*D \

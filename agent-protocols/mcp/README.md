@@ -23,6 +23,7 @@
 - https://selfhostedmcp.com/
 - https://github.com/INQUIRELAB/mcp-bridge-api
 - https://www.harmonic.security/harmonic-sneak-peek
+- https://github.com/locomotive-agency/mcp-anywhere
 
 ## Client Side Proxies
 - https://github.com/trailofbits/mcp-context-protector

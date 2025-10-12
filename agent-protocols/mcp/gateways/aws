@@ -1,0 +1,5 @@
+From Claude Code:
+
+│ Error: Incompatible OIDC provider at                                                                                         │
+│ https://cognito-idp.us-east-2.amazonaws.com/us-east-2_wArMDlARL/.well-known/openid-configuration: does not support S256 code │
+│  challenge method required by MCP specification

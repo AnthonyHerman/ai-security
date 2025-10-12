@@ -24,6 +24,7 @@
 - https://github.com/INQUIRELAB/mcp-bridge-api
 - https://www.harmonic.security/harmonic-sneak-peek
 - https://github.com/locomotive-agency/mcp-anywhere
+- https://github.com/1mcp-app/agent
 
 ## Client Side Proxies
 - https://github.com/trailofbits/mcp-context-protector

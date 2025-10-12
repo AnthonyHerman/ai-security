@@ -18,7 +18,7 @@
 - https://github.com/microsoft/mcp-gateway (https://microsoft.github.io/mcp-gateway/)
 - https://github.com/obot-platform/obot (https://obot.ai/obot-ai-secures-35m-seed-to-build-enterprise-mcp-gateway/)
 - https://github.com/agentgateway/agentgateway
-- https://github.com/TheLunarCompany/lunar/tree/main/mcpx
+- https://github.com/TheLunarCompany/lunar/tree/main/mcpx (https://docs.lunar.dev/mcpx)
 - https://github.com/hyprmcp/jetski
 - https://selfhostedmcp.com/ (https://github.com/oidebrett/mcpauth)
 - https://github.com/INQUIRELAB/mcp-bridge-api

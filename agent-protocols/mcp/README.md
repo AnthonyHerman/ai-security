@@ -97,6 +97,7 @@
 ## Scanners
 - https://github.com/fr0gger/proximity
 - https://github.com/riseandignite/mcp-shield
+- https://github.com/AIS2Lab/MCPSecBench
 
 ## MCP PAM
 - https://www.querypie.com/ 

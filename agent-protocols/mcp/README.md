@@ -26,6 +26,7 @@
 - https://github.com/locomotive-agency/mcp-anywhere
 - https://github.com/1mcp-app/agent
 - https://traefik.io/solutions/mcp-gateway
+- https://www.runlayer.com/ (https://youtu.be/guC1VeYZpQ4)
 
 ## Client Side Proxies
 - https://github.com/trailofbits/mcp-context-protector

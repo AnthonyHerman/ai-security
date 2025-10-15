@@ -25,6 +25,7 @@
 - https://www.harmonic.security/harmonic-sneak-peek
 - https://github.com/locomotive-agency/mcp-anywhere
 - https://github.com/1mcp-app/agent
+- https://traefik.io/solutions/mcp-gateway
 
 ## Client Side Proxies
 - https://github.com/trailofbits/mcp-context-protector
@@ -74,7 +75,6 @@
 - https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b
 - https://www.cerbos.dev/blog/mcp-authorization
 - https://github.com/jaw9c/awesome-remote-mcp-servers
-- https://modelcontextprotocol-security.io/ ***
 - https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center
 - https://modelcontextprotocol.io/clients
 - https://github.com/trailofbits/mcp-context-protector
@@ -98,6 +98,7 @@
 - https://github.com/fr0gger/proximity
 - https://github.com/riseandignite/mcp-shield
 - https://github.com/AIS2Lab/MCPSecBench
+- https://github.com/ModelContextProtocol-Security/mcpserver-audit
 
 ## MCP PAM
 - https://www.querypie.com/ 
@@ -108,8 +109,9 @@
 - https://invariantlabs.ai/blog/mcp-github-vulnerability
 - https://x.com/UjlakiMarci/status/1927825607137640950
 
-## Risks
+## Risk Databases
 - https://www.wiz.io/blog/mcp-security-research-briefing
 - https://github.com/SAFE-MCP/safe-mcp
 - https://vulnerablemcp.info/
 - https://docs.google.com/document/d/1QEmodtLLMyE9xg77aTi_QJn5ulV53mez6eOw_pqGiwA/edit
+- https://modelcontextprotocol-security.io/

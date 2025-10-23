@@ -111,6 +111,7 @@
 - https://www.koi.security/blog/mcp-malware-wave-continues-a-remote-shell-in-backdoor
 - https://invariantlabs.ai/blog/mcp-github-vulnerability
 - https://x.com/UjlakiMarci/status/1927825607137640950
+- https://blog.gitguardian.com/breaking-mcp-server-hosting/
 
 ## Risk Databases
 - https://www.wiz.io/blog/mcp-security-research-briefing

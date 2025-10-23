@@ -52,6 +52,8 @@
 - https://arxiv.org/abs/2509.21011 Automatic Red Teaming LLM-based Agents with Model Context Protocol Tools
 - https://arxiv.org/abs/2504.19956 Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents
 - https://arxiv.org/abs/2503.23278 Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
+- https://arxiv.org/abs/2510.16558 Toward Understanding Security Issues in the Model Context Protocol Ecosystem
+- https://www.arxiv.org/abs/2510.15994 MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents
 
 ## Checklists
 - https://github.com/slowmist/MCP-Security-Checklist

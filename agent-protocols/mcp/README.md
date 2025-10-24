@@ -119,3 +119,6 @@
 - https://vulnerablemcp.info/
 - https://docs.google.com/document/d/1QEmodtLLMyE9xg77aTi_QJn5ulV53mez6eOw_pqGiwA/edit
 - https://modelcontextprotocol-security.io/
+
+## Offensive MCP / Lulz
+- https://github.com/mbhatt1/PhantomPipe

@@ -16,7 +16,14 @@
 - https://atlas.mitre.org/matrices/ATLAS
 - https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf 
 - https://saif.google/secure-ai-framework/saif-map
-- https://www.pillar.security/ai-risks/inadequate-ai-policy 
+- https://www.pillar.security/ai-risks/inadequate-ai-policy
+
+## Agentic Identity / NHI
+- https://astrix.security/
+- https://aembit.io/
+- https://www.keycard.sh/
+- https://www.descope.com/
+- https://www.oasis.security/
 
 ## General Security / Risk Benchmarks
 - https://phare.giskard.ai/

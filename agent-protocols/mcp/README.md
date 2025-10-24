@@ -28,9 +28,10 @@
 - https://traefik.io/solutions/mcp-gateway
 - https://www.runlayer.com/ (https://youtu.be/guC1VeYZpQ4)
 
-## Client Side Proxies
+## Client Side Proxies / Secrets Management
 - https://github.com/trailofbits/mcp-context-protector
 - https://github.com/pangeacyber/pangea-mcp-proxy
+- https://github.com/astrix-security/mcp-secret-wrapper/
 
 ## IDE Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin

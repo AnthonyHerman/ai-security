@@ -54,6 +54,7 @@
 - https://arxiv.org/abs/2503.23278 Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions
 - https://arxiv.org/abs/2510.16558 Toward Understanding Security Issues in the Model Context Protocol Ecosystem
 - https://www.arxiv.org/abs/2510.15994 MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents
+- https://arxiv.org/abs/2510.19462 AegisMCP: Online Graph Intrusion Detection for Tool-Augmented LLMs on Edge Devices
 
 ## Checklists
 - https://github.com/slowmist/MCP-Security-Checklist

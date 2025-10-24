@@ -59,7 +59,7 @@
 ## Checklists
 - https://github.com/slowmist/MCP-Security-Checklist
 
-## Building / Development
+## General Reading
 - https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/
 - https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol
 - https://www.okta.com/newsroom/press-releases/okta-introduces-cross-app-access-to-help-secure-ai-agents-in-the/
@@ -97,6 +97,7 @@
 - https://modelcontextprotocol-security.io
 - https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center
 - https://blog.cloudflare.com/zero-trust-mcp-server-portals/
+- https://astrix.security/learn/blog/state-of-mcp-server-security-2025/
 
 ## Scanners
 - https://github.com/fr0gger/proximity

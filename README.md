@@ -184,3 +184,6 @@ https://arxiv.org/pdf/2404.13208 - The Instruction Hierarchy: Training LLMs to P
 - https://www.seangoedecke.com/good-system-design/
 - https://marketsaintefficient.substack.com/p/vibe-debugging-enterprises-up-and
 - https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/
+
+## 
+- https://github.com/mariocandela/beelzebub

@@ -107,6 +107,7 @@
 - https://github.com/AIS2Lab/MCPSecBench
 - https://github.com/ModelContextProtocol-Security/mcpserver-audit
 - https://github.com/cisco-ai-defense/mcp-scanner
+- https://github.com/invariantlabs-ai/mcp-scan
 
 ## MCP PAM
 - https://www.querypie.com/ 

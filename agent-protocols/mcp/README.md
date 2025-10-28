@@ -33,6 +33,7 @@
 - https://github.com/pangeacyber/pangea-mcp-proxy
 - https://github.com/astrix-security/mcp-secret-wrapper/
 - https://github.com/invariantlabs-ai/mcp-scan
+- https://github.com/strongdm/leash
 
 ## IDE Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin

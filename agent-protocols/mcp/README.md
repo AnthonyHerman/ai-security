@@ -32,6 +32,7 @@
 - https://github.com/trailofbits/mcp-context-protector
 - https://github.com/pangeacyber/pangea-mcp-proxy
 - https://github.com/astrix-security/mcp-secret-wrapper/
+- https://github.com/invariantlabs-ai/mcp-scan
 
 ## IDE Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin

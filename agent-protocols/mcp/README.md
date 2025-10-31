@@ -34,6 +34,7 @@
 - https://github.com/astrix-security/mcp-secret-wrapper/
 - https://github.com/invariantlabs-ai/mcp-scan
 - https://github.com/strongdm/leash
+- https://github.com/MCP-Defender/MCP-Defender
 
 ## IDE Plugins
 - https://audit.agentity.com/ mcp use audit VSCode plugin

@@ -59,6 +59,7 @@
 - https://www.arxiv.org/abs/2510.15994 MCP Security Bench (MSB): Benchmarking Attacks Against Model Context Protocol in LLM Agents
 - https://arxiv.org/abs/2510.19462 AegisMCP: Online Graph Intrusion Detection for Tool-Augmented LLMs on Edge Devices
 - https://arxiv.org/abs/2510.23673 MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers
+- https://arxiv.org/abs/2510.21236 Securing AI Agent Execution
 
 ## Checklists
 - https://github.com/slowmist/MCP-Security-Checklist

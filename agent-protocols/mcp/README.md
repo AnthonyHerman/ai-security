@@ -28,6 +28,7 @@
 - https://traefik.io/solutions/mcp-gateway
 - https://www.runlayer.com/ (https://youtu.be/guC1VeYZpQ4)
 - https://golf.dev/
+- https://go.mcptotal.io/
 
 ## Client Side Proxies / Secrets Management
 - https://github.com/trailofbits/mcp-context-protector

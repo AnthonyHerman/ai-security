@@ -27,6 +27,7 @@
 - https://github.com/1mcp-app/agent
 - https://traefik.io/solutions/mcp-gateway
 - https://www.runlayer.com/ (https://youtu.be/guC1VeYZpQ4)
+- https://golf.dev/
 
 ## Client Side Proxies / Secrets Management
 - https://github.com/trailofbits/mcp-context-protector

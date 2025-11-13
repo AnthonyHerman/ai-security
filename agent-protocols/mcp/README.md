@@ -62,8 +62,9 @@
 - https://arxiv.org/abs/2510.23673 MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers
 - https://arxiv.org/abs/2510.21236 Securing AI Agent Execution
 
-## Checklists
+## Checklists / Scorecards
 - https://github.com/slowmist/MCP-Security-Checklist
+- https://mcpmanager.ai/resources/enterprise-security-review/
 
 ## General Reading
 - https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/

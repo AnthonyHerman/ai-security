@@ -63,6 +63,7 @@
 - https://arxiv.org/abs/2510.19462 AegisMCP: Online Graph Intrusion Detection for Tool-Augmented LLMs on Edge Devices
 - https://arxiv.org/abs/2510.23673 MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers
 - https://arxiv.org/abs/2510.21236 Securing AI Agent Execution
+- https://arxiv.org/abs/2511.05867 MCP-RiskCue: Can LLM Infer Risk Information From MCP Server System Logs?
 
 ## Checklists / Scorecards
 - https://github.com/slowmist/MCP-Security-Checklist

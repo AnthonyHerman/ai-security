@@ -187,3 +187,8 @@ https://arxiv.org/pdf/2404.13208 - The Instruction Hierarchy: Training LLMs to P
 
 ## 
 - https://github.com/mariocandela/beelzebub
+- 
+
+## Red Teaming:
+- https://github.com/Shiva108/ai-llm-red-team-handbook
+

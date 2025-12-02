@@ -191,4 +191,5 @@ https://arxiv.org/pdf/2404.13208 - The Instruction Hierarchy: Training LLMs to P
 
 ## Red Teaming:
 - https://github.com/Shiva108/ai-llm-red-team-handbook
+- https://devansh.bearblog.dev/ai-pentest-scoping/
 

@@ -108,6 +108,7 @@
 - https://cloudsecurityalliance.org/blog/2025/08/20/securing-the-agentic-ai-control-plane-announcing-the-mcp-security-resource-center
 - https://blog.cloudflare.com/zero-trust-mcp-server-portals/
 - https://astrix.security/learn/blog/state-of-mcp-server-security-2025/
+- https://engineering.block.xyz/blog/build-mcp-tools-like-ogres-with-layers
 
 ## Scanners
 - https://github.com/fr0gger/proximity

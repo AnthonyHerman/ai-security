@@ -109,6 +109,7 @@
 - https://blog.cloudflare.com/zero-trust-mcp-server-portals/
 - https://astrix.security/learn/blog/state-of-mcp-server-security-2025/
 - https://engineering.block.xyz/blog/build-mcp-tools-like-ogres-with-layers
+- https://golf.dev/blog/no-bullshit-guide-to-mcp-security-what-s-real-vs-what-s-hype
 
 ## Scanners
 - https://github.com/fr0gger/proximity

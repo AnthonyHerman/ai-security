@@ -64,6 +64,12 @@
 - https://arxiv.org/abs/2510.23673 MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers
 - https://arxiv.org/abs/2510.21236 Securing AI Agent Execution
 - https://arxiv.org/abs/2511.05867 MCP-RiskCue: Can LLM Infer Risk Information From MCP Server System Logs?
+- https://arxiv.org/abs/2511.20920 Securing the Model Context Protocol (MCP): Risks, Controls, and Governance
+- https://arxiv.org/abs/2511.15998 Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming
+- https://arxiv.org/abs/2512.03775 "MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale
+- https://arxiv.org/abs/2510.03610 PentestMCP: A Toolkit for Agentic Penetration Testing
+- https://arxiv.org/abs/2509.22814 Model Context Protocol for Vision Systems: Audit, Security, and Protocol Extensions
+- https://arxiv.org/abs/2512.08290 Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem
 
 ## Checklists / Scorecards
 - https://github.com/slowmist/MCP-Security-Checklist

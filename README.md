@@ -57,6 +57,7 @@
 ## Prompt Injection General
 - https://github.com/Arcanum-Sec/arc_pi_taxonomy
 - https://github.com/elder-plinius/L1B3RT4S
+- https://assets.crowdstrike.com/is/content/crowdstrikeinc/Prompt-Injection-Taxonomy-Posterpdf
 
 ## RT Guides / Tools
 - https://genai.owasp.org/resource/genai-red-teaming-guide/

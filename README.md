@@ -17,6 +17,7 @@
 - https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf 
 - https://saif.google/secure-ai-framework/saif-map
 - https://www.pillar.security/ai-risks/inadequate-ai-policy
+- https://airisk.mit.edu/
 
 ## Agentic Identity / NHI
 - https://astrix.security/

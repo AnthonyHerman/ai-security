@@ -71,6 +71,7 @@
 - https://arxiv.org/abs/2509.22814 Model Context Protocol for Vision Systems: Audit, Security, and Protocol Extensions
 - https://arxiv.org/abs/2512.08290 Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem
 - https://arxiv.org/abs/2508.10991 MCP-Guard: A Multi-Stage Defense-in-Depth Framework for Securing Model Context Protocol in Agentic AI
+- https://arxiv.org/abs/2601.07395 MCP-ITP: An Automated Framework for Implicit Tool Poisoning in MCP
 
 ## Checklists / Scorecards
 - https://github.com/slowmist/MCP-Security-Checklist

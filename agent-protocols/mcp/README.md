@@ -128,6 +128,7 @@
 - https://github.com/ModelContextProtocol-Security/mcpserver-audit
 - https://github.com/cisco-ai-defense/mcp-scanner
 - https://github.com/invariantlabs-ai/mcp-scan
+- https://github.com/aira-security/mcp-checkpoint
 
 ## MCP PAM
 - https://www.querypie.com/ 

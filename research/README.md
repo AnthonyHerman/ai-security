@@ -1,3 +1,9 @@
+# Research
+
+Academic papers and surveys on AI security, organized by topic.
+
+## Existing Papers
+
 - Agentic JWT: A Secure Delegation Protocol for Autonomous AI Agents https://arxiv.org/abs/2509.13597
 - Who Taught the Lie? Responsibility Attribution for Poisoned Knowledge in Retrieval-Augmented Generation https://arxiv.org/abs/2509.13772
 - Defending against Indirect Prompt Injection by Instruction Detection https://arxiv.org/abs/2505.06311
@@ -146,3 +152,54 @@
 - Permissioned LLMs: Enforcing Access Control in Large Language Models https://arxiv.org/abs/2505.22860
 - Securing AI Agents with Information-Flow Control https://arxiv.org/abs/2505.23643
 - A Human Study of Cognitive Biases in Web Application Security https://arxiv.org/abs/2505.12018
+
+## General
+
+- https://arxiv.org/pdf/2602.07152
+- https://arxiv.org/pdf/2511.04427
+- https://arxiv.org/pdf/2512.16301
+- [GitHub - aliasrobotics/cai: Cybersecurity AI (CAI), the framework f](https://arxiv.org/pdf/2512.02654)
+- https://arxiv.org/pdf/2511.15304
+- https://arxiv.org/pdf/2511.04860
+- https://arxiv.org/pdf/2508.21669
+- [REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)
+- https://arxiv.org/pdf/2505.23643
+- https://arxiv.org/pdf/2508.13246
+- https://arxiv.org/pdf/2509.00124
+- https://arxiv.org/pdf/2508.15260
+- https://arxiv.org/pdf/2507.19185
+- https://arxiv.org/pdf/2507.19703
+- https://arxiv.org/pdf/2506.09250
+- https://arxiv.org/html/2506.08837v2
+- https://arxiv.org/pdf/2504.14064
+- https://arxiv.org/pdf/2503.18813v1
+- https://arxiv.org/html/2503.09022v1
+- https://arxiv.org/pdf/2502.15797
+- https://arxiv.org/pdf/2502.12115
+- https://arxiv.org/pdf/2501.18628
+- https://arxiv.org/pdf/2502.11264
+- https://arxiv.org/pdf/2501.09223
+- [Artificial Intelligence in the Knowledge Economy](https://arxiv.org/abs/2312.05481)
+- https://arxiv.org/pdf/2410.01606
+- [Generative AI in Cybersecurity](https://arxiv.org/abs/2405.01674)
+- [The Instruction Hierarchy: Training LLMs to Prioritize Privileged I](https://arxiv.org/abs/2404.13208)
+- https://arxiv.org/pdf/2403.04769.pdf
+- [Hallucination is Inevitable: An Innate Limitation of Large Language](https://arxiv.org/abs/2401.11817)
+- https://arxiv.org/pdf/2402.12959.pdf
+- https://arxiv.org/pdf/2402.12617.pdf
+- https://arxiv.org/html/2402.06664v1
+- [Out of the Cage: How Stochastic Parrots Win in Cyber Security Envir](https://arxiv.org/abs/2308.12086)
+- https://arxiv.org/pdf/2307.02483.pdf
+- [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493v2)
+- https://arxiv.org/pdf/2304.15004.pdf
+- [Scamming the Scammers: Using ChatGPT to Reply Mails for Wasting Tim](https://arxiv.org/abs/2303.13521)
+
+## Agents
+
+- [Cultural Evolution of Cooperation among LLM Agents](https://arxiv.org/abs/2412.10270)
+- [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety](https://arxiv.org/abs/2401.05566)
+
+## Privacy
+
+- [8 Million Users' AI Conversations Sold for Profit by "Privacy" Exte](https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection)
+- [CodeGate: CodeGen Privacy and Security](https://github.com/stacklok/codegate)

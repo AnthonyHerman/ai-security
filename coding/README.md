@@ -7,8 +7,8 @@
 - https://www.chezmoi.io/developer-guide/
 
 ### Platforms
-https://aisle.com
-https://www.dryrun.security/
-https://corgea.com/
-https://depthfirst.com/
-https://zeropath.com/
+- https://aisle.com
+- https://www.dryrun.security/
+- https://corgea.com/
+- https://depthfirst.com/
+- https://zeropath.com/

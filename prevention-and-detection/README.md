@@ -12,11 +12,9 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 
 - [Decoding the Devil’s Deception: GenAI, Social Media, Spiritualism](https://www.amazon.com/Decoding-Devils-Deception-Spiritualism-Propaganda-ebook/dp/B0FW6MCB5Q/)
 - [Beelzebub API v1 - Beelzebub](https://docs.beelzebub.cloud/basics/beelzebub-api-v1)
-- [Beelzebub API v1 - Beelzebub](https://docs.beelzebub.cloud/~gitbook/image?url=https%3A%2F%2F1943421814-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252Fm4UtiypH0yCqlKVcPG6T%252Fsites%252Fsite_zqnJ6%252Fsocialpreview%252FTUQSCEP0yfNauVIqz01W%252Fbeelzebub%2520social%2520preview.png%3Falt%3Dmedia%26token%3D9495fe99-670c-4356-a116-0d6d366eeb64&width=1200&height=630&sign=2fe9898e&sv=2)
 - [Galah: LLM-powered web honeypot. Wasting att](https://github.com/0x4D31/galah)
 - [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
 - [What Does ChatGPT Know About Deception – Part 2](https://deceptionandtruthanalysis.com/insights/f/what-does-chatgpt-know-about-deception-%E2%80%93-part-2#:~:text=ChatGPT%20identifies%20the%20level%20of,of%20vagueness%20in%20truthful%20statements)
-- [What Does ChatGPT Know About Deception – Part 2](https://deceptionandtruthanalysis.com/insights/f/what-does-chatgpt-know-about-deception-%E2%80%93-part-2)
 
 ## Security Platforms and Tools
 
@@ -28,7 +26,6 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 - [#ai #llm #security #audit - Kevin J. - 21 comments](https://www.linkedin.com/posts/kevin-joensen_ai-llm-security-activity-7433093920068153345-D0Vr?utm_medium=ios_app&rcm=ACoAAABSexoBsYekwoCz_fH30__0shfExZaygC4&utm_source=social_share_send&utm_campaign=copy_link)
 - [OpenSandbox is a general-purpose sand](https://github.com/alibaba/OpenSandbox)
 - [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/news/claude-code-security)
-- [Making frontier cybersecurity capabilities available to defenders](https://www.anthropic.com/api/opengraph-illustration?name=Object-LaptopSecure&backgroundColor=clay)
 - [EchoGram: Bypassing AI Guardrails via Token Flip Attacks](https://www.hiddenlayer.com/research/echogram-the-hidden-vulnerability-undermining-ai-guardrails)
 - [Aperture: The fastest path to safer, easier AI deployment](https://tailscale.com/blog/aperture-partners-update?utm_source=twitter&utm_medium=owned-social&utm_campaign=tailscale-winter-update-2026)
 - https://www.rsaconference.com/usa/programs/innovation-sandbox
@@ -38,7 +35,6 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 - [Pillar Security Unveils RedGraph: The World’s First Attack Surfac](https://www.pillar.security/blog/pillar-security-unveils-redgraph-the-worlds-first-attack-surface-mapping-continuous-testing-for-ai-agents)
 - https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf
 - [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
-- [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/api/opengraph-illustration?name=Object%20Lock&backgroundColor=fig)
 - [Golf Firewall: enterprise security layer for MCP providers - golf.d](https://golf.dev/blog/golf-firewall)
 - [Python read-only sandbox for LLM agents an](https://github.com/corv89/shannot)
 - [Adding guardrails to large](https://github.com/openguardrails/openguardrails)
@@ -47,9 +43,6 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 - [Wiz Research Finds Risks in 20% of Vibe-Coded Apps - Wiz Blog](https://www.wiz.io/blog/common-security-risks-in-vibe-coded-apps)
 - [Check Point Acquires Lakera to Deliver End-to-End AI Security for E](https://www.checkpoint.com/press-releases/check-point-acquires-lakera-to-deliver-end-to-end-ai-security-for-enterprises/)
 - [Claude "File creation" is actually a sandboxed code execution environment and has](https://x.com/tjade273/status/1965525541739704574)
-- [Claude "File creation" is actually a sandboxed code execution environment and has](https://twitter.com/tjade273/status/1965525541739704574)
-- [Claude "File creation" is actually a sandboxed code execution environment and has](https://twitter.com/tjade273)
-- [Claude "File creation" is actually a sandboxed code execution environment and has](https://pbs.twimg.com/media/G0byu0SXcAEWKug.jpg:large)
 - [LLM Backdoors at the Inference Level: The Threat of Poisoned Templates](https://www.pillar.security/blog/llm-backdoors-at-the-inference-level-the-threat-of-poisoned-templates)
 - [LlamaFirewall - LlamaFirewall](https://meta-llama.github.io/PurpleLlama/LlamaFirewall/)
 - [Lakera - ChatGPT Data Leak Prot](https://github.com/lakeraai/chrome-extension)
@@ -69,7 +62,6 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 - [The Hallucination Defense](https://niyikiza.com/posts/hallucination-defense/)
 - [AI Security Scanner - Test your AI sy](https://github.com/ZeroLeaks/zeroleaks)
 - [IBM AI ('Bob') Downloads and Executes Malware](https://www.promptarmor.com/resources/ibm-ai-)
-- [Your Org, Your Tools: Build a Custom MCP Catalog - Docker](https://www.docker.com/)
 - [Project CodeGuard](https://github.com/project-codeguard)
 - [A.I.G (AI-Infra-Guard) is a compre](https://github.com/Tencent/AI-Infra-Guard)
 - [Rowhammer-Based Trojan Injection: One Bit Flip Is Suffici](https://oneflipbackdoor.github.io/)
@@ -93,7 +85,6 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 - [AI Risk Database](https://github.com/mitre/advmlthreatmatrix)
 - [LLM vulnerability scanner](https://github.com/leondz/garak)
 - [curl disclosed on HackerOne: Buffer Overflow Vulnerability in](https://hackerone.com/reports/2298307)
-- [curl disclosed on HackerOne: Buffer Overflow Vulnerability in](https://profile-photos.hackerone-user-content.com/variants/000/035/663/2faf4c279d437d64bfda6d23d62ce1833813a4d9_original.png/60f411638706d89ae3052af6fe8b88fa9a798e291deee40f6a22e81418d78d5f)
 - [Bearer - DevSecOps for OpenAI: detecting sensitive data shared with](https://www.bearer.com/blog/devsecops-ai-openai)
 - [New ways of breaking app-integrated](https://github.com/greshake/llm-security)
 - [A curated list of](https://github.com/tenable/awesome-llm-cybersecurity-tools)

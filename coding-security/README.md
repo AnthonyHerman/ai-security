@@ -17,9 +17,21 @@ Secure AI-assisted coding, SAST for AI-generated code, IDE security, and related
 - [DryRun - Beyond Pattern Matching](https://www.dryrun.security/blog/beyond-pattern-matching-why-context-is-the-future-of-application-security)
 - [Semgrep - Finding Vulns with Claude and Codex](https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex/)
 
-## IDE Secrets
+## Secrets Management
 
+Tools and techniques for protecting secrets from AI coding agents and LLM context exposure.
+
+- [enject - Hide .env secrets from AI coding tools](https://github.com/GreatScott/enject) -- encrypted local store with symbolic references; plaintext secrets never exist on disk
+- [Agent Vault - Keep secrets hidden from AI agents](https://github.com/botiverse/agent-vault)
 - [Amp Code - Secret Redaction](https://ampcode.com/news/secret-redaction)
+- [Amp Security Reference - Secret Redaction](https://ampcode.com/security#secret-redaction)
+- [Secret Redaction in GitHub Copilot (Issue #11517)](https://github.com/microsoft/vscode-copilot-release/issues/11517)
+- [A better way to limit Claude Code access to secrets](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
+- [DepthFirst - Secrets Shouldn't Be Guesswork](https://depthfirst.com/post/depthfirst-com-post-product-release-secrets-shouldnt-be-guesswork)
+- [Don't let AI read your .env files (Filip Hric / 1Password approach)](https://filiphric.com/dont-let-ai-read-your-env-files)
+- [aivault - Stop leaking API keys to AI agents](https://aivault.moldable.sh/)
+- [WardGate - Give AI agents API access without giving them secrets](https://github.com/wardgate/wardgate)
+- [GAP - Give AI agents secure access to your APIs](https://github.com/mikekelly/gap)
 
 ## Platforms
 
@@ -45,7 +57,6 @@ Secure AI-assisted coding, SAST for AI-generated code, IDE security, and related
 - [New Product: Code Quality - Corgea](https://corgea.com/blog/new-product-code-quality)
 - [Superset - Run 10+ parallel coding agents on your machine](https://superset.sh/)
 - [Minions: Stripe’s one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents)
-- [A better way to limit Claude Code (and other coding agents!) access](https://patrickmccanna.net/a-better-way-to-limit-claude-code-and-other-coding-agents-access-to-secrets/)
 - [Enable external threat detection and protection for Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/external-security-provider)
 - [About GitHub Copilot coding agent - GitHub Enterprise Cloud Docs](https://docs.github.com/en/enterprise-cloud@latest/copilot/concepts/agents/coding-agent/about-coding-agent#built-in-security-protections)
 - [Agentastic.dev - Run AI Coding Agents on Your Mac](https://agentastic.dev/index)
@@ -137,7 +148,6 @@ Secure AI-assisted coding, SAST for AI-generated code, IDE security, and related
 - [Claude Code for VSCode - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 - https://thomast1906.github.io/github-copilot-usage-metrics-viewer
 - [DASH 2025: Guide to Datadog's newest announcements - Datadog](https://www.datadoghq.com/blog/dash-2025-new-feature-roundup-keynote/)
-- [Secret Redaction · Issue #11517 · microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release/issues/11517)
 - https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion
 - [Run LLMs inside a PDF file.](https://github.com/EvanZhouDev/llm.pdf)
 - [A fully client-side chat application wit](https://github.com/mantrakp04/sheer)

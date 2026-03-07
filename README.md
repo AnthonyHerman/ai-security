@@ -11,7 +11,7 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 - [Prompt Security](prompt-security/README.md) -- Prompt injection, jailbreaking, and prompt design
 - [Agent Security](agent-security/README.md) -- Agent frameworks, identity, trust, and MCP
   - [MCP (Model Context Protocol)](agent-security/mcp/README.md) -- Gateways, scanners, research, and tooling
-- [Coding Security](coding-security/README.md) -- Secure vibe coding, SAST, IDE security, and platforms
+- [Coding Security](coding-security/README.md) -- Secure vibe coding, SAST, secrets management, and platforms
 - [Red Teaming](red-teaming/README.md) -- Offensive AI security, tools, and methodologies
 - [Prevention and Detection](prevention-and-detection/README.md) -- Guardrails, firewalls, runtime protection, and honeypots
 - [Supply Chain](supply-chain/README.md) -- AI supply chain risks and mitigations

@@ -156,6 +156,7 @@ Security considerations for AI agents, agentic frameworks, identity, and trust.
 - [Shinobi Security - Uncloud the cloud with your personal AI detective](https://shinobi.security/agent-shadow)
 - [Agent S blog](https://www.simular.ai/agent-s)
 - [A curated list of GPT agents f](https://github.com/fr0gger/Awesome-GPT-Agents)
+- [AARTS: An Open Standard for AI Agent Runtime Safety](https://github.com/gendigitalinc/aarts)
 
 ## Research
 

@@ -65,3 +65,7 @@ Standards, risk frameworks, AI policy, and compliance resources.
 - [MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 - [openrisk is a tool that generat](https://github.com/projectdiscovery/openrisk)
 - [OWASP GenAI Data Security Risks and Mitigations 2026](https://docs.google.com/document/d/1Y1zgWRx91vpB0yp5uuoR2YoA58x8A3tpbLU38rXAUxU/edit?tab=t.0#heading=h.mucpgzq73wzg)
+
+## Trust and Adoption
+
+- [Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err](https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/Dietvorst-Simmons-Massey-2014.pdf)

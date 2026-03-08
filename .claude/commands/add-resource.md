@@ -1,7 +1,7 @@
 ---
 description: Add a new resource link to the AI security compendium with proper title and classification
 argument-hint: <url>
-allowed-tools: [WebFetch, Read, Edit, Write, Glob, Grep, AskUserQuestion]
+allowed-tools: [WebFetch, Read, Edit, Write, Glob, Grep, AskUserQuestion, Bash]
 ---
 
 # Add Resource
@@ -86,9 +86,14 @@ Append the formatted link to the end of the appropriate subsection in the target
 
 Use the Edit tool to make the change. Do not rewrite the entire file.
 
-## Step 5: Confirm
+## Step 5: Commit and Push
+
+Use Bash to git add the modified file, commit with the message `Add resource: <title>` (where `<title>` is the extracted page title), and push to the current branch.
+
+## Step 6: Confirm
 
 Report to the user:
 - The title extracted
 - The file and section where the link was added
 - The formatted markdown line that was inserted
+- The commit hash

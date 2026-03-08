@@ -37,15 +37,15 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 
 - [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
+## Prompt Design
+
+- [Google Vertex AI - Introduction to Prompt Design](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design)
+- [Learn Prompting](https://learnprompting.org/docs/introduction)
+- [PromptZ2H](https://promptz2h.com/)
+
 ## Claude Code Skills
 
 This repo includes custom [Claude Code](https://claude.com/claude-code) slash commands for managing the compendium:
 
 - `/add-resource <url> [url2] ...` -- Fetch titles, classify links into the correct category, and commit them to the repo.
 - `/search-resources <query>` -- Search across all compendium files for resources matching a keyword or topic.
-
-## Prompt Design
-
-- [Google Vertex AI - Introduction to Prompt Design](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design)
-- [Learn Prompting](https://learnprompting.org/docs/introduction)
-- [PromptZ2H](https://promptz2h.com/)

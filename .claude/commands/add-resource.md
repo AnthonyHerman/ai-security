@@ -10,6 +10,10 @@ You are adding a new resource link to the AI security compendium.
 
 The user provided: $ARGUMENTS
 
+## Step 0: Pull Latest Changes
+
+Run `git pull` to ensure the local branch is up to date before making changes.
+
 ## Step 1: Fetch the Page Title
 
 Use WebFetch to visit the URL and extract a suitable title for the markdown hyperlink.

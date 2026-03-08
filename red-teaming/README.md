@@ -65,3 +65,4 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - https://aidantr.github.io/files/AI_innovation.pdf
 - [AttackGen is a cybersecurity incident](https://github.com/mrwadams/attackgen)
 - [The AI Attack Surface Map v1.0](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/)
+- [MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks](https://arxiv.org/abs/2602.09222)

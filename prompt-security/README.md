@@ -39,6 +39,9 @@ Prompt injection attacks, jailbreaking, defenses, and related research.
 - [Trust No AI: Prompt Injection Along The CIA Security Triad](https://arxiv.org/pdf/2412.06090)
 
 - [AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attac](https://arxiv.org/abs/2406.13352)
+- [The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis](https://arxiv.org/abs/2602.10453)
+- [Learning to Inject: Automated Prompt Injection via Reinforcement Learning](https://arxiv.org/abs/2602.05746)
+- [Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks](https://arxiv.org/abs/2602.14689)
 
 ## Prompt Injection Architecture
 
@@ -126,6 +129,8 @@ Prompt injection attacks, jailbreaking, defenses, and related research.
 - [From the ChatGPT community on Reddit: The riddle jailbreak is extre](https://www.reddit.com/r/ChatGPT/comments/1b8qzsd/the_riddle_jailbreak_is_extremely_effective/)
 - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 - [Jailbreaking LLM (ChatGPT) Sandboxes Using Linguistic Hacks — Force](https://blog.forcesunseen.com/jailbreaking-llm-chatgpt-sandboxes-using-linguistic-hacks)
+- [Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001)
+- [Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing](https://arxiv.org/abs/2602.08741)
 
 ## Secure Prompt Engineering
 

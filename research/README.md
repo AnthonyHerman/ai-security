@@ -185,6 +185,7 @@ Academic papers and surveys on AI security, organized by topic.
 - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
 - [Scamming the Scammers: Using ChatGPT to Reply Mails for Wasting Time](https://arxiv.org/abs/2303.13521)
+- [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
 
 ## Agents
 

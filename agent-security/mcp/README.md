@@ -138,6 +138,7 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [MCP-Guard: Multi-Stage Defense-in-Depth](https://arxiv.org/abs/2508.10991)
 - [MCP-ITP: Implicit Tool Poisoning in MCP](https://arxiv.org/abs/2601.07395)
 - [MCP Bridge: Lightweight LLM-Agnostic RESTful Proxy](https://arxiv.org/abs/2504.08999)
+- [SMCP: Secure Model Context Protocol](https://arxiv.org/abs/2602.01129)
 
 ## General Reading
 

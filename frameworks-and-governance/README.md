@@ -10,6 +10,7 @@ Standards, risk frameworks, AI policy, and compliance resources.
 - [Pillar Security - AI Risk](https://www.pillar.security/ai-risks/inadequate-ai-policy)
 - [MIT AI Risk Repository](https://airisk.mit.edu/)
 - [AI Security Forum](https://aisecurity.forum/)
+- [Cybersecurity Framework Profile for Artificial Intelligence (NIST IR 8596)](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
 
 ## Security Benchmarks
 

@@ -1,6 +1,6 @@
 ---
 description: Add a new resource link to the AI security compendium with proper title and classification
-argument-hint: <url>
+argument-hint: <url> [url2] [url3] ...
 allowed-tools: [WebFetch, Read, Edit, Write, Glob, Grep, AskUserQuestion, Bash]
 ---
 
@@ -10,13 +10,15 @@ You are adding a new resource link to the AI security compendium.
 
 The user provided: $ARGUMENTS
 
+Split the arguments by spaces to extract one or more URLs. Process all URLs through the steps below.
+
 ## Step 0: Pull Latest Changes
 
 Run `git pull` to ensure the local branch is up to date before making changes.
 
-## Step 1: Fetch the Page Title
+## Step 1: Fetch Page Titles
 
-Use WebFetch to visit the URL and extract a suitable title for the markdown hyperlink.
+For each URL, use WebFetch to extract a suitable title for the markdown hyperlink. **Fetch all URLs in parallel** to save time.
 
 **Title selection priority:**
 - Blog post: use the article/post title
@@ -26,16 +28,16 @@ Use WebFetch to visit the URL and extract a suitable title for the markdown hype
 - Product/landing page: use the main heading or product name with a brief descriptor
 - PDF: extract the document title if possible
 
-If the page is unreachable or blocks automated access, ask the user for a suitable title using AskUserQuestion.
+If a page is unreachable or blocks automated access, ask the user for a suitable title using AskUserQuestion.
 
 **Title cleanup:**
 - Remove trailing site names after pipes or dashes if they add noise (e.g., " | ArXiv" can be dropped, but " - Google Security Blog" may be kept if it adds context)
 - Strip leading/trailing whitespace
 - Truncate excessively long titles to something readable
 
-## Step 2: Classify the Link
+## Step 2: Classify All Links
 
-Read the repo structure to determine the correct placement. The categories are:
+Read the repo structure to determine the correct placement for each URL. The categories are:
 
 | Category | File | What belongs here |
 |---|---|---|
@@ -56,18 +58,17 @@ Read the repo structure to determine the correct placement. The categories are:
 
 ### CRITICAL: Confidence Requirement
 
-You must be **certain** about the classification. Evaluate honestly:
+You must be **certain** about each classification. Evaluate honestly:
 
-- **If the link clearly fits one category**: proceed to Step 3.
-- **If the link could fit 2+ categories roughly equally**: STOP. Do NOT guess. Instead:
-  1. Tell the user which categories are candidates and why.
-  2. Suggest which one you'd lean toward and explain your reasoning.
-  3. Also consider whether a new subsection or category might be appropriate -- if so, propose the section name and file path.
-  4. Use AskUserQuestion to get the user's decision before proceeding.
-- **If the link doesn't fit any existing category well**: STOP. Do NOT force it. Instead:
-  1. Explain that no existing category is a clean fit.
-  2. Propose a new category name and where it would live (directory + README.md).
-  3. Ask the user whether to create it or place the link somewhere existing.
+- **If a link clearly fits one category**: mark it as resolved.
+- **If a link could fit 2+ categories roughly equally**: mark it as ambiguous.
+- **If a link doesn't fit any existing category well**: mark it as uncategorized.
+
+After classifying all links, present a summary table showing each URL, its title, and its proposed category. If **any** links are ambiguous or uncategorized, gather them into a **single** AskUserQuestion call:
+- For ambiguous links: list the candidate categories, your recommendation, and whether a new subsection might be appropriate.
+- For uncategorized links: propose a new category name and location.
+
+Do NOT proceed to editing until all classifications are resolved.
 
 **Examples of ambiguity that MUST be escalated:**
 - A blog post about a new prompt injection attack (general-reading? prompt-security? research?)
@@ -76,28 +77,33 @@ You must be **certain** about the classification. Evaluate honestly:
 
 When in doubt, ask. Never guess.
 
-## Step 3: Read the Target File
+## Step 3: Read Target Files
 
-Read the target README.md file to understand its current structure and subsections. Determine the correct subsection to append the link to.
+Read each unique target README.md file to understand its current structure and subsections. If multiple links go to the same file, only read it once.
 
-## Step 4: Add the Link
+## Step 4: Add All Links
 
-Append the formatted link to the end of the appropriate subsection in the target file:
+For each link, append it to the end of the appropriate subsection in its target file:
 
 ```markdown
 - [Page Title](https://the-url.com)
 ```
 
-Use the Edit tool to make the change. Do not rewrite the entire file.
+Use the Edit tool to make each change. Do not rewrite entire files.
 
 ## Step 5: Commit and Push
 
-Use Bash to git add the modified file, commit with the message `Add resource: <title>` (where `<title>` is the extracted page title), and push to the current branch.
+Use Bash to git add all modified files and create a single commit. Use the message format:
+- For a single link: `Add resource: <title>`
+- For multiple links: `Add <N> resources`
+
+Then push to the current branch.
 
 ## Step 6: Confirm
 
-Report to the user:
-- The title extracted
-- The file and section where the link was added
-- The formatted markdown line that was inserted
-- The commit hash
+Present a summary table to the user with columns:
+- Title
+- Category/file
+- Markdown line inserted
+
+Include the commit hash at the end.

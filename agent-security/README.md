@@ -163,6 +163,7 @@ Security considerations for AI agents, agentic frameworks, identity, and trust.
 - [Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156)
 - [Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study](https://arxiv.org/abs/2602.06547)
 - [SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement](https://arxiv.org/abs/2602.14211)
+- [Agents of Chaos](https://arxiv.org/abs/2602.20021)
 
 ## MCP (Model Context Protocol)
 

@@ -167,6 +167,7 @@ Security considerations for AI agents, agentic frameworks, identity, and trust.
 - [Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study](https://arxiv.org/abs/2602.06547)
 - [SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement](https://arxiv.org/abs/2602.14211)
 - [Agents of Chaos](https://arxiv.org/abs/2602.20021)
+- [Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned](https://arxiv.org/abs/2603.05344)
 
 ## MCP (Model Context Protocol)
 

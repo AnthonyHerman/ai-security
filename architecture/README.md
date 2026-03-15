@@ -22,3 +22,4 @@ Design patterns, principles, and architectural considerations for building secur
 - [Analyzing AI Application Threat Models](https://research.nccgroup.com/2024/02/07/analyzing-ai-application-threat-models/)
 - [AI featured threat modeli](https://github.com/xvnpw/ai-threat-modeling-action)
 - [SPQA: The AI-based Architecture That'll Replace Most Existing Software](https://danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software/)
+- [OpenClaw Threat Model](https://trust.openclaw.ai/trust/threatmodel)

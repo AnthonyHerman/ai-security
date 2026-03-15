@@ -11,6 +11,8 @@ Standards, risk frameworks, AI policy, and compliance resources.
 - [MIT AI Risk Repository](https://airisk.mit.edu/)
 - [AI Security Forum](https://aisecurity.forum/)
 - [Cybersecurity Framework Profile for Artificial Intelligence (NIST IR 8596)](https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8596.iprd.pdf)
+- [SL5 Standard for AI Security: A NIST SP 800-53 Overlay for Frontier AI Infrastructure](https://standard.sl5.org/)
+- [NIST AI 800-4: Challenges to the Monitoring of Deployed AI Systems](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.800-4.pdf)
 
 ## Security Benchmarks
 

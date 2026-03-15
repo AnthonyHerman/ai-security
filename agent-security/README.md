@@ -157,6 +157,8 @@ Security considerations for AI agents, agentic frameworks, identity, and trust.
 - [Agent S blog](https://www.simular.ai/agent-s)
 - [A curated list of GPT agents f](https://github.com/fr0gger/Awesome-GPT-Agents)
 - [AARTS: An Open Standard for AI Agent Runtime Safety](https://github.com/gendigitalinc/aarts)
+- [Run NanoClaw in Docker Sandboxes with One Command](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
+- [Agent Governance Toolkit: Application-level security middleware for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
 
 ## Research
 

@@ -15,6 +15,7 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 - [Galah: LLM-powered web honeypot. Wasting att](https://github.com/0x4D31/galah)
 - [ChatGPT Account Takeover - Wildcard Web Cache Deception](https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html)
 - [What Does ChatGPT Know About Deception – Part 2](https://deceptionandtruthanalysis.com/insights/f/what-does-chatgpt-know-about-deception-%E2%80%93-part-2#:~:text=ChatGPT%20identifies%20the%20level%20of,of%20vagueness%20in%20truthful%20statements)
+- [OpenClaw Exposure Watchboard](https://openclaw.allegro.earth/)
 
 ## Security Platforms and Tools
 

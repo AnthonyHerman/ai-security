@@ -32,6 +32,7 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [RunLayer](https://www.runlayer.com/) ([demo](https://youtu.be/guC1VeYZpQ4))
 - [MCP Total](https://go.mcptotal.io/)
 
+- [Context-Gateway: Agentic proxy for AI agents with history compaction and context optimization](https://github.com/Compresr-ai/Context-Gateway)
 - [What is MCP Gateway?](https://www.truefoundry.com/mcp-gateway)
 - [Amazon API Gateway adds MCP proxy support - AWS](https://aws.amazon.com/about-aws/whats-new/2025/12/api-gateway-mcp-proxy-support/)
 - [MCP Gateway: Control What AI Can Access - Traefik](https://traefik.io/solutions/mcp-gateway?utm_content=351704635&utm_medium=social&utm_source=twitter&hss_channel=tw-4890312130)

@@ -68,6 +68,7 @@ Blog posts, talks, opinion pieces, and commentary on AI, security, and the broad
 - [Joseph Thacker (@rez0__) on X](https://x.com/rez0__/status/1758556246850896185?s=46&t=HEqLHVfVHBfb1Ti5KJVPZw)
 - [Lock It Up (Secure the Flow) - Suno](https://app.suno.ai/song/27e179b3-d60d-45df-90f2-88a7d93bb9a1)
 - [GuArdIan - Safety & Security of Generative AI](https://boschaishield.co/guardian)
+- [Bugcrowd Policy Changes to Address AI Slop Submissions](https://www.bugcrowd.com/blog/bugcrowd-policy-changes-to-address-ai-slop-submissions/)
 
 ## AI Engineering and Development
 
@@ -376,6 +377,8 @@ Blog posts, talks, opinion pieces, and commentary on AI, security, and the broad
 - [OpenAI API](https://platform.openai.com/ai-text-classifier)
 - [Opinion - Noam Chomsky: The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 - [Chatbase - Build a custom ChatGPT trained on your data](https://www.chatbase.co/)
+- [Proof: Agent-First Document Editor](https://proofeditor.ai/)
+- [Microsoft Graph Skill for AI Agents](https://graph.pm/)
 
 ## Tutorials and Learning
 
@@ -491,6 +494,8 @@ Blog posts, talks, opinion pieces, and commentary on AI, security, and the broad
 - https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f
 - [Shipping a button in 2026…](https://youtu.be/xE9W9Ghe4Jk)
 - [The Bitter Lesson versus The Garbage Can](https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage)
+- [Stop Telling Developers How to Fix Vulnerabilities](https://ashtonr.com/blog/close-the-loop/)
+- [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/)
 
 ## General AI Commentary
 
@@ -786,3 +791,5 @@ Blog posts, talks, opinion pieces, and commentary on AI, security, and the broad
 - [Rytr · Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/)
 - [Cogram - Effortless meeting notes and action items](https://www.cogram.com/)
 - [Fliki - Turn text into videos with AI voices](https://fliki.ai/)
+- [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
+- [Claude Code is the Inflection Point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point)

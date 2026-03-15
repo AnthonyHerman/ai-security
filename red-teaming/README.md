@@ -13,6 +13,8 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 
 - [P4RS3LT0NGV3](https://elder-plinius.github.io/P4RS3LT0NGV3/)
 - [Opcode.sh](https://opcode.sh/)
+- [claude-bug-bounty: AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
+- [Introducing Neo, an AI security engineer for complex security tasks](https://projectdiscovery.io/blog/introducing-neo)
 
 ## Resources
 
@@ -66,3 +68,8 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [AttackGen is a cybersecurity incident](https://github.com/mrwadams/attackgen)
 - [The AI Attack Surface Map v1.0](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/)
 - [MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks](https://arxiv.org/abs/2602.09222)
+- [One Proxy. One AI. One System: Integrating Caido into mastermind-ai](https://labs.trace37.com/blog/caido-ai-hunting-platform/)
+- [Introducing Assessment Guidance: Map Your Brain Onto XBOW's](https://xbow.com/blog/introducing-assessment-guidance)
+- [Teaching Claude Everything You've Hacked](https://clawd.it/posts/11-teaching-claude-everything-youve-hacked/)
+- [How My AI Hunting System Found Two Critical Vulns in a Private Bug Bounty — While I Was Out](https://labs.trace37.com/blog/autonomous-ctf-solve/)
+- [How We Hacked McKinsey's AI Platform](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)

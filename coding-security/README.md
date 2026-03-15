@@ -16,6 +16,7 @@ Secure AI-assisted coding, SAST for AI-generated code, IDE security, and related
 - [Ghost Security CAST Report](https://reports.ghostsecurity.com/cast.pdf)
 - [DryRun - Beyond Pattern Matching](https://www.dryrun.security/blog/beyond-pattern-matching-why-context-is-the-future-of-application-security)
 - [Semgrep - Finding Vulns with Claude and Codex](https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex/)
+- [How to Scan for Vulnerabilities with GitHub Security Lab's Open Source AI-Powered Framework](https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/)
 
 ## Secrets Management
 
@@ -193,3 +194,6 @@ Tools and techniques for protecting secrets from AI coding agents and LLM contex
 - [lemmy/apps/claude-trace at main · badlogic/lemmy](https://github.com/badlogic/lemmy/tree/main/apps/claude-trace)
 - [JetBrains releases Mellum, an 'open' AI coding model - TechCrunch](https://techcrunch.com/2025/04/30/jetbrains-releases-mellum-an-open-ai-coding-model/)
 - [Supermaven: Free AI Code Completion](https://supermaven.com/)
+- [Security Engineer Agent (agency-agents)](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-security-engineer.md)
+- [Security Engineer Agent (claude-code-toolkit): Infrastructure security, IAM, mTLS, secrets management](https://github.com/rohitg00/awesome-claude-code-toolkit/blob/main/agents/infrastructure/security-engineer.md)
+- [Security Auditor Agent: DevSecOps, cybersecurity, and compliance frameworks](https://github.com/wshobson/agents/blob/main/plugins/comprehensive-review/agents/security-auditor.md)

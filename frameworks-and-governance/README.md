@@ -68,6 +68,7 @@ Standards, risk frameworks, AI policy, and compliance resources.
 - [MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 - [openrisk is a tool that generat](https://github.com/projectdiscovery/openrisk)
 - [OWASP GenAI Data Security Risks and Mitigations 2026](https://docs.google.com/document/d/1Y1zgWRx91vpB0yp5uuoR2YoA58x8A3tpbLU38rXAUxU/edit?tab=t.0#heading=h.mucpgzq73wzg)
+- [NIST RFI: Security Considerations for AI Agents — Public Comments (NIST-2025-0035)](https://www.regulations.gov/docket/NIST-2025-0035/comments)
 
 ## Trust and Adoption
 

@@ -159,6 +159,11 @@ Security considerations for AI agents, agentic frameworks, identity, and trust.
 - [AARTS: An Open Standard for AI Agent Runtime Safety](https://github.com/gendigitalinc/aarts)
 - [Run NanoClaw in Docker Sandboxes with One Command](https://nanoclaw.dev/blog/nanoclaw-docker-sandboxes/)
 - [Agent Governance Toolkit: Application-level security middleware for autonomous AI agents](https://github.com/microsoft/agent-governance-toolkit)
+- [OpenShell - Safe, Private Runtime for Autonomous AI Agents](https://github.com/NVIDIA/OpenShell)
+- [Skills Security Index - Security Risk Analysis for Agentic AI Skill Definitions](https://index.tego.security/skills/)
+- [NemoClaw - Open Source Stack for Running OpenClaw Agents Safely](https://github.com/NVIDIA/NemoClaw)
+- [OneCLI - Secret Vault for AI Agents](https://github.com/onecli/onecli)
+- [openclaw-a365 - Native Microsoft 365 Channel for OpenClaw](https://github.com/SidU/openclaw-a365)
 
 ## Research
 

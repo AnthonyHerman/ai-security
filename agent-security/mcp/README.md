@@ -47,6 +47,7 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [MCP-Scan (Invariant Labs)](https://github.com/invariantlabs-ai/mcp-scan)
 - [StrongDM Leash](https://github.com/strongdm/leash)
 - [MCP Defender](https://github.com/MCP-Defender/MCP-Defender)
+- [mcp-proxy - Drop-in Governance Proxy for MCP Tool Servers](https://github.com/Born14/mcp-proxy)
 
 ## IDE Plugins
 
@@ -88,6 +89,7 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [Chatting with Your Attack Paths: An MCP for BloodHound - SpecterOps](https://specterops.io/blog/2025/06/04/chatting-with-your-attack-paths-an-mcp-for-bloodhound/)
 - [Jumping the line: How MCP servers can attack you before you ever](https://blog.trailofbits.com/2025/04/21/jumping-the-line-how-mcp-servers-can-attack-you-before-you-ever-use-them/)
 - [Damn Vulnerable](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
+- [Damn Vulnerable MCP Server - Intentionally Vulnerable MCP Server for Security Training](https://github.com/Kyze-Labs/damn-vulnerable-MCP-Server)
 
 ## Risk Databases
 
@@ -242,3 +244,4 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [The Developer's Guide to MCP: From Basics to Advanced Workflows - C](https://cline.bot/blog/the-developers-guide-to-mcp-from-basics-to-advanced-workflows)
 - [Chrome 146 includes an early preview of WebMCP, accessible via a flag,](https://x.com/firt/status/2020903127428313461?s=61&t=o83JrWtW5bWFMFSrHYuyrQ)
 - [Maybe now people will see why you don't want many MCPs\.](https://x.com/steipete/status/1958679613489524952?s=46&t=HEqLHVfVHBfb1Ti5KJVPZw)
+- [ODR: Internals of Microsoft's New Native MCP Registration](https://www.originhq.com/blog/msft-odr-mcp)

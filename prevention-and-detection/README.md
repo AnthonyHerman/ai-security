@@ -94,3 +94,4 @@ Guardrails, firewalls, runtime protection, monitoring, and defensive tools.
 - [Introducing VirusTotal Code Insight: Empowering threat analysis wit](https://blog.virustotal.com/2023/04/introducing-virustotal-code-insight.html)
 - [Introducing Socket AI – ChatGPT-Powered Threat Analysis - Socket](https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis)
 - [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396)
+- [Surf AI - Eliminate Exposure, Elevate Your Security Team](https://www.surf.ai)

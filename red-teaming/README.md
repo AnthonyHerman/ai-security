@@ -8,6 +8,7 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [Pillar Security - AI Red Teaming Introduction](https://www.pillar.security/ai-red-teaming-introduction)
 - [AI/LLM Red Team Handbook](https://github.com/Shiva108/ai-llm-red-team-handbook)
 - [AI Pentest Scoping](https://devansh.bearblog.dev/ai-pentest-scoping/)
+- [How Google Does It: Building an Effective AI Red Team](https://cloud.google.com/transform/how-google-does-it-building-an-effective-ai-red-team/)
 
 ## Tools
 
@@ -15,6 +16,7 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [Opcode.sh](https://opcode.sh/)
 - [claude-bug-bounty: AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
 - [Introducing Neo, an AI security engineer for complex security tasks](https://projectdiscovery.io/blog/introducing-neo)
+- [Partnering with Caido to Bring Precision & Control to Agentic Pentesting](https://www.strix.ai/blog/partnering-with-caido)
 
 ## Resources
 
@@ -73,3 +75,6 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [Teaching Claude Everything You've Hacked](https://clawd.it/posts/11-teaching-claude-everything-youve-hacked/)
 - [How My AI Hunting System Found Two Critical Vulns in a Private Bug Bounty — While I Was Out](https://labs.trace37.com/blog/autonomous-ctf-solve/)
 - [How We Hacked McKinsey's AI Platform](https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform)
+- [Pwning AI Code Interpreters in AWS Bedrock AgentCore](https://www.beyondtrust.com/blog/entry/pwning-aws-agentcore-code-interpreter)
+- [Killer Agent Framework Features](https://executiveoffense.beehiiv.com/p/killer-agent-framework-features)
+- [How do frontier AI agents perform in multi-step cyber-attack scenarios?](https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios)

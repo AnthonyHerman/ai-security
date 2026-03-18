@@ -793,3 +793,8 @@ Blog posts, talks, opinion pieces, and commentary on AI, security, and the broad
 - [Fliki - Turn text into videos with AI voices](https://fliki.ai/)
 - [Claude Code, Claude Cowork and Codex #5](https://thezvi.wordpress.com/2026/03/09/claude-code-claude-cowork-and-codex-5/)
 - [Claude Code is the Inflection Point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point)
+- [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
+- [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
+- [max. - A Personal AI Assistant Built with Developers in Mind](https://burkeholland.github.io/max/)
+- [CLI-Anything: Making ALL Software Agent-Native](https://github.com/HKUDS/CLI-Anything)
+- [Automating Skill Acquisition through Large-Scale Mining of Open-Source Agentic Repositories](https://arxiv.org/abs/2603.11808)

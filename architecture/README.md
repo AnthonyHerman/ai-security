@@ -23,3 +23,4 @@ Design patterns, principles, and architectural considerations for building secur
 - [AI featured threat modeli](https://github.com/xvnpw/ai-threat-modeling-action)
 - [SPQA: The AI-based Architecture That'll Replace Most Existing Software](https://danielmiessler.com/blog/spqa-ai-architecture-replace-existing-software/)
 - [OpenClaw Threat Model](https://trust.openclaw.ai/trust/threatmodel)
+- [CrowdStrike and NVIDIA Unveil Secure-by-Design AI Blueprint for AI Agents](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-nvidia-unveil-secure-by-design-ai-blueprint-for-ai-agents/)

@@ -99,6 +99,7 @@ Tools and techniques for protecting secrets from AI coding agents and LLM contex
 - [Automate code reviews, patching a](https://github.com/patched-codes/patchwork)
 - [10x your AppSec program with Semgrep Assistant](https://semgrep.dev/blog/2024/assistant-ga-launch/?utm_source=twitter&utm_medium=social)
 - [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/)
+- [Securing our codebase with autonomous agents](https://cursor.com/blog/security-agents)
 
 ## Coding Tools and Assistants
 

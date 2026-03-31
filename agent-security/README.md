@@ -165,6 +165,12 @@ Security considerations for AI agents, agentic frameworks, identity, and trust.
 - [OneCLI - Secret Vault for AI Agents](https://github.com/onecli/onecli)
 - [openclaw-a365 - Native Microsoft 365 Channel for OpenClaw](https://github.com/SidU/openclaw-a365)
 
+## Harness Engineering
+
+- [Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned](https://arxiv.org/abs/2603.05344)
+- [The Anatomy of an Agent Harness](https://blog.langchain.com/the-anatomy-of-an-agent-harness/)
+- [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
+
 ## Research
 
 - [AI Agent Smart Contract Exploit Generation](https://arxiv.org/abs/2507.05558)
@@ -172,7 +178,6 @@ Security considerations for AI agents, agentic frameworks, identity, and trust.
 - [Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study](https://arxiv.org/abs/2602.06547)
 - [SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement](https://arxiv.org/abs/2602.14211)
 - [Agents of Chaos](https://arxiv.org/abs/2602.20021)
-- [Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned](https://arxiv.org/abs/2603.05344)
 
 ## MCP (Model Context Protocol)
 

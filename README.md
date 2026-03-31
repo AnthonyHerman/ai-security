@@ -17,6 +17,7 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 - [Supply Chain](supply-chain/README.md) -- AI supply chain risks and mitigations
 - [Benchmarks and Evaluation](benchmarks/README.md) -- Benchmarks, datasets, and evaluation frameworks
 - [Research](research/README.md) -- Academic papers and surveys
+- [Engineering Patterns](engineering-patterns/README.md) -- Harness engineering, building patterns, and general insights
 - [General Reading](general-reading/README.md) -- Blog posts, talks, opinion, and commentary
 
 ---

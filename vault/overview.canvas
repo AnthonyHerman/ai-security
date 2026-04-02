@@ -1,0 +1,676 @@
+{
+  "nodes": [
+    {
+      "id": "moc",
+      "type": "file",
+      "file": "AI Security.md",
+      "x": 1400,
+      "y": -200,
+      "width": 300,
+      "height": 80,
+      "color": "1"
+    },
+    {
+      "id": "secure-ai-architecture",
+      "type": "file",
+      "file": "Foundations/Secure AI Architecture.md",
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "frameworks-and-standards",
+      "type": "file",
+      "file": "Foundations/Frameworks and Standards.md",
+      "x": 0,
+      "y": 100,
+      "width": 350,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "governance-and-policy",
+      "type": "file",
+      "file": "Foundations/Governance and Policy.md",
+      "x": 0,
+      "y": 200,
+      "width": 350,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "threat-modeling",
+      "type": "file",
+      "file": "Foundations/Threat Modeling.md",
+      "x": 0,
+      "y": 300,
+      "width": 350,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "incidents-and-case-studies",
+      "type": "file",
+      "file": "Attacks/Incidents and Case Studies.md",
+      "x": 400,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "jailbreaking",
+      "type": "file",
+      "file": "Attacks/Jailbreaking.md",
+      "x": 400,
+      "y": 100,
+      "width": 350,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "model-attacks",
+      "type": "file",
+      "file": "Attacks/Model Attacks.md",
+      "x": 400,
+      "y": 200,
+      "width": 350,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "prompt-injection",
+      "type": "file",
+      "file": "Attacks/Prompt Injection.md",
+      "x": 400,
+      "y": 300,
+      "width": 350,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "supply-chain-security",
+      "type": "file",
+      "file": "Attacks/Supply Chain Security.md",
+      "x": 400,
+      "y": 400,
+      "width": 350,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "detection-and-monitoring",
+      "type": "file",
+      "file": "Defense/Detection and Monitoring.md",
+      "x": 800,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "guardrails-and-firewalls",
+      "type": "file",
+      "file": "Defense/Guardrails and Firewalls.md",
+      "x": 800,
+      "y": 100,
+      "width": 350,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "honeypots-and-deception",
+      "type": "file",
+      "file": "Defense/Honeypots and Deception.md",
+      "x": 800,
+      "y": 200,
+      "width": 350,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "sandboxing-and-isolation",
+      "type": "file",
+      "file": "Defense/Sandboxing and Isolation.md",
+      "x": 800,
+      "y": 300,
+      "width": 350,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "secrets-management",
+      "type": "file",
+      "file": "Defense/Secrets Management.md",
+      "x": 800,
+      "y": 400,
+      "width": 350,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "agent-frameworks-and-tools",
+      "type": "file",
+      "file": "Agents/Agent Frameworks and Tools.md",
+      "x": 1200,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "agent-identity-and-authentication",
+      "type": "file",
+      "file": "Agents/Agent Identity and Authentication.md",
+      "x": 1200,
+      "y": 100,
+      "width": 350,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "agent-security",
+      "type": "file",
+      "file": "Agents/Agent Security.md",
+      "x": 1200,
+      "y": 200,
+      "width": 350,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "mcp-(model-context-protocol)-security",
+      "type": "file",
+      "file": "Agents/MCP (Model Context Protocol) Security.md",
+      "x": 1200,
+      "y": 300,
+      "width": 350,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "code-analysis",
+      "type": "file",
+      "file": "Coding/Code Analysis.md",
+      "x": 1600,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "coding-tools-and-assistants",
+      "type": "file",
+      "file": "Coding/Coding Tools and Assistants.md",
+      "x": 1600,
+      "y": 100,
+      "width": 350,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "secure-coding",
+      "type": "file",
+      "file": "Coding/Secure Coding.md",
+      "x": 1600,
+      "y": 200,
+      "width": 350,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "benchmarks-and-evaluation",
+      "type": "file",
+      "file": "Research/Benchmarks and Evaluation.md",
+      "x": 2000,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "research-papers",
+      "type": "file",
+      "file": "Research/Research Papers.md",
+      "x": 2000,
+      "y": 100,
+      "width": 350,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "safety,-alignment,-and-privacy",
+      "type": "file",
+      "file": "Research/Safety, Alignment, and Privacy.md",
+      "x": 2000,
+      "y": 200,
+      "width": 350,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "engineering-patterns",
+      "type": "file",
+      "file": "Practice/Engineering Patterns.md",
+      "x": 2400,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "privacy-and-data-security",
+      "type": "file",
+      "file": "Practice/Privacy and Data Security.md",
+      "x": 2400,
+      "y": 100,
+      "width": 350,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "red-teaming",
+      "type": "file",
+      "file": "Practice/Red Teaming.md",
+      "x": 2400,
+      "y": 200,
+      "width": 350,
+      "height": 60,
+      "color": "0"
+    },
+    {
+      "id": "general-reading",
+      "type": "file",
+      "file": "General/General Reading.md",
+      "x": 2800,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "0"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-moc-secure-ai-architecture",
+      "fromNode": "moc",
+      "toNode": "secure-ai-architecture",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-frameworks-and-standards",
+      "fromNode": "moc",
+      "toNode": "frameworks-and-standards",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-governance-and-policy",
+      "fromNode": "moc",
+      "toNode": "governance-and-policy",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-threat-modeling",
+      "fromNode": "moc",
+      "toNode": "threat-modeling",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-incidents-and-case-studies",
+      "fromNode": "moc",
+      "toNode": "incidents-and-case-studies",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-jailbreaking",
+      "fromNode": "moc",
+      "toNode": "jailbreaking",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-model-attacks",
+      "fromNode": "moc",
+      "toNode": "model-attacks",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-prompt-injection",
+      "fromNode": "moc",
+      "toNode": "prompt-injection",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-supply-chain-security",
+      "fromNode": "moc",
+      "toNode": "supply-chain-security",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-detection-and-monitoring",
+      "fromNode": "moc",
+      "toNode": "detection-and-monitoring",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-guardrails-and-firewalls",
+      "fromNode": "moc",
+      "toNode": "guardrails-and-firewalls",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-honeypots-and-deception",
+      "fromNode": "moc",
+      "toNode": "honeypots-and-deception",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-sandboxing-and-isolation",
+      "fromNode": "moc",
+      "toNode": "sandboxing-and-isolation",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-secrets-management",
+      "fromNode": "moc",
+      "toNode": "secrets-management",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-agent-frameworks-and-tools",
+      "fromNode": "moc",
+      "toNode": "agent-frameworks-and-tools",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-agent-identity-and-authentication",
+      "fromNode": "moc",
+      "toNode": "agent-identity-and-authentication",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-agent-security",
+      "fromNode": "moc",
+      "toNode": "agent-security",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-mcp-(model-context-protocol)-security",
+      "fromNode": "moc",
+      "toNode": "mcp-(model-context-protocol)-security",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-code-analysis",
+      "fromNode": "moc",
+      "toNode": "code-analysis",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-coding-tools-and-assistants",
+      "fromNode": "moc",
+      "toNode": "coding-tools-and-assistants",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-secure-coding",
+      "fromNode": "moc",
+      "toNode": "secure-coding",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-benchmarks-and-evaluation",
+      "fromNode": "moc",
+      "toNode": "benchmarks-and-evaluation",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-research-papers",
+      "fromNode": "moc",
+      "toNode": "research-papers",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-safety,-alignment,-and-privacy",
+      "fromNode": "moc",
+      "toNode": "safety,-alignment,-and-privacy",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-engineering-patterns",
+      "fromNode": "moc",
+      "toNode": "engineering-patterns",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-privacy-and-data-security",
+      "fromNode": "moc",
+      "toNode": "privacy-and-data-security",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-red-teaming",
+      "fromNode": "moc",
+      "toNode": "red-teaming",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-general-reading",
+      "fromNode": "moc",
+      "toNode": "general-reading",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-guardrails-and-firewalls-prompt-injection",
+      "fromNode": "guardrails-and-firewalls",
+      "toNode": "prompt-injection",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-guardrails-and-firewalls-jailbreaking",
+      "fromNode": "guardrails-and-firewalls",
+      "toNode": "jailbreaking",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-prompt-injection-secure-coding",
+      "fromNode": "prompt-injection",
+      "toNode": "secure-coding",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-jailbreaking-prompt-injection",
+      "fromNode": "jailbreaking",
+      "toNode": "prompt-injection",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-jailbreaking-red-teaming",
+      "fromNode": "jailbreaking",
+      "toNode": "red-teaming",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-agent-security-mcp",
+      "fromNode": "agent-security",
+      "toNode": "mcp",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-agent-identity-agent-security",
+      "fromNode": "agent-identity",
+      "toNode": "agent-security",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-agent-identity-mcp",
+      "fromNode": "agent-identity",
+      "toNode": "mcp",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-agent-identity-secrets-management",
+      "fromNode": "agent-identity",
+      "toNode": "secrets-management",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-secrets-management-secure-coding",
+      "fromNode": "secrets-management",
+      "toNode": "secure-coding",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-code-analysis-secure-coding",
+      "fromNode": "code-analysis",
+      "toNode": "secure-coding",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-code-analysis-detection-and-monitoring",
+      "fromNode": "code-analysis",
+      "toNode": "detection-and-monitoring",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-detection-and-monitoring-guardrails-and-firewalls",
+      "fromNode": "detection-and-monitoring",
+      "toNode": "guardrails-and-firewalls",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-model-attacks-supply-chain",
+      "fromNode": "model-attacks",
+      "toNode": "supply-chain",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-model-attacks-safety-and-alignment",
+      "fromNode": "model-attacks",
+      "toNode": "safety-and-alignment",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-incidents-prompt-injection",
+      "fromNode": "incidents",
+      "toNode": "prompt-injection",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-incidents-mcp",
+      "fromNode": "incidents",
+      "toNode": "mcp",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-frameworks-and-standards-governance-and-policy",
+      "fromNode": "frameworks-and-standards",
+      "toNode": "governance-and-policy",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-frameworks-and-standards-threat-modeling",
+      "fromNode": "frameworks-and-standards",
+      "toNode": "threat-modeling",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-architecture-threat-modeling",
+      "fromNode": "architecture",
+      "toNode": "threat-modeling",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-engineering-patterns-secure-coding",
+      "fromNode": "engineering-patterns",
+      "toNode": "secure-coding",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-privacy-safety-and-alignment",
+      "fromNode": "privacy",
+      "toNode": "safety-and-alignment",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    },
+    {
+      "id": "edge-privacy-secrets-management",
+      "fromNode": "privacy",
+      "toNode": "secrets-management",
+      "fromSide": "right",
+      "toSide": "left",
+      "color": "0"
+    }
+  ]
+}

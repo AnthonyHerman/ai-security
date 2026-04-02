@@ -105,15 +105,19 @@ For each link, append it to the end of the appropriate subsection in its target 
 
 Use the Edit tool to make each change. Do not rewrite entire files.
 
-## Step 5: Commit and Push
+## Step 5: Sync Obsidian Vault
 
-Use Bash to git add all modified files and create a single commit. Use the message format:
+Run `python3 scripts/sync-vault.py` to regenerate the Obsidian vault from the updated READMEs.
+
+## Step 6: Commit and Push
+
+Use Bash to git add all modified files (including vault changes) and create a single commit. Use the message format:
 - For a single link: `Add resource: <title>`
 - For multiple links: `Add <N> resources`
 
 Then push to the current branch.
 
-## Step 6: Confirm
+## Step 7: Confirm
 
 Present a summary table to the user with columns:
 - Title

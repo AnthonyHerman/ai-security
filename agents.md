@@ -8,20 +8,52 @@ This is a curated personal compendium of knowledge primarily focused on AI secur
 
 ```
 ai-security/
-  README.md                      # Top-level index with aggregators, system prompts, prompt design
-  frameworks-and-governance/     # Risk frameworks, standards, policy, compliance
-  architecture/                  # Secure AI design patterns, threat modeling
-  prompt-security/               # Prompt injection, jailbreaking, prompt design
-  agent-security/                # Agent frameworks, identity, trust, tools
-    mcp/                         # MCP gateways, scanners, research, tooling
-  coding-security/               # Secure vibe coding, SAST, secrets, platforms
-  red-teaming/                   # Offensive AI security, tools, methodologies
-  prevention-and-detection/      # Guardrails, firewalls, runtime protection, honeypots
-  supply-chain/                  # AI supply chain risks and mitigations
-  benchmarks/                    # Benchmarks, datasets, evaluation frameworks
-  research/                      # Academic papers and surveys
-  general-reading/               # Blog posts, talks, opinion, commentary
-  resources/                     # Local PDFs and other files
+  README.md                          # Top-level index with aggregators, system prompts, prompt design
+
+  foundations/
+    frameworks-and-standards/        # Risk frameworks, standards (NIST, OWASP, MITRE ATLAS)
+    governance-and-policy/           # Compliance, AI policy, legal, trust
+    threat-modeling/                 # Threat modeling frameworks, tools, methodologies
+    architecture/                    # Secure AI design patterns and principles
+
+  attacks/
+    prompt-injection/                # Prompt injection taxonomy, techniques, datasets, defenses
+    jailbreaking/                    # Jailbreaking techniques and research
+    model-attacks/                   # Poisoning, backdoors, extraction, adversarial ML
+    supply-chain/                    # Dependency attacks, model integrity, signing
+    incidents/                       # Real-world breaches, exploits, case studies
+
+  defense/
+    guardrails-and-firewalls/        # Guardrails, firewalls, runtime protection
+    sandboxing-and-isolation/        # Runtime containment, sandboxing, code execution security
+    detection-and-monitoring/        # Vulnerability scanners, security platforms, threat detection
+    secrets-management/              # Protecting secrets from AI agents
+    honeypots-and-deception/         # Honeypots and adversary engagement
+
+  agents/
+    agent-security/                  # Agent-specific security concerns and threats
+    agent-identity/                  # OAuth, NHI, authentication, authorization
+    mcp/                             # MCP gateways, scanners, research, tooling
+    agent-frameworks/                # General agent frameworks, platforms, tools
+
+  coding/
+    secure-coding/                   # Rules files, vibe coding security, secure prompt engineering
+    code-analysis/                   # SAST, code review, vulnerability scanning
+    coding-tools/                    # IDE integrations, copilots, assistants
+
+  research/
+    papers/                          # Academic papers and surveys
+    benchmarks/                      # Evaluation frameworks and datasets
+    safety-and-alignment/            # AI safety, alignment, privacy
+
+  practice/
+    red-teaming/                     # Offensive AI security, tools, methodologies
+    engineering-patterns/            # Harness engineering, building patterns
+    privacy/                         # Data leakage, PII protection, exfiltration
+
+  general/                           # Blog posts, talks, opinion, commentary
+
+  resources/                         # Local PDFs and other files
 ```
 
 Each directory has a `README.md` with categorized links.
@@ -39,24 +71,37 @@ When the user wants to add a link, the agent should:
    - For tweets/X posts, summarize the key content briefly as the link text
 
 3. **Classify the link** into the appropriate category/section:
-   - If it's clearly an academic paper (arXiv, conference proceedings) -> `research/README.md`
-   - If it's about MCP specifically -> `agent-security/mcp/README.md`
-   - If it's about agent identity, NHI, OAuth for agents -> `agent-security/README.md` under "Agentic Identity / NHI"
-   - If it's about agent tools, frameworks, or general agent security -> `agent-security/README.md` under "Agent Security Frameworks and Tools"
-   - If it's about prompt injection, jailbreaking -> `prompt-security/README.md`
-   - If it's about red teaming methodology or offensive tools -> `red-teaming/README.md`
-   - If it's about guardrails, firewalls, detection -> `prevention-and-detection/README.md`
-   - If it's about supply chain risks -> `supply-chain/README.md`
-   - If it's about benchmarks or evaluation -> `benchmarks/README.md`
-   - If it's about secure coding, SAST, or coding assistants -> `coding-security/README.md`
-   - If it's about frameworks, governance, policy -> `frameworks-and-governance/README.md`
-   - If it's about architecture or design patterns -> `architecture/README.md`
-   - If it's a blog post, opinion piece, or general commentary -> `general-reading/README.md`
+   - If it's clearly an academic paper (arXiv, conference proceedings) -> `research/papers/README.md`
+   - If it's about MCP specifically -> `agents/mcp/README.md`
+   - If it's about agent identity, NHI, OAuth for agents -> `agents/agent-identity/README.md`
+   - If it's about agent security threats/tools -> `agents/agent-security/README.md`
+   - If it's about general agent frameworks/platforms -> `agents/agent-frameworks/README.md`
+   - If it's about prompt injection -> `attacks/prompt-injection/README.md`
+   - If it's about jailbreaking -> `attacks/jailbreaking/README.md`
+   - If it's about model poisoning, backdoors, extraction -> `attacks/model-attacks/README.md`
+   - If it's about red teaming methodology or offensive tools -> `practice/red-teaming/README.md`
+   - If it's about guardrails, firewalls -> `defense/guardrails-and-firewalls/README.md`
+   - If it's about sandboxing, isolation -> `defense/sandboxing-and-isolation/README.md`
+   - If it's about vulnerability scanning, detection -> `defense/detection-and-monitoring/README.md`
+   - If it's about secrets management -> `defense/secrets-management/README.md`
+   - If it's about supply chain risks -> `attacks/supply-chain/README.md`
+   - If it's about benchmarks or evaluation -> `research/benchmarks/README.md`
+   - If it's about secure coding, SAST, or code review -> `coding/code-analysis/README.md`
+   - If it's about coding tools, IDEs, copilots -> `coding/coding-tools/README.md`
+   - If it's about secure coding rules/practices -> `coding/secure-coding/README.md`
+   - If it's about frameworks, governance, policy -> `foundations/governance-and-policy/README.md`
+   - If it's about threat modeling -> `foundations/threat-modeling/README.md`
+   - If it's about architecture or design patterns -> `foundations/architecture/README.md`
+   - If it's about AI safety, alignment -> `research/safety-and-alignment/README.md`
+   - If it's about privacy, data leakage -> `practice/privacy/README.md`
+   - If it's about harness/context engineering -> `practice/engineering-patterns/README.md`
+   - If it's a real-world incident or case study -> `attacks/incidents/README.md`
+   - If it's a blog post, opinion piece, or general commentary -> `general/README.md`
    - **When in doubt, ask the user** which section fits best. Present the top 2-3 candidate sections.
 
 4. **Append the link** to the appropriate section in the target file. Place it at the end of the relevant subsection.
 
-5. **Handle ambiguous or cross-cutting topics**: Some links span multiple categories (e.g., a paper about prompt injection could go in `research/` or `prompt-security/`). Default to the more specific category, but if the user has a preference, follow it.
+5. **Handle ambiguous or cross-cutting topics**: Some links span multiple categories. Default to the more specific category, but if the user has a preference, follow it.
 
 ## Link Format Examples
 

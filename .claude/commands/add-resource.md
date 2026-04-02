@@ -41,20 +41,34 @@ Read the repo structure to determine the correct placement for each URL. The cat
 
 | Category | File | What belongs here |
 |---|---|---|
-| Frameworks & Governance | `frameworks-and-governance/README.md` | Risk frameworks, standards, policy, compliance, regulations |
-| Architecture | `architecture/README.md` | Secure AI design patterns, threat modeling |
-| Prompt Security | `prompt-security/README.md` | Prompt injection, jailbreaking, prompt hardening |
-| Agent Security - Identity/NHI | `agent-security/README.md` (under "Agentic Identity / NHI") | Agent identity, OAuth for agents, NHI, authentication |
-| Agent Security - Frameworks/Tools | `agent-security/README.md` (under "Agent Security Frameworks and Tools") | Agent frameworks, tools, general agent security |
-| Agent Security - Research | `agent-security/README.md` (under "Research") | Academic papers specifically about agent security |
-| MCP | `agent-security/mcp/README.md` | MCP protocol, gateways, scanners, MCP-specific tooling |
-| Coding Security | `coding-security/README.md` | Secure coding, SAST, vibe coding security, coding assistants, secrets management |
-| Red Teaming | `red-teaming/README.md` | Offensive AI security, attack tools, red team methodologies |
-| Prevention & Detection | `prevention-and-detection/README.md` | Guardrails, firewalls, runtime protection, honeypots, defensive tools |
-| Supply Chain | `supply-chain/README.md` | AI/ML supply chain risks, model poisoning, dependency risks |
-| Benchmarks | `benchmarks/README.md` | Benchmarks, datasets, evaluation frameworks |
-| Research | `research/README.md` | Academic papers and surveys (general AI security) |
-| General Reading | `general-reading/README.md` | Blog posts, talks, opinion pieces, commentary |
+| Frameworks & Standards | `foundations/frameworks-and-standards/README.md` | Risk frameworks, standards (NIST, OWASP, MITRE ATLAS) |
+| Governance & Policy | `foundations/governance-and-policy/README.md` | Compliance, AI policy, legal, trust |
+| Threat Modeling | `foundations/threat-modeling/README.md` | Threat modeling frameworks, tools, methodologies |
+| Architecture | `foundations/architecture/README.md` | Secure AI design patterns, principles |
+| Prompt Injection | `attacks/prompt-injection/README.md` | Prompt injection taxonomy, techniques, datasets, defenses |
+| Jailbreaking | `attacks/jailbreaking/README.md` | Jailbreaking techniques, research |
+| Model Attacks | `attacks/model-attacks/README.md` | Poisoning, backdoors, extraction, adversarial ML |
+| Supply Chain | `attacks/supply-chain/README.md` | Dependency attacks, model integrity, signing |
+| Incidents | `attacks/incidents/README.md` | Real-world breaches, exploits, case studies |
+| Guardrails & Firewalls | `defense/guardrails-and-firewalls/README.md` | Guardrails, firewalls, runtime protection |
+| Sandboxing & Isolation | `defense/sandboxing-and-isolation/README.md` | Runtime containment, sandboxing, code execution |
+| Detection & Monitoring | `defense/detection-and-monitoring/README.md` | Vulnerability scanners, security platforms, threat detection |
+| Secrets Management | `defense/secrets-management/README.md` | Protecting secrets from AI agents |
+| Honeypots & Deception | `defense/honeypots-and-deception/README.md` | Honeypots and adversary engagement |
+| Agent Security | `agents/agent-security/README.md` | Agent-specific security concerns, threats |
+| Agent Identity | `agents/agent-identity/README.md` | OAuth, NHI, authentication, authorization |
+| MCP | `agents/mcp/README.md` | MCP protocol, gateways, scanners, tooling |
+| Agent Frameworks | `agents/agent-frameworks/README.md` | General agent frameworks, platforms, tools |
+| Secure Coding | `coding/secure-coding/README.md` | Rules files, vibe coding security, secure prompt engineering |
+| Code Analysis | `coding/code-analysis/README.md` | SAST, code review, vulnerability scanning |
+| Coding Tools | `coding/coding-tools/README.md` | IDE integrations, copilots, assistants |
+| Research Papers | `research/papers/README.md` | Academic papers and surveys |
+| Benchmarks | `research/benchmarks/README.md` | Evaluation frameworks and datasets |
+| Safety & Alignment | `research/safety-and-alignment/README.md` | AI safety, alignment, privacy |
+| Red Teaming | `practice/red-teaming/README.md` | Offensive AI security, attack tools, methodologies |
+| Engineering Patterns | `practice/engineering-patterns/README.md` | Harness engineering, building patterns |
+| Privacy | `practice/privacy/README.md` | Data leakage, PII protection, exfiltration |
+| General Reading | `general/README.md` | Blog posts, talks, opinion pieces, commentary |
 
 ### CRITICAL: Confidence Requirement
 
@@ -71,9 +85,9 @@ After classifying all links, present a summary table showing each URL, its title
 Do NOT proceed to editing until all classifications are resolved.
 
 **Examples of ambiguity that MUST be escalated:**
-- A blog post about a new prompt injection attack (general-reading? prompt-security? research?)
-- A tool that does both red teaming and detection (red-teaming? prevention-and-detection?)
-- An academic paper about MCP security (research? agent-security/mcp?)
+- A blog post about a new prompt injection attack (general? attacks/prompt-injection? research?)
+- A tool that does both red teaming and detection (practice/red-teaming? defense/detection-and-monitoring?)
+- An academic paper about MCP security (research/papers? agents/mcp?)
 
 When in doubt, ask. Never guess.
 

@@ -6,19 +6,49 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 
 ## Table of Contents
 
-- [Frameworks and Governance](frameworks-and-governance/README.md) -- Risk frameworks, standards, policy, and compliance
-- [Architecture](architecture/README.md) -- Secure AI design patterns and threat modeling
-- [Prompt Security](prompt-security/README.md) -- Prompt injection, jailbreaking, and prompt design
-- [Agent Security](agent-security/README.md) -- Agent frameworks, identity, trust, and MCP
-  - [MCP (Model Context Protocol)](agent-security/mcp/README.md) -- Gateways, scanners, research, and tooling
-- [Coding Security](coding-security/README.md) -- Secure vibe coding, SAST, secrets management, and platforms
-- [Red Teaming](red-teaming/README.md) -- Offensive AI security, tools, and methodologies
-- [Prevention and Detection](prevention-and-detection/README.md) -- Guardrails, firewalls, runtime protection, and honeypots
-- [Supply Chain](supply-chain/README.md) -- AI supply chain risks and mitigations
-- [Benchmarks and Evaluation](benchmarks/README.md) -- Benchmarks, datasets, and evaluation frameworks
-- [Research](research/README.md) -- Academic papers and surveys
-- [Engineering Patterns](engineering-patterns/README.md) -- Harness engineering, building patterns, and general insights
-- [General Reading](general-reading/README.md) -- Blog posts, talks, opinion, and commentary
+### Foundations
+- [Frameworks and Standards](foundations/frameworks-and-standards/README.md) -- Risk frameworks, standards, and foundational security references
+- [Governance and Policy](foundations/governance-and-policy/README.md) -- Compliance, AI policy, legal, and trust
+- [Threat Modeling](foundations/threat-modeling/README.md) -- Threat modeling frameworks, tools, and methodologies
+- [Architecture](foundations/architecture/README.md) -- Secure AI design patterns and principles
+
+### Attacks
+- [Prompt Injection](attacks/prompt-injection/README.md) -- Taxonomy, techniques, datasets, and defenses
+- [Jailbreaking](attacks/jailbreaking/README.md) -- Jailbreaking techniques and research
+- [Model Attacks](attacks/model-attacks/README.md) -- Poisoning, backdoors, extraction, and adversarial ML
+- [Supply Chain](attacks/supply-chain/README.md) -- Dependency attacks, model integrity, and signing
+- [Incidents](attacks/incidents/README.md) -- Real-world breaches, exploits, and case studies
+
+### Defense
+- [Guardrails and Firewalls](defense/guardrails-and-firewalls/README.md) -- Guardrails, firewalls, and runtime protection
+- [Sandboxing and Isolation](defense/sandboxing-and-isolation/README.md) -- Runtime containment and code execution security
+- [Detection and Monitoring](defense/detection-and-monitoring/README.md) -- Vulnerability scanners and threat detection
+- [Secrets Management](defense/secrets-management/README.md) -- Protecting secrets from AI agents
+- [Honeypots and Deception](defense/honeypots-and-deception/README.md) -- Honeypots and adversary engagement
+
+### Agents
+- [Agent Security](agents/agent-security/README.md) -- Agent-specific security concerns and threats
+- [Agent Identity](agents/agent-identity/README.md) -- OAuth, NHI, authentication, and authorization
+- [MCP (Model Context Protocol)](agents/mcp/README.md) -- Gateways, scanners, research, and tooling
+- [Agent Frameworks](agents/agent-frameworks/README.md) -- General agent frameworks, platforms, and tools
+
+### Coding
+- [Secure Coding](coding/secure-coding/README.md) -- Rules files, vibe coding security, and secure prompt engineering
+- [Code Analysis](coding/code-analysis/README.md) -- SAST, code review, and vulnerability scanning
+- [Coding Tools](coding/coding-tools/README.md) -- IDE integrations, copilots, and assistants
+
+### Research
+- [Papers](research/papers/README.md) -- Academic papers and surveys
+- [Benchmarks](research/benchmarks/README.md) -- Evaluation frameworks and datasets
+- [Safety and Alignment](research/safety-and-alignment/README.md) -- AI safety, alignment, and privacy
+
+### Practice
+- [Red Teaming](practice/red-teaming/README.md) -- Offensive AI security, tools, and methodologies
+- [Engineering Patterns](practice/engineering-patterns/README.md) -- Harness engineering and building patterns
+- [Privacy](practice/privacy/README.md) -- Data leakage, PII protection, and exfiltration
+
+### General
+- [General Reading](general/README.md) -- Blog posts, talks, opinion, and commentary
 
 ---
 

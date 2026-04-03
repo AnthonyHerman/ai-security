@@ -20,6 +20,10 @@ group: General
 - [Methodology: 2k+ Vulnerabilities in Vibe-Coded Apps](https://escape.tech/blog/methodology-how-we-discovered-vulnerabilities-apps-built-with-vibe-coding/)
 - [Avoiding Security Pitfalls - Lovable Documentation](https://docs.lovable.dev/tips-tricks/avoiding-security-pitfalls)
 - [Bugcrowd Policy Changes to Address AI Slop Submissions](https://www.bugcrowd.com/blog/bugcrowd-policy-changes-to-address-ai-slop-submissions/)
+- [AI Finds Vulns You Can't With Nicholas Carlini](https://securitycryptographywhatever.com/2026/03/25/ai-bug-finding/)
+- [MAD Bugs: Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)](https://blog.calif.io/p/mad-bugs-claude-wrote-a-full-freebsd)
+- [MAD Bugs: vim vs emacs vs Claude](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
+- [Significant raise of reports](https://lwn.net/Articles/1065620/)
 - [Your AI conversations aren't privileged\. Yesterday, Judge Jed Rakoff ruled that 31](https://x.com/mpeltz/status/2021778562328482231?s=46&t=HEqLHVfVHBfb1Ti5KJVPZw)
 - [AI Security Summit](https://aisecuritysummit.com)
 - [Under a safety frame: Exploring classification shifts in LLM-as-a-J](https://lab.fukami.eu/LLMAAJ2)
@@ -170,4 +174,4 @@ group: General
 - [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 
 ---
-*150 resources*
+*154 resources*

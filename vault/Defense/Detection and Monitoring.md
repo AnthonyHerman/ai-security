@@ -27,6 +27,7 @@ group: Defense
 - [0Labs - AI Cyber Defense](https://www.0labs.ai/)
 - [OpenAnt from Knostic is an open source LL](https://github.com/knostic/OpenAnt)
 - [Project CodeGuard](https://github.com/project-codeguard)
+- [Dropzone AI - Agentic SOC Platform](https://www.dropzone.ai/)
 - [AI Risk Database](https://github.com/mitre/advmlthreatmatrix)
 - [A curated list of t](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 - [A curated list of](https://github.com/tenable/awesome-llm-cybersecurity-tools)
@@ -48,4 +49,4 @@ group: Defense
 - [#ai #llm #security #audit - Kevin J. - 21 comments](https://www.linkedin.com/posts/kevin-joensen_ai-llm-security-activity-7433093920068153345-D0Vr?utm_medium=ios_app&rcm=ACoAAABSexoBsYekwoCz_fH30__0shfExZaygC4&utm_source=social_share_send&utm_campaign=copy_link)
 
 ---
-*26 resources*
+*27 resources*

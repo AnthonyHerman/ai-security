@@ -12,7 +12,7 @@ SAST, code review, vulnerability scanning, and security analysis tools for AI-ge
 ## Platforms
 
 - [AISLE](https://aisle.com)
-- [DepthFirst](https://depthfirst.com/)
+- [DepthFirst](https://depthfirst.com/) ([Series B announcement](https://www.finsmes.com/2026/03/depthfirst-raises-80m-in-series-b-funding.html))
 - [ZeroPath](https://zeropath.com/)
 
 ## Security Tools and Analysis

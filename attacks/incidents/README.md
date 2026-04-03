@@ -6,6 +6,8 @@ Real-world AI security incidents, breaches, exploits, and case studies.
 
 ## Data Breaches
 
+- [Claude Code Leaks](https://www.ccleaks.com/)
+
 ## Agent Security Incidents
 
 ## MCP Vulnerabilities

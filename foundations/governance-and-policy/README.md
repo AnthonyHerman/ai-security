@@ -26,6 +26,7 @@ AI governance, compliance, policy, legal considerations, and trust.
 
 - [Preparing for what's next: Windows security and resiliency innova](https://blogs.windows.com/windowsexperience/2025/11/18/preparing-for-whats-next-windows-security-and-resiliency-innovations-help-organizations-mitigate-risks-recover-faster-and-prepare-for-the-era-of-ai/)
 - [Meta's Llama Framework Flaw Exposes AI Systems to Remote Code Execu](https://thehackernews.com/2025/01/metas-llama-framework-flaw-exposes-ai.html)
+- [What The Claude Code Leak Means for Engineering Teams in Regulated Industries](https://systima.ai/blog/claude-code-leak-compliance-implications)
 
 ## Trust and Adoption
 

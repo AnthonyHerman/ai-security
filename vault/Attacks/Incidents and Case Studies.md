@@ -12,6 +12,7 @@ group: Attacks
 
 ## Data Breaches
 
+- [Claude Code Leaks](https://www.ccleaks.com/)
 
 ## Agent Security Incidents
 
@@ -20,4 +21,4 @@ group: Attacks
 
 
 ---
-*0 resources*
+*1 resources*

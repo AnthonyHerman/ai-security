@@ -20,6 +20,7 @@ Vulnerability scanners, security platforms, and threat detection tools for AI sy
 - [0Labs - AI Cyber Defense](https://www.0labs.ai/)
 - [OpenAnt from Knostic is an open source LL](https://github.com/knostic/OpenAnt)
 - [Project CodeGuard](https://github.com/project-codeguard)
+- [Dropzone AI - Agentic SOC Platform](https://www.dropzone.ai/)
 - [AI Risk Database](https://github.com/mitre/advmlthreatmatrix)
 - [A curated list of t](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 - [A curated list of](https://github.com/tenable/awesome-llm-cybersecurity-tools)

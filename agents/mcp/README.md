@@ -222,6 +222,7 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms#preparing-the-documentation)
 - [Key Changes - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-06-18/changelog)
 - [Block Engineering Blog](https://engineering.block.xyz/blog/blocks-playbook-for-designing-mcp-servers)
+- [The ZAP MCP Server](https://www.zaproxy.org/blog/2026-04-02-zap-mcp-server/)
 - [Authorization - Model Context Protocol](https://mcp.mintlify.app/mintlify-assets/_next/image?url=%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DAuthorization%26logoLight%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fmcp%252Flogo%252Flight.svg%26logoDark%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fmcp%252Flogo%252Fdark.svg%26primaryColor%3D%252309090b%26lightColor%3D%2523FAFAFA%26darkColor%3D%252309090b&w=1200&q=100)
 - [The New MCP Authorization Specification · Den Delimarsky](https://den.dev/blog/new-mcp-authorization-spec/)
 - [DASH 2025: Guide to Datadog's newest announcements - Datadog](https://www.datadoghq.com/blog/dash-2025-new-feature-roundup-keynote/#connect-your-ai-agents-to-datadog-tools-and-context-using-the-datadog-mcp-server)

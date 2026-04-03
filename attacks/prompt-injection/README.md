@@ -97,7 +97,7 @@ Prompt injection attacks, defenses, taxonomy, datasets, and research.
 - [Call for Papers](https://unpromptedcon.org/)
 - [Google Antigravity Exfiltrates Data - SquareDocs](https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data)
 - [ChatGPT Atlas Agent System prompt You are ChatGPT, a large language model](https://x.com/p1njc70r/status/1980700328137028013)
-- [PromptIntel - IoPC Registry](https://promptintel.novahunting.ai/)
+- [PromptIntel - IoPC Registry](https://promptintel.novahunting.ai/) ([MOLT feed](https://promptintel.novahunting.ai/molt))
 - [Introducing PromptIntel](https://blog.securitybreak.io/introducing-promptintel-1624d03045a3)
 - [Intro - Promptfoo](https://www.promptfoo.dev/docs/intro/)
 - [LM Security Database](https://www.promptfoo.dev/lm-security-db)

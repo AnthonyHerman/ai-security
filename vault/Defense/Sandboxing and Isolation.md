@@ -23,11 +23,14 @@ group: Defense
 - [Docker Desktop 4.40 Release - Docker](https://www.docker.com/blog/docker-desktop-4-40/)
 - [Docker Labs: GenAI No. 19](https://www.linkedin.com/pulse/docker-labs-genai-19-docker-5v8oe)
 - [Containerize your agents!](https://discord.gg/tFksvzbHde)
+- [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/)
+- [Docker Sandboxes](https://docs.docker.com/ai/sandboxes/)
 
 ## Guides and Discussion
 
 - https://www.luiscardoso.dev/blog/sandboxes-for-ai
 - [YOLO in the Sandbox – Voratiq](https://voratiq.com/blog/yolo-in-the-sandbox/)
+- [KiloClaw Security White Paper](https://244051090.fs1.hubspotusercontent-na2.net/hubfs/244051090/KiloClaw%20Security%20White%20Paper.pdf)
 
 ---
-*11 resources*
+*14 resources*

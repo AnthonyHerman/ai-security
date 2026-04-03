@@ -17,6 +17,7 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [claude-bug-bounty: AI-powered bug bounty hunting toolkit](https://github.com/shuvonsec/claude-bug-bounty)
 - [Introducing Neo, an AI security engineer for complex security tasks](https://projectdiscovery.io/blog/introducing-neo)
 - [Partnering with Caido to Bring Precision & Control to Agentic Pentesting](https://www.strix.ai/blog/partnering-with-caido)
+- [pwn.ai - Autonomous AI Penetration Testing](https://pwn.ai/)
 
 ## Resources
 
@@ -25,6 +26,7 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [It is hard to communicate how much bug bounty has changed due](https://x.com/rez0__/status/2027448137133264955?s=61&t=o83JrWtW5bWFMFSrHYuyrQ)
 - [A secure way to code via Signal. In](https://github.com/hackingdave/nightwire)
 - [Gandalf - Lakera – Test your AI hacking skills](https://gandalf.lakera.ai/agent-breaker)
+- [finbot-ctf - Vulnerable Agentic AI Platform for AI Security CTF](https://github.com/GenAI-Security-Project/finbot-ctf)
 - [AI hacking agents keep rejecting your requests? Drop a legit\-looking pentest authorization,](https://x.com/h4cktus/status/2023693639919038589?s=61&t=o83JrWtW5bWFMFSrHYuyrQ)
 - [🛡⚔️AI-Powered Penetrati](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest)
 - [Fully autonomous AI hacker to find act](https://github.com/KeygraphHQ/shannon)

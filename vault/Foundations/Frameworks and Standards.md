@@ -41,6 +41,7 @@ group: Foundations
 - https://owasp.org/www-project-top-10-for-large-language-model-applications/2_0_voting/voting_round_two/pdfs/LLMAll_en-US.pdf
 - [Meetings](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Meetings)
 - [OWASP GenAI Data Security Risks and Mitigations 2026](https://docs.google.com/document/d/1Y1zgWRx91vpB0yp5uuoR2YoA58x8A3tpbLU38rXAUxU/edit?tab=t.0#heading=h.mucpgzq73wzg)
+- [OWASP AI Security Visualizer](https://ricokomenda.github.io/owasp-ai-security-visualizer/)
 
 ## Security Benchmarks
 
@@ -56,4 +57,4 @@ group: Foundations
 - [LLM Safeguards: Security Privacy Compliance Anti Hallucination: Dan](https://youtu.be/jdeMJJ_oNYg?si=eoBT2qkQhMPA7sYG)
 
 ---
-*34 resources*
+*35 resources*

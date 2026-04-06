@@ -10,6 +10,7 @@ Patterns, practices, and insights for building and operating AI systems.
 - [Harness Engineering - Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
 - [The Emerging 'Harness Engineering' Playbook](https://www.ignorance.ai/p/the-emerging-harness-engineering)
 - [Skill Issue: Harness Engineering for Coding Agents](https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents)
+- [Harness Design for Long-Running Application Development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 
 ## General Insights
 

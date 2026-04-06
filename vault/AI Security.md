@@ -44,7 +44,7 @@ tags: [moc, index]
 - [[Safety, Alignment, and Privacy]] -- AI safety, alignment research, deceptive behavior, and privacy concerns. (5)
 ## Practice
 
-- [[Engineering Patterns]] -- Patterns, practices, and insights for building and operating AI systems. (7)
+- [[Engineering Patterns]] -- Patterns, practices, and insights for building and operating AI systems. (8)
 - [[Privacy and Data Security]] -- Data leakage, PII protection, exfiltration risks, and privacy considerations for AI systems. (0)
 - [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (70)
 ## General
@@ -52,4 +52,4 @@ tags: [moc, index]
 - [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (154)
 
 ---
-*1222 total resources across 28 categories*
+*1223 total resources across 28 categories*

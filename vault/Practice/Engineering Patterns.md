@@ -17,10 +17,11 @@ group: Practice
 - [Harness Engineering - Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)
 - [The Emerging 'Harness Engineering' Playbook](https://www.ignorance.ai/p/the-emerging-harness-engineering)
 - [Skill Issue: Harness Engineering for Coding Agents](https://www.humanlayer.dev/blog/skill-issue-harness-engineering-for-coding-agents)
+- [Harness Design for Long-Running Application Development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 
 ## General Insights
 
 - [A Sufficiently Detailed Spec Is Code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 
 ---
-*7 resources*
+*8 resources*

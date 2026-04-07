@@ -14,7 +14,7 @@ tags: [moc, index]
 - [[Threat Modeling]] -- Threat modeling frameworks, tools, and methodologies for AI systems. (13)
 ## Attacks
 
-- [[Incidents and Case Studies]] -- Real-world AI security incidents, breaches, exploits, and case studies. (1)
+- [[Incidents and Case Studies]] -- Real-world AI security incidents, breaches, exploits, and case studies. (2)
 - [[Jailbreaking]] -- Jailbreaking techniques, research, and defenses for LLMs. (11)
 - [[Model Attacks]] -- Poisoning, backdoors, model extraction, adversarial ML, and attacks targeting model integrity. (0)
 - [[Prompt Injection]] -- Prompt injection attacks, defenses, taxonomy, datasets, and research. (92)
@@ -46,10 +46,10 @@ tags: [moc, index]
 
 - [[Engineering Patterns]] -- Patterns, practices, and insights for building and operating AI systems. (8)
 - [[Privacy and Data Security]] -- Data leakage, PII protection, exfiltration risks, and privacy considerations for AI systems. (0)
-- [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (70)
+- [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (73)
 ## General
 
-- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (154)
+- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (155)
 
 ---
-*1223 total resources across 28 categories*
+*1228 total resources across 28 categories*

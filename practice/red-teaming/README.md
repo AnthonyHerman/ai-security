@@ -80,3 +80,6 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [Pwning AI Code Interpreters in AWS Bedrock AgentCore](https://www.beyondtrust.com/blog/entry/pwning-aws-agentcore-code-interpreter)
 - [Killer Agent Framework Features](https://executiveoffense.beehiiv.com/p/killer-agent-framework-features)
 - [How do frontier AI agents perform in multi-step cyber-attack scenarios?](https://www.aisi.gov.uk/blog/how-do-frontier-ai-agents-perform-in-multi-step-cyber-attack-scenarios)
+- [The new HTB Certified Offensive AI Expert (HTB CO-AE) is officially here](https://academy.hackthebox.com/news/the-new-htb-certified-offensive-ai-expert-htb-coae-is-officially-here)
+- [I Took HTB's AI Red Teamer Path. Here's What I Think.](https://itsbroken.ai/htb-ai-red-teamer-review/)
+- [METATRON: AI-Powered Penetration Testing Assistant](https://github.com/sooryathejas/METATRON)

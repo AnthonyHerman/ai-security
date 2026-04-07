@@ -20,5 +20,9 @@ group: Attacks
 ## MCP Vulnerabilities
 
 
+## Coding Tool Vulnerabilities
+
+- [Critical Claude Code vulnerability: Deny rules silently bypassed because security checks cost too many tokens](https://adversa.ai/blog/claude-code-security-bypass-deny-rules-disabled/)
+
 ---
-*1 resources*
+*2 resources*

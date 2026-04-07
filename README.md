@@ -63,6 +63,7 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 - [Awesome LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
 - [System Prompt Leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [AI Security Forum Quick List](https://aisecurityforum.substack.com/p/quick-list-of-high-impact-ai-security)
+- [Awesome AI Security (TalEliyahu)](https://github.com/TalEliyahu/Awesome-AI-Security)
 
 ## System Prompts
 

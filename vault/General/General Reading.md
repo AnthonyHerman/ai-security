@@ -55,6 +55,7 @@ group: General
 - [YouTube - AI Security Discussion](https://www.youtube.com/watch?v=Z3WMt_ncgUI)
 - [YouTube - AI Security Overview](https://www.youtube.com/watch?v=EsCNkDrIGCw)
 - [Microsoft Research - AI Testing and Evaluation](https://www.microsoft.com/en-us/research/podcast/ai-testing-and-evaluation-learnings-from-cybersecurity/)
+- [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 
 ## AI Industry and Ecosystem
 
@@ -174,4 +175,4 @@ group: General
 - [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 
 ---
-*154 resources*
+*155 resources*

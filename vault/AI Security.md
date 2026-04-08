@@ -30,7 +30,7 @@ tags: [moc, index]
 
 - [[Agent Frameworks and Tools]] -- General agent frameworks, platforms, and development tools. (55)
 - [[Agent Identity and Authentication]] -- Identity, authentication, authorization, OAuth, and non-human identity (NHI) for AI agents. (32)
-- [[Agent Security]] -- Security considerations, vulnerabilities, and threats specific to AI agents. (67)
+- [[Agent Security]] -- Security considerations, vulnerabilities, and threats specific to AI agents. (68)
 - [[MCP (Model Context Protocol) Security]] -- Security resources specific to the Model Context Protocol ecosystem. (208)
 ## Coding
 
@@ -46,10 +46,10 @@ tags: [moc, index]
 
 - [[Engineering Patterns]] -- Patterns, practices, and insights for building and operating AI systems. (8)
 - [[Privacy and Data Security]] -- Data leakage, PII protection, exfiltration risks, and privacy considerations for AI systems. (0)
-- [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (73)
+- [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (76)
 ## General
 
-- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (155)
+- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (156)
 
 ---
-*1228 total resources across 28 categories*
+*1233 total resources across 28 categories*

@@ -73,6 +73,7 @@ group: Agents
 - [Cursor "Open-Folder" Autorun Vulnerability Exposes Developers t](https://www.oasis.security/blog/cursor-security-flaw)
 - [Anthropic faces backlash to Claude 4 Opus behavior that contacts au](https://venturebeat.com/ai/anthropic-faces-backlash-to-claude-4-opus-behavior-that-contacts-authorities-press-if-it-thinks-youre-doing-something-immoral/)
 - [Wow\. Opus 4\.6 aggressively acquired and used authentication tokens and took unapproved](https://x.com/rohanpaul_ai/status/2019554324096131160?s=46&t=HEqLHVfVHBfb1Ti5KJVPZw)
+- [The Agent Perimeter Fallacy](https://securityblueprints.io/posts/agent-perimeter-fallacy/)
 
 ## Research
 
@@ -83,4 +84,4 @@ group: Agents
 - [Agents of Chaos](https://arxiv.org/abs/2602.20021) ([report](https://agentsofchaos.baulab.info/report.html))
 
 ---
-*67 resources*
+*68 resources*

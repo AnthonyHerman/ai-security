@@ -112,6 +112,7 @@ group: General
 - ['We charged $100 a month for an AI that was really just](https://www.pcgamer.com/software/ai/usd1-billion-ai-company-co-founder-admits-that-its-usd100-a-month-transcription-service-was-originally-two-guys-surviving-on-pizza-and-typing-out-notes-by-hand/)
 - [Hedra, the app used to make talking baby podcasts, raises $32M from](https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/)
 - [UnitedHealthcare's Optum left an AI chatbot, used by employees to a](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/)
+- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 
 ## AI Engineering
 
@@ -175,4 +176,4 @@ group: General
 - [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 
 ---
-*155 resources*
+*156 resources*

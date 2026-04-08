@@ -83,3 +83,6 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [The new HTB Certified Offensive AI Expert (HTB CO-AE) is officially here](https://academy.hackthebox.com/news/the-new-htb-certified-offensive-ai-expert-htb-coae-is-officially-here)
 - [I Took HTB's AI Red Teamer Path. Here's What I Think.](https://itsbroken.ai/htb-ai-red-teamer-review/)
 - [METATRON: AI-Powered Penetration Testing Assistant](https://github.com/sooryathejas/METATRON)
+- [Assessing Claude Mythos Preview's cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
+- [Building an Automated Pipeline with LangChain DeepAgents to Find Zero-Days in Kernel Drivers. It Found One in ASUS.](https://blog.ahmadz.ai/automated-deepagents-langchain-pipeline-for-zero-days/)
+- [llm-rtk: Objective-driven adversarial testing framework for GenAI systems aligned with OWASP GenAI Top 10 risks](https://github.com/koraydns/llm-rtk)

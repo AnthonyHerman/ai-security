@@ -65,6 +65,7 @@ General agent frameworks, platforms, and development tools.
 - [Dark Visitors - A list of known AI agents on the internet](https://darkvisitors.com/)
 - [AI Agents Landscape & Ecosystem (December 2024): Complete Interacti](https://aiagentsdirectory.com/landscape)
 - [5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
+- [Claude Managed Agents: get to production 10x faster](https://claude.com/blog/claude-managed-agents)
 
 ## Industry and Market
 

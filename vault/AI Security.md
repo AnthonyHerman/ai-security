@@ -28,7 +28,7 @@ tags: [moc, index]
 - [[Secrets Management]] -- Tools and techniques for protecting secrets from AI coding agents and LLM context exposure. (11)
 ## Agents
 
-- [[Agent Frameworks and Tools]] -- General agent frameworks, platforms, and development tools. (55)
+- [[Agent Frameworks and Tools]] -- General agent frameworks, platforms, and development tools. (56)
 - [[Agent Identity and Authentication]] -- Identity, authentication, authorization, OAuth, and non-human identity (NHI) for AI agents. (33)
 - [[Agent Security]] -- Security considerations, vulnerabilities, and threats specific to AI agents. (68)
 - [[MCP (Model Context Protocol) Security]] -- Security resources specific to the Model Context Protocol ecosystem. (208)
@@ -52,4 +52,4 @@ tags: [moc, index]
 - [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (160)
 
 ---
-*1239 total resources across 28 categories*
+*1240 total resources across 28 categories*

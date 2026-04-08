@@ -15,6 +15,7 @@ AI governance, compliance, policy, legal considerations, and trust.
 - [Generative AI Policy - Asahi Linux Documentation](https://asahilinux.org/docs/project/policies/slop/)
 - [Our First Generalist Policy](https://www.physicalintelligence.company/blog/pi0)
 - [Updates to Consumer Terms and Privacy Policy](https://www.anthropic.com/news/updates-to-our-consumer-terms)
+- [IBB Policy Update: AI-Assisted Submissions](https://hackerone.com/ibb/policy_versions?type=team&change=3771829)
 - https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1146542/a_pro-innovation_approach_to_AI_regulation.pdf
 
 ## Legal

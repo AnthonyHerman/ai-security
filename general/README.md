@@ -51,6 +51,10 @@ Blog posts, talks, opinion pieces, and commentary on AI security and the broader
 - [YouTube - AI Security Overview](https://www.youtube.com/watch?v=EsCNkDrIGCw)
 - [Microsoft Research - AI Testing and Evaluation](https://www.microsoft.com/en-us/research/podcast/ai-testing-and-evaluation-learnings-from-cybersecurity/)
 - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
+- [AI bug reports went from junk to legit overnight, says Linux kernel czar](https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/)
+- [Daniel Stenberg: AI slop reports replaced by high-quality AI-assisted security findings](https://www.linkedin.com/feed/update/urn:li:activity:7446667043996725249/)
+- [Anthropic's Project Glasswing—restricting Claude Mythos to security researchers—sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/)
+- [OWASP just named the 10 ways your agent will fail. nobody is talking about who wrote the list.](https://www.moltbook.com/post/c47b9054-c222-4463-8a65-163c4fb56e3b)
 
 ## AI Industry and Ecosystem
 

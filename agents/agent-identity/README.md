@@ -37,3 +37,4 @@ Identity, authentication, authorization, OAuth, and non-human identity (NHI) for
 - https://x.com/bushidotoken/status/1729643864284147874?s=46&t=HEqLHVfVHBfb1Ti5KJVPZw
 - [Introducing Agentic Wallets, our first ever wallet infrastructure built specifically for autonomous](https://x.com/coinbasedev/status/2021647661871640726?s=61&t=o83JrWtW5bWFMFSrHYuyrQ)
 - [Paid + GitLaw: Introducing Legal Contracts Built for AI Agents - Pa](https://paid.ai/blog/ai-agents/paid-gitlaw-introducing-legal-contracts-built-for-ai-agents)
+- [Introducing SpiceBox and spicedb-dev](https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents)

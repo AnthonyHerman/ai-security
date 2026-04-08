@@ -10,7 +10,7 @@ tags: [moc, index]
 
 - [[Secure AI Architecture]] -- Design patterns, principles, and architectural considerations for building secure AI systems. (9)
 - [[Frameworks and Standards]] -- Risk frameworks, standards, and foundational security references for AI systems. (35)
-- [[Governance and Policy]] -- AI governance, compliance, policy, legal considerations, and trust. (20)
+- [[Governance and Policy]] -- AI governance, compliance, policy, legal considerations, and trust. (21)
 - [[Threat Modeling]] -- Threat modeling frameworks, tools, and methodologies for AI systems. (13)
 ## Attacks
 
@@ -29,7 +29,7 @@ tags: [moc, index]
 ## Agents
 
 - [[Agent Frameworks and Tools]] -- General agent frameworks, platforms, and development tools. (55)
-- [[Agent Identity and Authentication]] -- Identity, authentication, authorization, OAuth, and non-human identity (NHI) for AI agents. (32)
+- [[Agent Identity and Authentication]] -- Identity, authentication, authorization, OAuth, and non-human identity (NHI) for AI agents. (33)
 - [[Agent Security]] -- Security considerations, vulnerabilities, and threats specific to AI agents. (68)
 - [[MCP (Model Context Protocol) Security]] -- Security resources specific to the Model Context Protocol ecosystem. (208)
 ## Coding
@@ -49,7 +49,7 @@ tags: [moc, index]
 - [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (76)
 ## General
 
-- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (156)
+- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (160)
 
 ---
-*1233 total resources across 28 categories*
+*1239 total resources across 28 categories*

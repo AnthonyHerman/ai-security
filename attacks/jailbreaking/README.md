@@ -15,3 +15,4 @@ Jailbreaking techniques, research, and defenses for LLMs.
 - [Jailbreaking LLM (ChatGPT) Sandboxes Using Linguistic Hacks — Force](https://blog.forcesunseen.com/jailbreaking-llm-chatgpt-sandboxes-using-linguistic-hacks)
 - [Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001)
 - [Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing](https://arxiv.org/abs/2602.08741)
+- [META MUSE SPARK - FULL SYSTEM PROMPT](https://x.com/elder_plinius/status/2041931043977228454)

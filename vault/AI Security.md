@@ -15,7 +15,7 @@ tags: [moc, index]
 ## Attacks
 
 - [[Incidents and Case Studies]] -- Real-world AI security incidents, breaches, exploits, and case studies. (2)
-- [[Jailbreaking]] -- Jailbreaking techniques, research, and defenses for LLMs. (11)
+- [[Jailbreaking]] -- Jailbreaking techniques, research, and defenses for LLMs. (12)
 - [[Model Attacks]] -- Poisoning, backdoors, model extraction, adversarial ML, and attacks targeting model integrity. (0)
 - [[Prompt Injection]] -- Prompt injection attacks, defenses, taxonomy, datasets, and research. (92)
 - [[Supply Chain Security]] -- AI supply chain risks, dependency security, model integrity, and mitigations. (5)
@@ -52,4 +52,4 @@ tags: [moc, index]
 - [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (160)
 
 ---
-*1240 total resources across 28 categories*
+*1241 total resources across 28 categories*

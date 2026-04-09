@@ -55,6 +55,7 @@ Blog posts, talks, opinion pieces, and commentary on AI security and the broader
 - [Daniel Stenberg: AI slop reports replaced by high-quality AI-assisted security findings](https://www.linkedin.com/feed/update/urn:li:activity:7446667043996725249/)
 - [Anthropic's Project Glasswing—restricting Claude Mythos to security researchers—sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/)
 - [OWASP just named the 10 ways your agent will fail. nobody is talking about who wrote the list.](https://www.moltbook.com/post/c47b9054-c222-4463-8a65-163c4fb56e3b)
+- [AI Cybersecurity After Mythos: The Jagged Frontier](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 
 ## AI Industry and Ecosystem
 
@@ -112,6 +113,7 @@ Blog posts, talks, opinion pieces, and commentary on AI security and the broader
 - [Hedra, the app used to make talking baby podcasts, raises $32M from](https://techcrunch.com/2025/05/15/hedra-the-app-used-to-make-talking-baby-podcasts-raises-32m-from-a16z/)
 - [UnitedHealthcare's Optum left an AI chatbot, used by employees to a](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/)
 - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+- [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 
 ## AI Engineering
 

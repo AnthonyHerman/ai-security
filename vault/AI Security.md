@@ -49,7 +49,7 @@ tags: [moc, index]
 - [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (76)
 ## General
 
-- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (160)
+- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (162)
 
 ---
-*1241 total resources across 28 categories*
+*1243 total resources across 28 categories*

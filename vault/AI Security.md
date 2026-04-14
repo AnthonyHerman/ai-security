@@ -21,7 +21,7 @@ tags: [moc, index]
 - [[Supply Chain Security]] -- AI supply chain risks, dependency security, model integrity, and mitigations. (6)
 ## Defense
 
-- [[Detection and Monitoring]] -- Vulnerability scanners, security platforms, and threat detection tools for AI systems. (32)
+- [[Detection and Monitoring]] -- Vulnerability scanners, security platforms, and threat detection tools for AI systems. (33)
 - [[Guardrails and Firewalls]] -- Guardrails, firewalls, and runtime protection for AI systems. (18)
 - [[Honeypots and Deception]] -- Honeypots, deception technology, and adversary engagement tools for AI systems. (4)
 - [[Sandboxing and Isolation]] -- Runtime containment, sandboxing, and isolation for AI agents and code execution. (14)
@@ -52,4 +52,4 @@ tags: [moc, index]
 - [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (167)
 
 ---
-*1266 total resources across 28 categories*
+*1267 total resources across 28 categories*

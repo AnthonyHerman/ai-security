@@ -35,6 +35,7 @@ group: Defense
 - [Codefend - AI-powered security automation platform](https://www.codefend.ai/)
 - [Databricks Announces Lakewatch: New Open Agentic SIEM](https://www.databricks.com/blog/databricks-announces-lakewatch-new-open-agentic-siem)
 - [eekta - AI Cyber Defense Console](https://eekta.run/)
+- [Bltz AI - Agentic Defensive AI Security](https://public.bltz.ai/)
 
 ## Threat Detection and Analysis
 
@@ -54,4 +55,4 @@ group: Defense
 - [#ai #llm #security #audit - Kevin J. - 21 comments](https://www.linkedin.com/posts/kevin-joensen_ai-llm-security-activity-7433093920068153345-D0Vr?utm_medium=ios_app&rcm=ACoAAABSexoBsYekwoCz_fH30__0shfExZaygC4&utm_source=social_share_send&utm_campaign=copy_link)
 
 ---
-*32 resources*
+*33 resources*

@@ -28,6 +28,7 @@ Vulnerability scanners, security platforms, and threat detection tools for AI sy
 - [Codefend - AI-powered security automation platform](https://www.codefend.ai/)
 - [Databricks Announces Lakewatch: New Open Agentic SIEM](https://www.databricks.com/blog/databricks-announces-lakewatch-new-open-agentic-siem)
 - [eekta - AI Cyber Defense Console](https://eekta.run/)
+- [Bltz AI - Agentic Defensive AI Security](https://public.bltz.ai/)
 
 ## Threat Detection and Analysis
 

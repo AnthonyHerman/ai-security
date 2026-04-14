@@ -18,6 +18,7 @@ Offensive AI security, red teaming guides, tools, and methodologies.
 - [Introducing Neo, an AI security engineer for complex security tasks](https://projectdiscovery.io/blog/introducing-neo)
 - [Partnering with Caido to Bring Precision & Control to Agentic Pentesting](https://www.strix.ai/blog/partnering-with-caido)
 - [pwn.ai - Autonomous AI Penetration Testing](https://pwn.ai/)
+- [Giving an Agent a Rooted Android Phone](https://workers.io/blog/autonomous-mobile-pentesting/)
 
 ## Resources
 

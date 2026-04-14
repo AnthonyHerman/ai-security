@@ -31,6 +31,10 @@ group: Defense
 - [AI Risk Database](https://github.com/mitre/advmlthreatmatrix)
 - [A curated list of t](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 - [A curated list of](https://github.com/tenable/awesome-llm-cybersecurity-tools)
+- [Fishbowl - Containerized security auditing for AI coding agents](https://github.com/Antonlovesdnb/fishbowl)
+- [Codefend - AI-powered security automation platform](https://www.codefend.ai/)
+- [Databricks Announces Lakewatch: New Open Agentic SIEM](https://www.databricks.com/blog/databricks-announces-lakewatch-new-open-agentic-siem)
+- [eekta - AI Cyber Defense Console](https://eekta.run/)
 
 ## Threat Detection and Analysis
 
@@ -42,6 +46,7 @@ group: Defense
 - [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive I](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 - [LLM Backdoors at the Inference Level: The Threat of Poisoned Templates](https://www.pillar.security/blog/llm-backdoors-at-the-inference-level-the-threat-of-poisoned-templates)
 - [Rowhammer-Based Trojan Injection: One Bit Flip Is Suffici](https://oneflipbackdoor.github.io/)
+- [Awesome DFIR Skills](https://github.com/tsale/awesome-dfir-skills)
 
 ## Security Code Review
 
@@ -49,4 +54,4 @@ group: Defense
 - [#ai #llm #security #audit - Kevin J. - 21 comments](https://www.linkedin.com/posts/kevin-joensen_ai-llm-security-activity-7433093920068153345-D0Vr?utm_medium=ios_app&rcm=ACoAAABSexoBsYekwoCz_fH30__0shfExZaygC4&utm_source=social_share_send&utm_campaign=copy_link)
 
 ---
-*27 resources*
+*32 resources*

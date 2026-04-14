@@ -16,6 +16,7 @@ group: Attacks
 
 ## Agent Security Incidents
 
+- [A Single Operator, Two AI Platforms, Nine Government Agencies: The Full Technical Report](https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report)
 
 ## MCP Vulnerabilities
 
@@ -25,4 +26,4 @@ group: Attacks
 - [Critical Claude Code vulnerability: Deny rules silently bypassed because security checks cost too many tokens](https://adversa.ai/blog/claude-code-security-bypass-deny-rules-disabled/)
 
 ---
-*2 resources*
+*3 resources*

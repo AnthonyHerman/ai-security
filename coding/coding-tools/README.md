@@ -97,6 +97,7 @@ AI coding tools, IDE integrations, copilots, and development assistants.
 - [Security Engineer Agent (agency-agents)](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-security-engineer.md)
 - [Security Engineer Agent (claude-code-toolkit): Infrastructure security, IAM, mTLS, secrets management](https://github.com/rohitg00/awesome-claude-code-toolkit/blob/main/agents/infrastructure/security-engineer.md)
 - [Security Auditor Agent: DevSecOps, cybersecurity, and compliance frameworks](https://github.com/wshobson/agents/blob/main/plugins/comprehensive-review/agents/security-auditor.md)
+- [Graphify - Transform code into queryable knowledge graphs](https://github.com/safishamsi/graphify)
 
 ## Coding Tools from Security Tools and Analysis
 

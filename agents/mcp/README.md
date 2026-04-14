@@ -34,6 +34,7 @@ Security resources specific to the Model Context Protocol ecosystem.
 
 - [Context-Gateway: Agentic proxy for AI agents with history compaction and context optimization](https://github.com/Compresr-ai/Context-Gateway)
 - [What is MCP Gateway?](https://www.truefoundry.com/mcp-gateway)
+- [Wanaku - MCP router for AI-enabled applications](https://github.com/wanaku-ai/wanaku)
 - [Amazon API Gateway adds MCP proxy support - AWS](https://aws.amazon.com/about-aws/whats-new/2025/12/api-gateway-mcp-proxy-support/)
 - [MCP Gateway: Control What AI Can Access - Traefik](https://traefik.io/solutions/mcp-gateway?utm_content=351704635&utm_medium=social&utm_source=twitter&hss_channel=tw-4890312130)
 - [AI-Gateway/labs/mcp-registry-apic-github-workflow at main · Azure-](https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/mcp-registry-apic-github-workflow)

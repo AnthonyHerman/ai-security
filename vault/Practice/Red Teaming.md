@@ -25,6 +25,7 @@ group: Practice
 - [Introducing Neo, an AI security engineer for complex security tasks](https://projectdiscovery.io/blog/introducing-neo)
 - [Partnering with Caido to Bring Precision & Control to Agentic Pentesting](https://www.strix.ai/blog/partnering-with-caido)
 - [pwn.ai - Autonomous AI Penetration Testing](https://pwn.ai/)
+- [Giving an Agent a Rooted Android Phone](https://workers.io/blog/autonomous-mobile-pentesting/)
 
 ## Resources
 
@@ -95,4 +96,4 @@ group: Practice
 - [llm-rtk: Objective-driven adversarial testing framework for GenAI systems aligned with OWASP GenAI Top 10 risks](https://github.com/koraydns/llm-rtk)
 
 ---
-*76 resources*
+*77 resources*

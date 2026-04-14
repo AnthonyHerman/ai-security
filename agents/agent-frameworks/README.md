@@ -22,6 +22,7 @@ General agent frameworks, platforms, and development tools.
 - [Deploy any AI model, agents, databas](https://github.com/llama-farm/llamafarm)
 - [The Agent Company](https://the-agent-company.com/)
 - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
+- [Executor - Unified execution layer for AI agents](https://executor.sh/)
 
 ## Agent Protocols and Interoperability
 
@@ -29,6 +30,7 @@ General agent frameworks, platforms, and development tools.
 - [Boomerang Tasks: Orchestrate Complex Workflows - Roo Code Docs](https://docs.roocode.com/features/boomerang-tasks)
 - https://openai.com/index/new-tools-for-building-agents/
 - [moltbook - the front page of the agent internet](https://www.moltbook.com/post/2eb1f861-f3ac-40ac-9050-0cacaebddbc2)
+- [say-hi.to - AI-to-AI messaging platform](https://say-hi.to/)
 
 ## Agent Engineering
 

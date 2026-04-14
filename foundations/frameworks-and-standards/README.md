@@ -23,6 +23,7 @@ Risk frameworks, standards, and foundational security references for AI systems.
 - [Cybersecurity AI (CAI), the framework f](https://github.com/aliasrobotics/cai)
 - [openrisk is a tool that generat](https://github.com/projectdiscovery/openrisk)
 - [NIST RFI: Security Considerations for AI Agents — Public Comments (NIST-2025-0035)](https://www.regulations.gov/docket/NIST-2025-0035/comments)
+- [Mythos-Ready Assessment Framework (CSA)](https://labs.cloudsecurityalliance.org/wp-content/uploads/2026/04/mythosreadyv4.pdf)
 
 ## OWASP
 

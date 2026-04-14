@@ -12,6 +12,7 @@ group: Research
 - [PHARE by Giskard](https://phare.giskard.ai/)
 - [RealHarm by Giskard](https://realharm.giskard.ai/)
 - [Inside the Benchmark: App Architectures, Finding Walkthroughs, and What Each Scanner Actually Caught](https://projectdiscovery.io/blog/inside-the-benchmark-pp-architectures-finding-walkthroughs-and-what-each-scanner-actually-caught)
+- [N-Day-Bench](https://ndaybench.winfunc.com/)
 
 ## Evaluation Frameworks
 
@@ -34,4 +35,4 @@ group: Research
 - [Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design](https://arxiv.org/abs/2504.10112)
 
 ---
-*17 resources*
+*18 resources*

@@ -24,6 +24,7 @@ group: Defense
 - [OpenGuardrails: An Open-Source Context-Aware AI Guardrails Platform](https://arxiv.org/abs/2510.19169)
 - [EchoGram: Bypassing AI Guardrails via Token Flip Attacks](https://www.hiddenlayer.com/research/echogram-the-hidden-vulnerability-undermining-ai-guardrails)
 - [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396)
+- [Immunity Agent - Runtime security for AI coding agents](https://github.com/PrismorSec/immunity-agent)
 
 ## Data Leak Protection
 
@@ -36,4 +37,4 @@ group: Defense
 - [Aperture: The fastest path to safer, easier AI deployment](https://tailscale.com/blog/aperture-partners-update?utm_source=twitter&utm_medium=owned-social&utm_campaign=tailscale-winter-update-2026)
 
 ---
-*17 resources*
+*18 resources*

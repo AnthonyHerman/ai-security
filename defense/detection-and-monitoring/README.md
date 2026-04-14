@@ -24,6 +24,10 @@ Vulnerability scanners, security platforms, and threat detection tools for AI sy
 - [AI Risk Database](https://github.com/mitre/advmlthreatmatrix)
 - [A curated list of t](https://github.com/AmanPriyanshu/Awesome-AI-For-Security)
 - [A curated list of](https://github.com/tenable/awesome-llm-cybersecurity-tools)
+- [Fishbowl - Containerized security auditing for AI coding agents](https://github.com/Antonlovesdnb/fishbowl)
+- [Codefend - AI-powered security automation platform](https://www.codefend.ai/)
+- [Databricks Announces Lakewatch: New Open Agentic SIEM](https://www.databricks.com/blog/databricks-announces-lakewatch-new-open-agentic-siem)
+- [eekta - AI Cyber Defense Console](https://eekta.run/)
 
 ## Threat Detection and Analysis
 
@@ -35,6 +39,7 @@ Vulnerability scanners, security platforms, and threat detection tools for AI sy
 - [Wiz Research Uncovers Exposed DeepSeek Database Leaking Sensitive I](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 - [LLM Backdoors at the Inference Level: The Threat of Poisoned Templates](https://www.pillar.security/blog/llm-backdoors-at-the-inference-level-the-threat-of-poisoned-templates)
 - [Rowhammer-Based Trojan Injection: One Bit Flip Is Suffici](https://oneflipbackdoor.github.io/)
+- [Awesome DFIR Skills](https://github.com/tsale/awesome-dfir-skills)
 
 ## Security Code Review
 

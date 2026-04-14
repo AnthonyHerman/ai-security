@@ -7,6 +7,7 @@ AI safety, alignment research, deceptive behavior, and privacy concerns.
 - [Cultural Evolution of Cooperation among LLM Agents](https://arxiv.org/abs/2412.10270)
 - [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
 - [Peer-Preservation in Frontier Models](https://rdi.berkeley.edu/blog/peer-preservation/)
+- [Our Evaluation of Claude Mythos Preview's Cyber Capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
 
 ## Privacy
 

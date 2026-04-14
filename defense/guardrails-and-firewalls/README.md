@@ -17,6 +17,7 @@ Guardrails, firewalls, and runtime protection for AI systems.
 - [OpenGuardrails: An Open-Source Context-Aware AI Guardrails Platform](https://arxiv.org/abs/2510.19169)
 - [EchoGram: Bypassing AI Guardrails via Token Flip Attacks](https://www.hiddenlayer.com/research/echogram-the-hidden-vulnerability-undermining-ai-guardrails)
 - [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396)
+- [Immunity Agent - Runtime security for AI coding agents](https://github.com/PrismorSec/immunity-agent)
 
 ## Data Leak Protection
 

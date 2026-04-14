@@ -14,6 +14,7 @@ group: Agents
 - [Aembit](https://aembit.io/)
 - [Keycard](https://www.keycard.sh/)
 - [Descope](https://www.descope.com/)
+- [AgentCordon](https://getcordoned.sh/) ([GitHub](https://github.com/agentcordon/agentcordon))
 - [AI Agent Authentication and Authorization](https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/)
 - [Detecting Malicious Entra OAuth Apps with LLM-Based Permission Risk](https://arxiv.org/abs/2512.15781)
 - [CIMD - OAuth Client ID Metadata Documents](https://client.dev/servers)
@@ -44,4 +45,4 @@ group: Agents
 - [Introducing SpiceBox and spicedb-dev](https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents)
 
 ---
-*33 resources*
+*34 resources*

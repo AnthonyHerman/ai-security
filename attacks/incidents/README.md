@@ -10,6 +10,8 @@ Real-world AI security incidents, breaches, exploits, and case studies.
 
 ## Agent Security Incidents
 
+- [A Single Operator, Two AI Platforms, Nine Government Agencies: The Full Technical Report](https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report)
+
 ## MCP Vulnerabilities
 
 ## Coding Tool Vulnerabilities

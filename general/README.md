@@ -56,6 +56,10 @@ Blog posts, talks, opinion pieces, and commentary on AI security and the broader
 - [Anthropic's Project Glasswing—restricting Claude Mythos to security researchers—sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/)
 - [OWASP just named the 10 ways your agent will fail. nobody is talking about who wrote the list.](https://www.moltbook.com/post/c47b9054-c222-4463-8a65-163c4fb56e3b)
 - [AI Cybersecurity After Mythos: The Jagged Frontier](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+- [Navigating the Mythos-Haunted World of Platform Security](https://www.redhat.com/en/blog/navigating-mythos-haunted-world-platform-security)
+- [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
+- [Securing the Agentic Enterprise: Opportunities for Cybersecurity Providers](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/securing-the-agentic-enterprise-opportunities-for-cybersecurity-providers)
+- [We're Getting the Wrong Message from Mythos](https://danielmiessler.com/blog/wrong-message-from-mythos)
 
 ## AI Industry and Ecosystem
 
@@ -114,6 +118,7 @@ Blog posts, talks, opinion pieces, and commentary on AI security and the broader
 - [UnitedHealthcare's Optum left an AI chatbot, used by employees to a](https://techcrunch.com/2024/12/13/unitedhealthcares-optum-left-an-ai-chatbot-used-by-employees-to-ask-questions-about-claims-exposed-to-the-internet/)
 - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
+- [Karpathy Says Developers Have 'AI Psychosis,' Everyone Else Is Next](https://thenewstack.io/karpathy-says-developers-have-ai-psychosis-everyone-else-is-next/)
 
 ## AI Engineering
 

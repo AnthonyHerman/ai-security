@@ -14,6 +14,7 @@ group: Attacks
 - [Supply chain security for ML](https://github.com/sigstore/model-transparency)
 - https://aur.archlinux.org/packages/antigravity
 - [Design WIP Market Report AI Security - Final.pdf](https://drive.google.com/file/d/1lRhObW5DNpmpR9KhhyP7bAAqZXiq-3fQ/view?pli=1)
+- [Axios Developer Tool Compromise](https://openai.com/index/axios-developer-tool-compromise/)
 
 ---
-*5 resources*
+*6 resources*

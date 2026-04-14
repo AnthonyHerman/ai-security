@@ -9,6 +9,7 @@ Identity, authentication, authorization, OAuth, and non-human identity (NHI) for
 - [Aembit](https://aembit.io/)
 - [Keycard](https://www.keycard.sh/)
 - [Descope](https://www.descope.com/)
+- [AgentCordon](https://getcordoned.sh/) ([GitHub](https://github.com/agentcordon/agentcordon))
 
 - [AI Agent Authentication and Authorization](https://datatracker.ietf.org/doc/draft-klrc-aiagent-auth/)
 - [Detecting Malicious Entra OAuth Apps with LLM-Based Permission Risk](https://arxiv.org/abs/2512.15781)

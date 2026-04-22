@@ -21,6 +21,7 @@ tags: [moc, index]
 - [[Supply Chain Security]] -- AI supply chain risks, dependency security, model integrity, and mitigations. (6)
 ## Defense
 
+- [[Anti-Crawling]] -- Techniques and tools for defending against unauthorized AI crawlers, including tarpits, cloaking, data poisoning, and crawler access control. (5)
 - [[Detection and Monitoring]] -- Vulnerability scanners, security platforms, and threat detection tools for AI systems. (33)
 - [[Guardrails and Firewalls]] -- Guardrails, firewalls, and runtime protection for AI systems. (18)
 - [[Honeypots and Deception]] -- Honeypots, deception technology, and adversary engagement tools for AI systems. (4)
@@ -52,4 +53,4 @@ tags: [moc, index]
 - [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (167)
 
 ---
-*1267 total resources across 28 categories*
+*1272 total resources across 29 categories*

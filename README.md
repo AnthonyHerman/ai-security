@@ -25,6 +25,7 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 - [Detection and Monitoring](defense/detection-and-monitoring/README.md) -- Vulnerability scanners and threat detection
 - [Secrets Management](defense/secrets-management/README.md) -- Protecting secrets from AI agents
 - [Honeypots and Deception](defense/honeypots-and-deception/README.md) -- Honeypots and adversary engagement
+- [Anti-Crawling](defense/anti-crawling/README.md) -- Tarpits, cloaking, data poisoning, and crawler access control
 
 ### Agents
 - [Agent Security](agents/agent-security/README.md) -- Agent-specific security concerns and threats

@@ -101,11 +101,21 @@
       "color": "2"
     },
     {
+      "id": "anti-crawling",
+      "type": "file",
+      "file": "Defense/Anti-Crawling.md",
+      "x": 800,
+      "y": 0,
+      "width": 350,
+      "height": 60,
+      "color": "3"
+    },
+    {
       "id": "detection-and-monitoring",
       "type": "file",
       "file": "Defense/Detection and Monitoring.md",
       "x": 800,
-      "y": 0,
+      "y": 100,
       "width": 350,
       "height": 60,
       "color": "3"
@@ -115,7 +125,7 @@
       "type": "file",
       "file": "Defense/Guardrails and Firewalls.md",
       "x": 800,
-      "y": 100,
+      "y": 200,
       "width": 350,
       "height": 60,
       "color": "3"
@@ -125,7 +135,7 @@
       "type": "file",
       "file": "Defense/Honeypots and Deception.md",
       "x": 800,
-      "y": 200,
+      "y": 300,
       "width": 350,
       "height": 60,
       "color": "3"
@@ -135,7 +145,7 @@
       "type": "file",
       "file": "Defense/Sandboxing and Isolation.md",
       "x": 800,
-      "y": 300,
+      "y": 400,
       "width": 350,
       "height": 60,
       "color": "3"
@@ -145,7 +155,7 @@
       "type": "file",
       "file": "Defense/Secrets Management.md",
       "x": 800,
-      "y": 400,
+      "y": 500,
       "width": 350,
       "height": 60,
       "color": "3"
@@ -352,6 +362,13 @@
       "id": "edge-moc-supply-chain-security",
       "fromNode": "moc",
       "toNode": "supply-chain-security",
+      "fromSide": "bottom",
+      "toSide": "top"
+    },
+    {
+      "id": "edge-moc-anti-crawling",
+      "fromNode": "moc",
+      "toNode": "anti-crawling",
       "fromSide": "bottom",
       "toSide": "top"
     },

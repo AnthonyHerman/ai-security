@@ -60,6 +60,7 @@ Blog posts, talks, opinion pieces, and commentary on AI security and the broader
 - [Claude Mythos: The System Card](https://thezvi.substack.com/p/claude-mythos-the-system-card)
 - [Securing the Agentic Enterprise: Opportunities for Cybersecurity Providers](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/securing-the-agentic-enterprise-opportunities-for-cybersecurity-providers)
 - [We're Getting the Wrong Message from Mythos](https://danielmiessler.com/blog/wrong-message-from-mythos)
+- [Why cyber defenders need to be ready for frontier AI](https://www.ncsc.gov.uk/blogs/why-cyber-defenders-need-to-be-ready-for-frontier-ai)
 
 ## AI Industry and Ecosystem
 

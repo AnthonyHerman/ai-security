@@ -42,7 +42,7 @@ tags: [moc, index]
 
 - [[Benchmarks and Evaluation]] -- Benchmarking frameworks, datasets, and evaluation tools for AI security. (18)
 - [[Research Papers]] -- Academic papers and surveys on AI security, LLM safety, and related topics. (179)
-- [[Safety, Alignment, and Privacy]] -- AI safety, alignment research, deceptive behavior, and privacy concerns. (6)
+- [[Safety, Alignment, and Privacy]] -- AI safety, alignment research, deceptive behavior, and privacy concerns. (7)
 ## Practice
 
 - [[Engineering Patterns]] -- Patterns, practices, and insights for building and operating AI systems. (9)
@@ -50,7 +50,7 @@ tags: [moc, index]
 - [[Red Teaming]] -- Offensive AI security, red teaming guides, tools, and methodologies. (77)
 ## General
 
-- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (167)
+- [[General Reading]] -- Blog posts, talks, opinion pieces, and commentary on AI security and the broader ecosystem. (168)
 
 ---
-*1272 total resources across 29 categories*
+*1274 total resources across 29 categories*

@@ -1,3 +1,5 @@
+
+
 # AI Security Resources
 
 A curated collection of resources covering AI security, LLM safety, prompt injection, agent security, secure coding practices, and related topics.
@@ -80,5 +82,5 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 
 This repo includes custom [Claude Code](https://claude.com/claude-code) slash commands for managing the compendium:
 
-- `/add-resource <url> [url2] ...` -- Fetch titles, classify links into the correct category, and commit them to the repo.
+- `/add-resource <url> [url2] [url3] ...` -- Fetch titles, classify links into the correct category, and commit them to the repo.
 - `/search-resources <query>` -- Search across all compendium files for resources matching a keyword or topic.

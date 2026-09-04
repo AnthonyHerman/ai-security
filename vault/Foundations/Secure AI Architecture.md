@@ -14,6 +14,13 @@ group: Foundations
 - [NCC Group - Analyzing Secure AI Design Principles](https://www.nccgroup.com/us/research-blog/analyzing-secure-ai-design-principles/)
 - [Simon Willison - Dual LLM Pattern](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 - [Simon Willison - CAMEL](https://simonwillison.net/2025/Apr/11/camel/)
+- [awesome-secure-defaults - secure-by-default libraries that eliminate bug classes](https://github.com/tldrsec/awesome-secure-defaults)
+- [Beyond Zero: Enterprise security for the AI era](https://spawn-queue.acm.org/doi/10.1145/3819083)
+- [Designing Patterns to Prevent IDOR](https://sevhunt.com/docs/blog/designing-patterns-to-prevent-idor)
+- [Misty Programming Language: Security - capability discipline and the policy machine](https://crockford.com/misty/security.html)
+- [Shifting the Balance of Cybersecurity Risk - Principles and Approaches for Security-by-Design and -Default](https://cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf)
+- [Tackling cybersecurity vulnerabilities through Secure by Design - Google](https://blog.google/technology/safety-security/tackling-cybersecurity-vulnerabilities-through-secure-by-design)
+- [The Rule Of 2 - Chromium's security rule for handling untrustworthy inputs](https://chromium.googlesource.com/chromium/src/+/main/docs/security/rule-of-2.md)
 
 ## AI System Architectures
 
@@ -23,4 +30,4 @@ group: Foundations
 - [CrowdStrike and NVIDIA Unveil Secure-by-Design AI Blueprint for AI Agents](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-nvidia-unveil-secure-by-design-ai-blueprint-for-ai-agents/)
 
 ---
-*9 resources*
+*16 resources*

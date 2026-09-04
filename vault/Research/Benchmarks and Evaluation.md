@@ -13,6 +13,32 @@ group: Research
 - [RealHarm by Giskard](https://realharm.giskard.ai/)
 - [Inside the Benchmark: App Architectures, Finding Walkthroughs, and What Each Scanner Actually Caught](https://projectdiscovery.io/blog/inside-the-benchmark-pp-architectures-finding-walkthroughs-and-what-each-scanner-actually-caught)
 - [N-Day-Bench](https://ndaybench.winfunc.com/)
+- [AI Bug-Bounty Agent Benchmark: 10 Models, 100 Black-Box Labs](https://mdpsec.com/blog/ai-bug-bounty-agent-benchmark)
+- [Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study](https://arxiv.org/abs/2505.15389)
+- [Benchmarking 13 AI Models on Known CVE Detection](https://aikido.dev/blog/benchmarking-ai-models-known-cves)
+- [bots-bench - Benchmarking AI Models and Agents for SOC and IR Investigations](https://botsbench.com)
+- [BoxPwnr - benchmarking LLMs and agents on security CTF challenges](https://github.com/0ca/BoxPwnr)
+- [Cisco LLM Security Leaderboard](https://leaderboard.aidefense.cisco.com/rankings)
+- [Cotool BlueBench Windows Enterprise Intrusion benchmark](https://cotool.ai/research/windows-enterprise-intrusion)
+- [CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents](https://microsoft.com/en-us/security/blog/2026/03/20/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents)
+- [CVE-Bench - Benchmarking LLMs on real-world CVE patching](https://giovannigatti.github.io/cve-bench)
+- [ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks](https://arxiv.org/abs/2605.11086)
+- [FusionBench - Benchmark of AI Security Scan Models on a Fixed Vulnerability Corpus](https://fusionbench.vercel.app)
+- [Introducing dfbench v1: A cybersecurity benchmark for frontier models and agentic systems](https://depthfirst.com/research/dfbench-v1)
+- [Introducing EchoBench: A Human-Calibrated Benchmark for Autonomous Pentesting - NetSPI](https://netspi.com/blog/technical-blog/ai-ml-pentesting/introducing-echobench-a-human-calibrated-benchmark-for-autonomous-pentesting)
+- [JailbreakBench - LLM jailbreak robustness benchmark](https://jailbreakbench.github.io)
+- [LLMs Cannot Reliably Detect Vulnerabilities in JavaScript: The First Systematic Benchmark and Evaluation](https://arxiv.org/abs/2512.01255)
+- [PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities](https://arxiv.org/abs/2511.11019)
+- [PWNBench: AI Pentesting Benchmark for 11 Frontier LLMs](https://novee.security/blog/ai-pentesting-benchmark-pwnbench)
+- [Safety and Security Analysis of Large Language Models: Benchmarking Risk Profile and Harm Potential](https://arxiv.org/abs/2509.10655)
+- [SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios](https://arxiv.org/abs/2509.22097)
+- [SnitchBench - AI whistleblower benchmark visualizer](https://snitchbench.t3.gg)
+- [Snyk VulnBench - Benchmark of how reliably AI systems find vulnerabilities](https://vulnbench.com)
+- [Sol Searching - Can Frontier Models Tackle Autonomous Long-Horizon Malware Analysis](https://sentinelone.com/labs/frontier-models-tackle-autonomous-long-horizon-malware-analysis)
+- [T2I-RiskyPrompt: A Benchmark for Safety Evaluation, Attack, and Defense on Text-to-Image Models](https://arxiv.org/abs/2510.22300)
+- [TeleAI-Safety: A comprehensive LLM jailbreaking benchmark towards attacks, defenses, and evaluations](https://arxiv.org/abs/2512.05485)
+- [We burned 11.7bn tokens to find the best cyber AI model - GLM5.3 and DeepSeek are now frontier](https://aikido.dev/blog/ai-model-benchmarks-aug-21-2026)
+- [We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks - Semgrep](https://t.co/a3RrlGqMI6)
 
 ## Evaluation Frameworks
 
@@ -27,12 +53,28 @@ group: Research
 - [Scheming reasoning evaluations — Apollo Research](https://www.apolloresearch.ai/research/scheming-reasoning-evaluations)
 - [eyeballvul: a future-proof benchmark for vulnerability detection in](https://arxiv.org/abs/2407.08708)
 - [Did You Train on My Dataset? Towards Public Dataset Protection with](https://arxiv.org/abs/2303.11470)
+- [Arize Phoenix - open-source AI observability and evaluation](https://github.com/Arize-ai/phoenix)
+- [Dave Kennedy on Model Regression - daily benchmark testing of Claude, GPT, and Grok](https://x.com/hackingdave/status/2062994674093064660)
+- [Evaluating Large Language Models' Abilities to Process and Understand Technical Policy Reports](https://rand.org/pubs/research_reports/RRA4269-1.html)
+- [MatrAIx: Simulating the World with 8.3 Billion Persona Agents](https://arxiv.org/abs/2608.04205)
+- [ModelRegression.com - AI model performance and regression tracker](https://modelregression.com)
+- [Optimal stopping: spending evaluation compute where it counts](https://aisi.gov.uk/blog/optimal-stopping-spending-evaluation-compute-where-it-counts)
+- [Run evaluations from the Microsoft Foundry portal](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/evaluate-generative-ai-app?view=foundry-classic)
+- [SAGE: A Generic Framework for LLM Safety Evaluation](https://arxiv.org/abs/2504.19674)
+- [The Human Creativity Benchmark](https://contralabs.com/research/human-creativity-benchmark)
 
 ## Agent Evaluation
 
 - [DoomArena: A framework for Testing AI Agents Against Evolving Security Threats](https://arxiv.org/abs/2504.14064)
 - [CyberGym: Evaluating AI Agents' Cybersecurity Capabilities with Real-World Vulnerabilities at Scale](https://arxiv.org/abs/2506.02548)
 - [Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design](https://arxiv.org/abs/2504.10112)
+- [CAIBench - A Meta-Benchmark for Evaluating Cybersecurity AI Agents](https://arxiv.org/abs/2510.24317)
+- [CryptoAnalystBench: Failures in Multi-Tool Long-Form LLM Analysis](https://arxiv.org/abs/2602.11304)
+- [Enclave: We Raced Seven AI Models to RCE](https://enclave.ai/hackingrace)
+- [Evaluating Skills, Not Just Agents: Agentic Continuous Evaluation of Skills](https://arxiv.org/abs/2608.20614)
+- [Mine the Gap: Open-Source Tools for Measuring the AI Offense-Defense Gap](https://dreadnode.io/research/mine-the-gap-open-source-tools-for-measuring-the-ai-offense-defense-gap)
+- [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178)
+- [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration](https://arxiv.org/abs/2603.03823)
 
 ---
-*18 resources*
+*60 resources*

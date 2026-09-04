@@ -24,6 +24,11 @@ group: Attacks
 - [Promptfoo](https://github.com/promptfoo/promptfoo)
 - [erjiaxiao/Typographic-Visual-Prompt-Injection-Dataset · Datasets a](https://huggingface.co/datasets/erjiaxiao/Typographic-Visual-Prompt-Injection-Dataset)
 - [Lakera/mosscap_prompt_injection · Datasets at Hugging Face](https://huggingface.co/datasets/Lakera/mosscap_prompt_injection)
+- [AgentDojo - dynamic environment for evaluating prompt injection attacks and defenses in LLM agents](https://agentdojo.spylab.ai)
+- [ASCII Smuggler - Crafting Invisible Text and Decoding Hidden Secrets](https://embracethered.com/blog/ascii-smuggler.html)
+- [Damn Vulnerable LLM Agent - vulnerable ReAct agent for practicing prompt injection](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
+- [GPT Prompt Attack - prompt injection game](https://ggpt.43z.one)
+- [LLMMap - automated prompt injection testing framework, sqlmap-style](https://github.com/Hellsender01/LLMMap)
 
 ## Prompt Injection Datasets
 
@@ -47,6 +52,15 @@ group: Attacks
 - [The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to Analysis](https://arxiv.org/abs/2602.10453)
 - [Learning to Inject: Automated Prompt Injection via Reinforcement Learning](https://arxiv.org/abs/2602.05746)
 - [Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks](https://arxiv.org/abs/2602.14689)
+- [Agent Commander: Promptware-Powered Command and Control](https://embracethered.com/blog/posts/2026/agent-commander-your-agent-works-for-me-now)
+- [Brainworm - promptware hiding in your context window via CLAUDE.md memory files](https://originhq.com/blog/brainworm)
+- [greshake/llm-security - indirect prompt injection attacks on app-integrated LLMs](https://github.com/greshake/llm-security)
+- [Here Comes the AI Worm](https://sites.google.com/view/compromptmized)
+- [Invitation Is All You Need - promptware attacks against LLM-powered assistants in production](https://sites.google.com/view/invitation-is-all-you-need)
+- [New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers)
+- [Prompt Injection as Role Confusion - ICML 2026 project page](https://role-confusion.github.io)
+- [QueryIPI: Query-agnostic Indirect Prompt Injection on Coding Agents](https://arxiv.org/abs/2510.23675)
+- [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems)
 
 ## Prompt Injection Architecture
 
@@ -71,6 +85,8 @@ group: Attacks
 - [New Malware Embeds Prompt Injection to Evade AI Detection - Check P](https://research.checkpoint.com/2025/ai-evasion-prompt-injection/)
 - [Proactive prompt injection de](https://github.com/Yaima/honey-prompt-detector)
 - [Rebuff.ai - Prompt Injection Detector](https://github.com/woop/rebuff)
+- [Continuously hardening ChatGPT Atlas against prompt injection attacks](https://openai.com/index/hardening-atlas-against-prompt-injection)
+- [PhantomLint: Principled Detection of Hidden LLM Prompts in Structured Documents](https://arxiv.org/abs/2508.17884)
 
 ## Prompt Injection General
 
@@ -121,6 +137,17 @@ group: Attacks
 - [timdettmers/guanaco-33b-merged · Hugging Face](https://huggingface.co/timdettmers/guanaco-33b-merged?text=SQL+injections)
 - [Prompt Engineering Jobs](https://prompt-engineering-jobs.com/)
 - [PromptBase - Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stabl](https://promptbase.com/)
+- [CloudSec - Agent Skill Injection offensive technique](https://github.com/eshlomo1/CloudSec/tree/main/01-Offensive-Operations/AI-Exploitation/Agent-skill-injection)
+- [GPT-4 Vision GPT-4V Prompt Injection](https://evren.ninja/gpt4-vision-prompt-injection.html)
+- [Gynvael on asking ChatGPT to reveal its dalle.text2im arguments and tool JSON](https://x.com/gynvael/status/1734869413554258172)
+- [InjectGPT: the most polite exploit ever](https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever)
+- [Joseph Thacker on invisible prompt injection via unicode tags in GPT-4](https://x.com/rez0__/status/1758556246850896185)
+- [jqwik issue: printMessageForCodingAgents - test output visible to AI agents, invisible to humans](https://github.com/jqwik-team/jqwik/issues/708)
+- [LaNyer640/test1 - in-the-wild GitHub README prompt injection payload telling agents to curl a remote host](https://github.com/LaNyer640/test1)
+- [Mitchell Hashimoto poisons AGENTS.md with prompt injections to catch unreviewed AI code](https://x.com/i/status/2067970516951150721)
+- [Role confusion: one more reason we can't trust LLMs](https://designingsecuresoftware.com/writings/role-confusion)
+- [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji)
+- [The Comprehensive Guide to Prompt Injection Attacks in 2026 - Sysdig](https://sysdig.com/learn-cloud-native/prompt-injection)
 
 ---
-*92 resources*
+*119 resources*

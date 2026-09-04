@@ -39,6 +39,17 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [MCP Gateway: Control What AI Can Access - Traefik](https://traefik.io/solutions/mcp-gateway?utm_content=351704635&utm_medium=social&utm_source=twitter&hss_channel=tw-4890312130)
 - [AI-Gateway/labs/mcp-registry-apic-github-workflow at main · Azure-](https://github.com/Azure-Samples/AI-Gateway/tree/main/labs/mcp-registry-apic-github-workflow)
 - [GitHub - metatool-ai/metamcp: MCP Aggregator, Orchestrator, Middlew](https://obot.ai/introducing-the-obot-mcp-gateway/)
+- [Assury - enterprise MCP gateway and governance platform for AI agents](https://assury.ai)
+- [ContexaAI - Firebase for MCP servers, platform to build and deploy MCP servers](https://contexaai.com)
+- [Director - MCP playbooks and gateway for AI agents](https://github.com/director-run/director)
+- [Introducing Solo Enterprise for agentgateway](https://solo.io/blog/introducing-solo-enterprise-for-agentgateway)
+- [JFrog MCP Registry blocks malicious MCP servers and enforces tool permissions for coding agents](https://x.com/i/status/2034263657929146507)
+- [MCP Manager - MCP gateway for security, deployment and observability](https://mcpmanager.ai)
+- [obot issue - Virtual/Composite MCP servers to reduce tool confusion](https://github.com/obot-platform/obot/issues/3553)
+- [Obot MCP Gateway Filters - inspecting and controlling MCP tool calls via webhook filters](https://docs.obot.ai/concepts/admin/filters)
+- [Productize, observe, version, and automate MCP servers in Azure API Management](https://techcommunity.microsoft.com/blog/integrationsonazureblog/productize-observe-version-and-automate-mcp-servers-in-azure-api-management/4526931)
+- [Shared Grok conversation on MCP servers in Azure API Management and how the feature has improved](https://grok.com/share/bGVnYWN5LWNvcHk_69026948-0929-428b-9593-618b40c57505)
+- [Tailscale Aperture GA - model tokens, MCP controls, Projects and custom permissions](https://tailscale.com/blog/aperture-ga)
 
 ## Client-Side Proxies and Secrets Management
 
@@ -49,10 +60,13 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [StrongDM Leash](https://github.com/strongdm/leash)
 - [MCP Defender](https://github.com/MCP-Defender/MCP-Defender)
 - [mcp-proxy - Drop-in Governance Proxy for MCP Tool Servers](https://github.com/Born14/mcp-proxy)
+- [aperion-shield - local MCP guardrail that blocks destructive tool calls from AI coding agents](https://github.com/AperionAI/shield)
+- [mcpguard-dynamic - kernel-level eBPF sandbox for MCP tool calls](https://github.com/facebook/mcpguard-dynamic)
 
 ## IDE Plugins
 
 - [Agentity MCP Audit VSCode Extension](https://audit.agentity.com/) ([source](https://github.com/Agentity-com/mcp-audit-extension))
+- [VS Code 1.123 release notes - enterprise-managed MCP authentication preview](https://code.visualstudio.com/updates/v1_123)
 
 ## Scanners
 
@@ -71,6 +85,10 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [MCP-Checklists/OAuth-Troubleshooting.md at main · MCP-Manager/MCP-](https://github.com/MCP-Manager/MCP-Checklists/blob/main/OAuth-Troubleshooting.md)
 - [General Analysis Launches MCP Guard - General Analysis](https://www.generalanalysis.com/blog/mcpguard)
 - [A comprehensive security scanner f](https://github.com/kapilduraphe/mcp-watch)
+- [ai-security-crew - MCP server injecting security context while vibe coding](https://github.com/Srajangpt1/ai_security_crew)
+- [Akto MCP Security - first dedicated security solution for MCP servers](https://akto.io/learn/first-mcp-security-by-akto)
+- [Luca Beurer-Kellner announces mcp-scan, a security scanner for MCP tool poisoning, rug pulls and shadowing](https://x.com/lbeurerkellner/status/1910379084758343827)
+- [Scanning MCP Servers with ZAP](https://zaproxy.org/blog/2026-05-21-scanning-mcp-servers-with-zap)
 
 ## PAM
 
@@ -91,6 +109,9 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [Jumping the line: How MCP servers can attack you before you ever](https://blog.trailofbits.com/2025/04/21/jumping-the-line-how-mcp-servers-can-attack-you-before-you-ever-use-them/)
 - [Damn Vulnerable](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 - [Damn Vulnerable MCP Server - Intentionally Vulnerable MCP Server for Security Training](https://github.com/Kyze-Labs/damn-vulnerable-MCP-Server)
+- [Luca Beurer-Kellner on an MCP attack on BrowserMCP reading arbitrary files](https://x.com/lbeurerkellner/status/1912145060763742579)
+- [The Mother of All AI Supply Chains: Critical, Systemic Vulnerability at the Core of Anthropic's MCP](https://ox.security/blog/the-mother-of-all-ai-supply-chains-critical-systemic-vulnerability-at-the-core-of-the-mcp)
+- [Trust Me, I'm Local: Chrome Extensions, MCP, and the Sandbox Escape](https://blog.extensiontotal.com/trust-me-im-local-chrome-extensions-mcp-and-the-sandbox-escape-1875a0ee4823)
 
 ## Risk Databases
 
@@ -99,10 +120,28 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [VulnerableMCP.info](https://vulnerablemcp.info/)
 - [MCP Security Document](https://docs.google.com/document/d/1QEmodtLLMyE9xg77aTi_QJn5ulV53mez6eOw_pqGiwA/edit)
 - [MCP Security Info](https://modelcontextprotocol-security.io/)
+- [MseeP.ai - MCP server directory with trust ratings and security scores](https://mseep.ai)
 
 ## Offensive MCP
 
 - [PhantomPipe](https://github.com/mbhatt1/PhantomPipe)
+- [Atomic Red Team MCP #2 - Claude becomes C2](https://cyberbuff.substack.com/p/atomic-red-team-mcp-2-claude-becomes)
+- [atomic-red-team-mcp - MCP server for Atomic Red Team tests](https://github.com/cyberbuff/atomic-red-team-mcp)
+- [Autonomous Vulnerability Hunting with MCP](https://blog.zsec.uk/bullyingllms)
+- [Burp Suite MCP Server with Codex CLI - Pentest Book](https://pentestbook.six2dez.com/others/burp)
+- [burp-mcp-server - Burp Suite MCP server with scan and crawl](https://github.com/dinosn/burp-mcp-server)
+- [Claude Becomes the APT - Atomic Red Team MCP server for adversary emulation](https://cyberbuff.substack.com/p/claude-becomes-the-apt)
+- [GhidraMCP - MCP server for Ghidra reverse engineering](https://github.com/LaurieWired/GhidraMCP)
+- [ghidraMCP: Now AI Can Reverse Malware - LaurieWired](https://youtube.com/watch?v=u2vQapLAW88)
+- [LaNyer640/test2 - malicious MCP server with reverse shell](https://github.com/LaNyer640/test2)
+- [LaNyer640/test3 - MCP server that executes arbitrary shell commands](https://github.com/LaNyer640/test3)
+- [MCP in Burp Suite: From Enumeration to Targeted Exploitation](https://trustedsec.com/blog/mcp-in-burp-suite-from-enumeration-to-targeted-exploitation?hss_channel=tw-403811306)
+- [MCPwned: a Burp Suite extension for auditing MCP servers](https://fenrisk.com/mcpwned-burp-suite-extension-mcp-servers)
+- [Metasploit Framework 6.5 Released](https://rapid7.com/blog/post/pt-metasploit-framework-6-5-released)
+- [oast-mcp - OAST offensive tooling over MCP](https://github.com/dguerri/oast-mcp/blob/main/README.md)
+- [pwno-mcp - Stateful GDB and pwndbg MCP server for autonomous pwn and binary research](https://github.com/pwno-io/pwno-mcp)
+- [sslmate-mcp - MCP server for Certificate Transparency log search and subdomain discovery](https://github.com/joswr1ght/sslmate-mcp)
+- [stealth-browser-mcp - anti-bot bypass browser automation for AI agents](https://github.com/vibheksoni/stealth-browser-mcp)
 
 ## Checklists and Scorecards
 
@@ -110,6 +149,7 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [MCPManager Enterprise Security Review](https://mcpmanager.ai/resources/enterprise-security-review/)
 - [MCP-Manager Checklists](https://github.com/MCP-Manager/MCP-Checklists)
 - [OWASP Guide for Securely Using Third-Party MCP Servers](https://genai.owasp.org/resource/cheatsheet-a-practical-guide-for-securely-using-third-party-mcp-servers-1-0/)
+- [MCP-Friendly OAuth Checker - test whether an MCP server is fully OAuth compatible](https://mcp.agent-friendly.com)
 
 ## Research
 
@@ -143,6 +183,11 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [MCP-ITP: Implicit Tool Poisoning in MCP](https://arxiv.org/abs/2601.07395)
 - [MCP Bridge: Lightweight LLM-Agnostic RESTful Proxy](https://arxiv.org/abs/2504.08999)
 - [SMCP: Secure Model Context Protocol](https://arxiv.org/abs/2602.01129)
+- [Exposed MCP Servers Reveal New AI Vulnerabilities - Bitsight TRACE](https://bitsight.com/blog/exposed-mcp-servers-reveal-new-ai-vulnerabilities)
+- [How are AI agents used? Evidence from 177,000 MCP tools](https://arxiv.org/abs/2603.23802)
+- [MCP-38: A Comprehensive Threat Taxonomy for Model Context Protocol Systems](https://arxiv.org/abs/2603.18063)
+- [MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent](https://arxiv.org/abs/2512.15144)
+- [Semantic Attacks on Tool-Augmented LLMs: Securing the Model Context Protocol Against Descriptor-Level Manipulation](https://arxiv.org/abs/2512.06556)
 
 ## General Reading
 
@@ -247,3 +292,62 @@ Security resources specific to the Model Context Protocol ecosystem.
 - [Chrome 146 includes an early preview of WebMCP, accessible via a flag,](https://x.com/firt/status/2020903127428313461?s=61&t=o83JrWtW5bWFMFSrHYuyrQ)
 - [Maybe now people will see why you don't want many MCPs\.](https://x.com/steipete/status/1958679613489524952?s=46&t=HEqLHVfVHBfb1Ti5KJVPZw)
 - [ODR: Internals of Microsoft's New Native MCP Registration](https://www.originhq.com/blog/msft-odr-mcp)
+- [5ire - open source desktop AI assistant and MCP client](https://5ire.app)
+- [agentregistry - cloud-native registry for MCP servers, agents and skills](https://github.com/cncf/sandbox/issues/477)
+- [Authenticating MCP Servers With Microsoft Entra ID](https://den.dev/blog/auth-modelcontextprotocol-entra-id)
+- [Centrally manage authorization for MCP connectors](https://claude.com/blog/enterprise-managed-auth)
+- [CLI vs MCP: How AI Agents Choose the Right Tool for the Job - IBM Technology](https://youtube.com/watch?v=g9JIUM0MHgQ)
+- [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode)
+- [Enterprise-Ready MCP](https://aaronparecki.com/2025/05/12/27/enterprise-ready-mcp)
+- [FeatBit MCP Server](https://github.com/featbit/featbit-mcp)
+- [Florian Buhringer on injecting policy into code-mode MCP with executor.sh](https://x.com/capeflow/status/2043591308716253444)
+- [goose - 'code mode' MCP tool calling platform extension, PR #6030](https://github.com/block/goose/pull/6030)
+- [Guillaume Laforge on the new MCP spec: stateless core, extensions, hardened authorization](https://x.com/glaforge/status/2057751443893858595)
+- [IETF Draft: Security Considerations for Model Context Protocol Implementations in AI Agent Systems](https://datatracker.ietf.org/doc/draft-mohiuddin-mcp-security-considerations)
+- [Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide)
+- [itszn: Claude reversing a binary with Binary Ninja via MCP](https://x.com/itszn13/status/1903227860648886701)
+- [Jeff Weinstein: Stripe lets developers monetize MCP servers with subscription or usage billing](https://x.com/jeff_weinstein/status/1918029261430255626)
+- [Lokka - MCP server bringing Microsoft Graph to AI agents](https://lokka.dev)
+- [Making a Model Context Protocol server more robust, and much more private](https://tailscale.com/blog/model-for-mcp-connectivity-lee-briggs)
+- [Maximiliano Firtman on Starbucks' MCP App in ChatGPT, a web mini-app served through an MCP server](https://x.com/firt/status/2045176577663598965)
+- [MCP Apps - official spec and SDK for interactive UIs served by MCP servers](https://github.com/modelcontextprotocol/ext-apps)
+- [MCP Enterprise-Managed Authorization](https://modelcontextprotocol.io/extensions/auth/enterprise-managed-authorization)
+- [MCP in LM Studio](https://lmstudio.ai/blog/lmstudio-v0.3.17)
+- [MCP Registry ecosystem vision design doc](https://github.com/modelcontextprotocol/registry/blob/main/docs/design/ecosystem-vision.md)
+- [mcp-anywhere - browser and edge compatible TypeScript SDK for MCP](https://npmjs.com/package/mcp-anywhere)
+- [mcp-openapi-server - MCP server exposing OpenAPI endpoints as MCP tools](https://github.com/ivo-toby/mcp-openapi-server)
+- [NewsBlur launches CLI tool, Claude skill and MCP server](https://x.com/newsblur/status/2039474454431154645)
+- [NSA - MCP Security Design Considerations for AI-Driven Automation](https://nsa.gov/Portals/75/documents/Cybersecurity/CSI_MCP_SECURITY.pdf)
+- [OpenAI WebMCP Challenge - build agent-ready web apps](https://openai.com/webmcp-challenge)
+- [OpenClaw on giving agents live Chrome sessions via Chrome DevTools MCP - tabs, cookies, logins](https://x.com/i/status/2032694261993427260)
+- [Orca Security - GenAI-powered cloud telemetry with Anthropic's Model Context Protocol](https://orca.security/resources/blog/innovating-genai-cloud-telemetry-model-context-protocol)
+- [Parag Agrawal - Parallel's web search MCP is now free with no auth](https://x.com/paraga/status/2047451217996206441)
+- [patch-tuesday-mcp - MCP server for Microsoft Patch Tuesday CVEs with EPSS and CISA KEV enrichment](https://github.com/jonnybottles/patch-tuesday-mcp)
+- [Petr Baudis: Chrome 146 lets you expose your live browsing session to CLI agents via MCP](https://x.com/xpasky/status/2032252486145253865)
+- [pyghidra-mcp Meets Ghidra GUI: Drive Project-Wide RE with Local AI](https://clearbluejar.github.io/posts/pyghidra-mcp-meets-ghidra-gui-drive-project-wide-re-with-local-ai)
+- [Sam Altman: OpenAI adding MCP support across products, starting with the Agents SDK](https://x.com/sama/status/1904957253456941061)
+- [Scaling MCP adoption: Cloudflare's reference architecture for safer enterprise MCP deployments](https://blog.cloudflare.com/enterprise-mcp)
+- [Secure Annex MCP server - John Tuckner](https://youtube.com/watch?v=f2nT9FwwbgM)
+- [Securing MCP: A Control Plane for Agent Tool Execution](https://developer.microsoft.com/blog/securing-mcp-a-control-plane-for-agent-tool-execution)
+- [SEP-1597: HTTP REST Transport for MCP](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/1597)
+- [SEP-1612: Fully Compliant and Backward-Compatible Pure HTTP Transport for MCP](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/1612)
+- [SQL MCP Server overview - Azure Data API builder](https://learn.microsoft.com/en-us/azure/data-api-builder/mcp/overview)
+- [Strava launches MCP connector to sync training history to Claude](https://press.strava.com/articles/strava-launches-mcp-connector)
+- [The 2026-07-28 Model Context Protocol Specification](https://blog.modelcontextprotocol.io/posts/2026-07-28)
+- [The Context Episode 10 ft. Daisy Health and MCP Manager - Agentic AI Foundation](https://youtube.com/watch?v=z7g_WnqyzMo)
+- [The New MCP Specification: What Security Teams Must Prepare For](https://akamai.com/blog/security-research/new-mcp-specification-security-teams-must-prepare)
+- [Thomas Roccia on MCP for cybersecurity - ORKL, Shodan, VirusTotal and Maigret MCP servers](https://x.com/fr0gger_/status/1899588470835921040)
+- [WebMCP - JavaScript tools for AI agents in web apps](https://webmachinelearning.github.io/webmcp)
+- [WebMCP documentation - browser tools for AI agents](https://docs.mcp-b.ai/introduction)
+- [WebMCP is available for early preview - Chrome for Developers](https://developer.chrome.com/blog/webmcp-epp)
+- [What if you don't need MCP at all](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp)
+
+## MCP Servers
+
+- [Apple PIM - MCP server for macOS Calendar, Reminders, Contacts and Mail](https://apple-pim.omarknows.app)
+- [Cssh - lightweight MCP server that lets Claude, Codex and other agents work on remote servers over SSH](https://github.com/Zero-noise/Cssh)
+- [EPSS-MCP - MCP server returning CVE details with EPSS scores](https://github.com/jgamblin/EPSS-MCP)
+- [gimp-mcp - GIMP MCP server for AI agents](https://github.com/maorcc/gimp-mcp)
+- [GitMCP - free remote MCP server for any GitHub project to reduce code hallucinations](https://github.com/idosal/git-mcp)
+- [Introducing the Safari MCP server for web developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers)
+- [tinymcp - let LLMs control embedded devices via the Model Context Protocol](https://github.com/golioth/tinymcp)

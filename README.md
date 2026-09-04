@@ -49,7 +49,7 @@ A curated collection of resources covering AI security, LLM safety, prompt injec
 - [Privacy](practice/privacy/README.md) -- Data leakage, PII protection, and exfiltration
 
 ### General
-- [General Reading](general/README.md) -- Blog posts, talks, opinion, and commentary
+- [General Reading](general/README.md) -- Blog posts, talks, opinion, commentary, and security news
 
 ---
 

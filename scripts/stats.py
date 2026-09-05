@@ -100,22 +100,22 @@ def sources(domains):
 
 
 def growth():
-    cache_p = ASSETS / "growth.json"
-    cache = json.loads(cache_p.read_text()) if cache_p.exists() else {}
+    """(date, unique URL count) for every commit that changed the count. Recomputed from git each run
+    (no cache file), so a commit that does not add or remove links leaves the chart byte-identical."""
     log = subprocess.run(["git", "log", "--reverse", "--format=%H %ad", "--date=short"], cwd=ROOT,
                          capture_output=True, text=True).stdout.split("\n")
-    rows = []
+    rows, prev = [], None
     for line in log:
         if not line.strip():
             continue
         sha, date = line.split()
-        if sha not in cache:
-            out = subprocess.run(["git", "grep", "-h", "-o", "-E", r"https?://[^ )>\"'|]+", sha, "--", "*.md",
-                                  ":(exclude)README.md", ":(exclude)vault", ":(exclude).claude", ":(exclude)agents.md"],
-                                 cwd=ROOT, capture_output=True, text=True).stdout
-            cache[sha] = [date, len(set(out.split()))]
-        rows.append((cache[sha][0], cache[sha][1]))
-    cache_p.write_text(json.dumps(cache, indent=0))
+        out = subprocess.run(["git", "grep", "-h", "-o", "-E", r"https?://[^ )>\"'|]+", sha, "--", "*.md",
+                              ":(exclude)README.md", ":(exclude)vault", ":(exclude).claude", ":(exclude)agents.md"],
+                             cwd=ROOT, capture_output=True, text=True).stdout
+        n = len(set(out.split()))
+        if n != prev:
+            rows.append((date, n))
+            prev = n
     return rows
 
 

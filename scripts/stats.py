@@ -398,7 +398,9 @@ def main():
     total = len(all_urls)
     buckets = sources(domains)
     rows = growth()
-    updated = dt.date.today().isoformat()
+    # date of the last commit that touched a category file, so CI re-runs are idempotent
+    updated = subprocess.run(["git", "log", "-1", "--format=%ad", "--date=short", "--", *[c["path"] for c in cats]],
+                             cwd=ROOT, capture_output=True, text=True).stdout.strip() or dt.date.today().isoformat()
     ASSETS.mkdir(exist_ok=True)
     (ASSETS / "banner.svg").write_text(svg_banner(total, len(cats), sum(len(c["sections"]) for c in cats), updated))
     for dark in (True, False):

@@ -29,7 +29,7 @@
   <img alt="sections: 108" src="https://img.shields.io/badge/sections-108-c77dff?style=for-the-badge&labelColor=0b0e14">
   <img alt="papers: 570" src="https://img.shields.io/badge/papers-570-ff3b6b?style=for-the-badge&labelColor=0b0e14">
   <img alt="repos: 1,155" src="https://img.shields.io/badge/repos-1%2C155-ffb020?style=for-the-badge&labelColor=0b0e14">
-  <img alt="updated: 2026-09-05" src="https://img.shields.io/badge/updated-2026--09--05-9aa4b2?style=for-the-badge&labelColor=0b0e14">
+  <img alt="updated: 2026-09-04" src="https://img.shields.io/badge/updated-2026--09--04-9aa4b2?style=for-the-badge&labelColor=0b0e14">
 </p>
 
 <table align="center"><tr>

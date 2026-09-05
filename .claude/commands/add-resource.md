@@ -105,9 +105,9 @@ For each link, append it to the end of the appropriate subsection in its target 
 
 Use the Edit tool to make each change. Do not rewrite entire files.
 
-## Step 5: Sync Obsidian Vault
+## Step 5: Sync Obsidian Vault and Stats
 
-Run `python3 scripts/sync-vault.py` to regenerate the Obsidian vault from the updated READMEs.
+Run `python3 scripts/sync-vault.py` to regenerate the Obsidian vault from the updated READMEs, then `python3 scripts/stats.py` to refresh the link counts, charts (`assets/`), and the stats block in the root README.
 
 ## Step 6: Commit and Push
 

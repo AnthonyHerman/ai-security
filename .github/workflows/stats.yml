@@ -1,0 +1,29 @@
+name: Refresh corpus stats
+
+on:
+  push:
+    branches: [main]
+    paths: ["**/README.md", "scripts/stats.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/stats.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md assets
+          git diff --cached --quiet || git commit -m "Refresh corpus stats [skip ci]" && git push

@@ -1,1 +1,3 @@
 .serena/
+_site/
+scripts/__pycache__/

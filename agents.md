@@ -137,7 +137,7 @@ When the user provides multiple links at once:
 
 ## Slash Command
 
-The `/add-resource` command (defined in `.claude/commands/add-resource.md`) automates the full workflow:
+The `/add-resource` command (defined in `.claude/commands/add-resource.md`; port it to your agent of choice) automates the full workflow:
 
 ```
 /add-resource https://example.com/some-article

@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://anthonyherman.github.io/ai-security-corpus/"><b>Browse the site</b></a> ·
   <a href="#-foundations">Foundations</a> ·
   <a href="#-attacks">Attacks</a> ·
   <a href="#-defense">Defense</a> ·
@@ -242,9 +243,10 @@ Every category is a plain markdown file of `- [Title](url)` lines under `## ` se
 
 | What | How |
 |---|---|
-| Add links | `/add-resource <url> [url2] ...` — a [Claude Code](https://claude.com/claude-code) command that fetches titles, classifies each link into the right file and section, and commits |
+| Add links | `/add-resource <url> [url2] ...` — an agent command that fetches titles, classifies each link into the right file and section, and commits. The rules live in [`agents.md`](agents.md), so any coding agent that reads it can do the same |
 | Search | `/search-resources <query>` — grep across every category file |
 | Obsidian vault | `python3 scripts/sync-vault.py` regenerates [`vault/`](vault/) with one note per category, wiki-linked and tagged |
+| Website | `python3 scripts/build-site.py` renders every category to a static page at [anthonyherman.github.io/ai-security-corpus](https://anthonyherman.github.io/ai-security-corpus/) with client-side search (deployed by CI on every push) |
 | Stats and charts | `python3 scripts/stats.py` recounts the corpus, redraws the SVGs in [`assets/`](assets/), and rewrites the numbers above (also runs in CI on every push) |
 
 <p align="center"><sub>Links are added, not endorsed. Some of them are wrong, some are marketing, some are exploits. That is the corpus.</sub></p>

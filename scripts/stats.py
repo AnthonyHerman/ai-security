@@ -303,7 +303,7 @@ def svg_banner(total, ncat, nsec, updated):
   <text class="title ghost" x="600" y="150" text-anchor="middle" fill="#ff3b6b">AI SECURITY</text>
   <text class="title ghost" style="animation-delay:.15s" x="600" y="150" text-anchor="middle" fill="#00d4ff">AI SECURITY</text>
   <text class="title" x="600" y="150" text-anchor="middle" fill="#f4fff8" filter="url(#glow)">AI SECURITY</text>
-  <text x="600" y="180" text-anchor="middle" font-size="14" letter-spacing="8" fill="#2ee38a">THE COMPENDIUM</text>
+  <text x="600" y="180" text-anchor="middle" font-size="14" letter-spacing="8" fill="#2ee38a">THE CORPUS</text>
   {"".join(typed)}
   <text class="stat" x="600" y="272" text-anchor="middle"><tspan class="num">{fmt(total)}</tspan> LINKS   ·   <tspan class="num">{ncat}</tspan> CATEGORIES   ·   <tspan class="num">{nsec}</tspan> SECTIONS   ·   UPDATED <tspan class="num">{updated}</tspan></text>
   <text x="24" y="30" font-size="14" fill="#2ee38a" opacity="0.7">┌──</text><text x="{W - 24}" y="30" text-anchor="end" font-size="14" fill="#2ee38a" opacity="0.7">──┐</text>
@@ -357,7 +357,7 @@ def render_stats(cats, total, buckets, rows, recents, updated):
     for d, title, url in recents:
         o.append(f"- `{d}` [{title}]({url})")
     o.append("\n</details>\n")
-    o.append("```mermaid\nmindmap\n  root((AI Security · " + fmt(total) + " links))")
+    o.append("```mermaid\nmindmap\n  root((AI Security Corpus · " + fmt(total) + " links))")
     for g in GROUPS:
         gc = [c for c in cats if c["group"] == g]
         if not gc:

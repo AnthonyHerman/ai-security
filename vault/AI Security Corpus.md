@@ -2,7 +2,7 @@
 tags: [moc, index]
 ---
 
-# AI Security
+# AI Security Corpus
 
 *A curated collection of resources covering AI security, LLM safety, prompt injection, agent security, secure coding practices, and related topics.*
 

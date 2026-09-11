@@ -1,5 +1,5 @@
 """
-Sync the AI Security repo READMEs into an Obsidian vault.
+Sync the AI Security Corpus repo READMEs into an Obsidian vault.
 
 Reads each category README.md, extracts sections and links,
 and writes corresponding Obsidian notes with frontmatter and wiki-links.
@@ -149,7 +149,7 @@ def build_moc(categories: list[dict]) -> str:
     lines.append("tags: [moc, index]")
     lines.append("---")
     lines.append("")
-    lines.append("# AI Security")
+    lines.append("# AI Security Corpus")
     lines.append("")
     lines.append("*A curated collection of resources covering AI security, LLM safety, prompt injection, agent security, secure coding practices, and related topics.*")
     lines.append("")
@@ -207,7 +207,7 @@ def build_canvas(categories: list[dict]) -> str:
     nodes.append({
         "id": moc_id,
         "type": "file",
-        "file": "AI Security.md",
+        "file": "AI Security Corpus.md",
         "x": 1400,
         "y": -200,
         "width": 300,
@@ -313,7 +313,7 @@ def sync():
         note_path.write_text(content, encoding="utf-8")
 
     # Write MOC
-    moc_path = VAULT_DIR / "AI Security.md"
+    moc_path = VAULT_DIR / "AI Security Corpus.md"
     moc_path.write_text(build_moc(categories), encoding="utf-8")
 
     # Write canvas

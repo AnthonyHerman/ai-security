@@ -1,8 +1,10 @@
-<p align="center"><img alt="AI Security — the compendium" src="assets/banner.svg" width="100%"></p>
+<p align="center"><img alt="AI Security Corpus" src="assets/banner.svg" width="100%"></p>
+
+<h1 align="center">AI Security Corpus</h1>
 
 <p align="center">
-  <b>A curated corpus of AI security knowledge: prompt injection, agent and MCP security, model attacks, supply chain, defense, governance, research, and the tooling around all of it.</b><br>
-  <sub>One person's reading list that got out of hand. No gatekeeping: if it is even remotely about AI and/or security, it goes in.</sub>
+  <b>5,660 links on AI security: prompt injection, LLM and AI agent security, MCP, coding agents, agent skills and supply chain, red teaming, guardrails, sandboxing, incidents and CVEs, governance.</b><br>
+  <sub>One person's reading list that got out of hand. No gatekeeping: if it is even remotely about AI and/or security, it goes in. Added, not endorsed.</sub>
 </p>
 
 <p align="center">
@@ -75,7 +77,7 @@
 
 ```mermaid
 mindmap
-  root((AI Security · 5,660 links))
+  root((AI Security Corpus · 5,660 links))
     Foundations · 297
       Frameworks and Standards · 95
       Governance and Policy · 138
@@ -246,5 +248,7 @@ Every category is a plain markdown file of `- [Title](url)` lines under `## ` se
 | Stats and charts | `python3 scripts/stats.py` recounts the corpus, redraws the SVGs in [`assets/`](assets/), and rewrites the numbers above (also runs in CI on every push) |
 
 <p align="center"><sub>Links are added, not endorsed. Some of them are wrong, some are marketing, some are exploits. That is the corpus.</sub></p>
+
+<p align="center"><sub>Licensed <a href="LICENSE">CC BY 4.0</a>: fork it, grep it, republish it, just link back.</sub></p>
 
 <p align="right"><a href="#by-the-numbers">↑ back to top</a></p>

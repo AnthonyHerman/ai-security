@@ -1,12 +1,12 @@
 ---
-description: Add a new resource link to the AI security compendium with proper title and classification
+description: Add a new resource link to the AI Security Corpus with proper title and classification
 argument-hint: <url> [url2] [url3] ...
 allowed-tools: [WebFetch, Read, Edit, Write, Glob, Grep, AskUserQuestion, Bash]
 ---
 
 # Add Resource
 
-You are adding a new resource link to the AI security compendium.
+You are adding a new resource link to the AI Security Corpus.
 
 The user provided: $ARGUMENTS
 

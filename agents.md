@@ -1,8 +1,8 @@
-# AI Security Compendium - Agent Instructions
+# AI Security Corpus - Agent Instructions
 
 ## About This Repo
 
-This is a curated personal compendium of knowledge primarily focused on AI security, but also covering broader AI topics that are valuable to the maintainer. The primary audience is the repo owner. There is **no gatekeeping** on what gets added -- if the owner wants to add something, it gets added. Period.
+This is a personal corpus of AI security knowledge (the repo is `ai-security-corpus`), primarily focused on AI security, but also covering broader AI topics that are valuable to the maintainer. The primary audience is the repo owner. There is **no gatekeeping** on what gets added -- if the owner wants to add something, it gets added. Period.
 
 ## Repo Structure
 

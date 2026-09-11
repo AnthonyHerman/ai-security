@@ -1,12 +1,12 @@
 ---
-description: Search the AI security compendium for resources matching a query
+description: Search the AI Security Corpus for resources matching a query
 argument-hint: <search query>
 allowed-tools: [Grep, Read, Glob]
 ---
 
 # Search Resources
 
-Search the AI security compendium for resources matching the user's query.
+Search the AI Security Corpus for resources matching the user's query.
 
 The user searched for: $ARGUMENTS
 
